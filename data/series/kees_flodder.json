@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kees_flodder",
+  "title": "Kees Flodder",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136379167",
+    "imdb": "tt38141577",
+    "tmdb": 305866
+  },
+  "last_updated": "2026-08-17"
+}
