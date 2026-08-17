@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scurvy_film_2026",
+  "title": "Scurvy (film)",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140420069",
+    "imdb": "tt33400060",
+    "tmdb": 1545877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

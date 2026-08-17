@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seis_meses_en_el_edificio_rosa_con_azul_2026",
+  "title": "Seis meses en el edificio rosa con azul",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139586785",
+    "imdb": "tt41742035",
+    "tmdb": 1025407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

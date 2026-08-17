@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sebelum_dijemput_nenek_2026",
+  "title": "Sebelum Dijemput Nenek",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137727348",
+    "imdb": "tt38839304",
+    "tmdb": 1571393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-22",
+  "runtime_minutes": 103
+}

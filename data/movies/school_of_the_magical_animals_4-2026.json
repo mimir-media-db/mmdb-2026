@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_of_the_magical_animals_4_2026",
+  "title": "School of the Magical Animals 4",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136431523",
+    "imdb": "tt35286242",
+    "tmdb": 1280525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-12",
+  "runtime_minutes": 98
+}

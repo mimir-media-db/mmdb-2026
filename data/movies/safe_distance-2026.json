@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_safe_distance_2026",
+  "title": "A Safe Distance",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140484511",
+    "imdb": "tt32437785",
+    "tmdb": 1322768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiderman_brand_new_day_2026",
+  "title": "Spider-Man: Brand New Day",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113244935",
+    "imdb": "tt22084616",
+    "tmdb": 969681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-29",
+  "runtime_minutes": 145
+}

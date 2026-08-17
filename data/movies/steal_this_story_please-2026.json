@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_steal_this_story_please_2026",
+  "title": "Steal This Story, Please!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136785187",
+    "imdb": "tt36748956"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-10",
+  "runtime_minutes": 98
+}

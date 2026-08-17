@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stop_that_train_2026",
+  "title": "Stop! That! Train!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137648596",
+    "imdb": "tt38128726",
+    "tmdb": 1541560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-12"
+}

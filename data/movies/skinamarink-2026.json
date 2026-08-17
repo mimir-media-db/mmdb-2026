@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skinamarink_2026",
+  "title": "Skinamarink",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115818765",
+    "imdb": "tt21307994",
+    "tmdb": 994143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-23",
+  "runtime_minutes": 100
+}

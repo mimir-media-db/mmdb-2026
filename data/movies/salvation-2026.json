@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salvation_2026",
+  "title": "Salvation",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138031189",
+    "imdb": "tt36472181",
+    "tmdb": 1401106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 120
+}

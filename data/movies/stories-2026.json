@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stories_2026",
+  "title": "The Stories",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137570235",
+    "imdb": "tt37679242",
+    "tmdb": 1329071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-17"
+}

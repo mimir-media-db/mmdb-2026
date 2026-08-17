@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_storm_2026",
+  "title": "The Storm",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134598725",
+    "imdb": "tt37070354",
+    "tmdb": 1623256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

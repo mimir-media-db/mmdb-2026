@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_safe_house_2026",
+  "title": "The Safe House",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130417367",
+    "imdb": "tt31566788",
+    "tmdb": 1266809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-29",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_drift_2026",
+  "title": "Summer drift",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139785422",
+    "imdb": "tt41855444",
+    "tmdb": 1670436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

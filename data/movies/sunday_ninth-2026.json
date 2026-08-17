@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunday_ninth_2026",
+  "title": "Sunday Ninth",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136678351",
+    "imdb": "tt31944539",
+    "tmdb": 1470694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-11"
+}

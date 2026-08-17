@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_succession_film_2026_2026",
+  "title": "Succession (film, 2026)",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138201578",
+    "imdb": "tt38651972",
+    "tmdb": 1568185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 8
+}

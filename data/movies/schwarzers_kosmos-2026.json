@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_schwarzers_kosmos_2026",
+  "title": "Schwarzers Kosmos",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140693161",
+    "imdb": "tt43609123"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-27",
+  "runtime_minutes": 90
+}

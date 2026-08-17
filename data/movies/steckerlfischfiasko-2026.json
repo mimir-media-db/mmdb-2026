@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_steckerlfischfiasko_2026",
+  "title": "Steckerlfischfiasko",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121287805",
+    "imdb": "tt38884015",
+    "tmdb": 1328335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-13"
+}
