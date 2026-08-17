@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_al_hayba_ras_al_jabal",
+  "title": "Al Hayba: Ras Al Jabal",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140274668",
+    "imdb": "tt41043655",
+    "tmdb": 310575
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

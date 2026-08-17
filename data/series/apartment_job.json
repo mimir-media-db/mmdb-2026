@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_apartment_job",
+  "title": "The Apartment Job",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139455537",
+    "imdb": "tt43357366",
+    "tmdb": 300727
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
