@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_i_2026",
+  "title": "This is I",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138299163",
+    "imdb": "tt39196792",
+    "tmdb": 1570282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-10",
+  "runtime_minutes": 130
+}

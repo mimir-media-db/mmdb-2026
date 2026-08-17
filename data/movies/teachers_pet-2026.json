@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_teachers_pet_2026",
+  "title": "Teacher's Pet",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137836704",
+    "imdb": "tt28362647",
+    "tmdb": 1168405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-06"
+}

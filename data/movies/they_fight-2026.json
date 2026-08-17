@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_they_fight_2026",
+  "title": "They Fight",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139547613",
+    "imdb": "tt10370856",
+    "tmdb": 1587964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-08",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_goodbyes_2026",
+  "title": "Three Goodbyes",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135436958",
+    "imdb": "tt35705184",
+    "tmdb": 1433339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-20",
+  "runtime_minutes": 120
+}

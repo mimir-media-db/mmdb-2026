@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_me_everything_2026",
+  "title": "Tell Me Everything",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137600012",
+    "imdb": "tt39149971",
+    "tmdb": 1404400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-25",
+  "runtime_minutes": 109
+}

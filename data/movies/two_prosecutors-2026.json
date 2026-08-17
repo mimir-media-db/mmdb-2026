@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_prosecutors_2026",
+  "title": "Two Prosecutors",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133852989",
+    "imdb": "tt35521200",
+    "tmdb": 1257406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-19",
+  "runtime_minutes": 117
+}

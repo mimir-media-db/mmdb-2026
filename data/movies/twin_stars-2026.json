@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twin_stars_2026",
+  "title": "Twin Stars",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139816881",
+    "imdb": "tt36283801",
+    "tmdb": 1549128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-14",
+  "runtime_minutes": 109
+}

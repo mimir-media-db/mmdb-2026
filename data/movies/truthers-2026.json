@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_truthers_2026",
+  "title": "The Truthers",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140248600",
+    "imdb": "tt41111628",
+    "tmdb": 1659155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-24"
+}

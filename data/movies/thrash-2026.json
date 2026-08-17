@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thrash_2026",
+  "title": "Thrash",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130720030",
+    "imdb": "tt32362890",
+    "tmdb": 1290417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-10"
+}

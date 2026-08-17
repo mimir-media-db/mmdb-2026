@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_quick_breaths_2026",
+  "title": "Three Quick Breaths",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132146973",
+    "imdb": "tt35566934",
+    "tmdb": 1428893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-13"
+}
