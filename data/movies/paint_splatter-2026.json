@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paint_splatter_2026",
+  "title": "Paint Splatter!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140373659",
+    "imdb": "tt43608098"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-30",
+  "runtime_minutes": 11
+}

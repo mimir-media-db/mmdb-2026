@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pecadora_2026",
+  "title": "Pecadora",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140319546",
+    "imdb": "tt34384168",
+    "tmdb": 1401334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-11-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_popemobile_2026",
+  "title": "Popemobile",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135551646",
+    "imdb": "tt37646592",
+    "tmdb": 1186640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-28",
+  "runtime_minutes": 86
+}

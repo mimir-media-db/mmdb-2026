@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_2026",
+  "title": "Paradise",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137783841",
+    "imdb": "tt27027989",
+    "tmdb": 1026933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-14"
+}

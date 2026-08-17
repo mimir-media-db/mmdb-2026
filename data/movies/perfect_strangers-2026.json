@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_strangers_2026",
+  "title": "Perfect Strangers",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138312508",
+    "imdb": "tt38351768",
+    "tmdb": 1536679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-16",
+  "runtime_minutes": 90
+}

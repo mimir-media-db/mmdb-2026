@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pale_view_of_hills_2026",
+  "title": "A Pale View of Hills",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133871350",
+    "imdb": "tt33253688",
+    "tmdb": 1337985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-30",
+  "runtime_minutes": 123
+}

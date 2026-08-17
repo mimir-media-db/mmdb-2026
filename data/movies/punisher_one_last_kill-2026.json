@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punisher_one_last_kill_2026",
+  "title": "The Punisher: One Last Kill",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135411818",
+    "imdb": "tt36042156",
+    "tmdb": 1439930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-12",
+  "runtime_minutes": 51
+}

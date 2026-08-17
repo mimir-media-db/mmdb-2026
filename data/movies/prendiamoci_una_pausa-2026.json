@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prendiamoci_una_pausa_2026",
+  "title": "Prendiamoci una pausa",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137821503",
+    "imdb": "tt37540986",
+    "tmdb": 1523070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-15",
+  "runtime_minutes": 100
+}
