@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_quiet_nava",
+  "title": "Quiet Nava",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136774219",
+    "imdb": "tt38036256",
+    "tmdb": 310537
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}
