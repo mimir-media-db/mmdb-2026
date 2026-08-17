@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bombonera_2026",
+  "title": "Bombonera",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140706238",
+    "imdb": "tt43442227",
+    "tmdb": 1331345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-05"
+}

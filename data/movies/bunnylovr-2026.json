@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bunnylovr_2026",
+  "title": "Bunnylovr",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131278836",
+    "imdb": "tt33998099",
+    "tmdb": 1364297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-10",
+  "runtime_minutes": 86
+}

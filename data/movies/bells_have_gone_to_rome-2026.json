@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bells_have_gone_to_rome_2026",
+  "title": "The Bells Have Gone to Rome",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q466334",
+    "imdb": "tt0051699",
+    "tmdb": 406039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-15",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_backrooms_2026",
+  "title": "Backrooms",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125131076",
+    "imdb": "tt26657236",
+    "tmdb": 1083381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-07",
+  "runtime_minutes": 110
+}

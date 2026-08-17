@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beloved_2026",
+  "title": "The Beloved",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132240260",
+    "imdb": "tt33451014",
+    "tmdb": 1074074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-16"
+}

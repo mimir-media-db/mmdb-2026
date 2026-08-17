@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baba_2026",
+  "title": "Baba",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139815629",
+    "imdb": "tt42577020",
+    "tmdb": 1539084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-19"
+}

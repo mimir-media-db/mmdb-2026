@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brink_of_war_2026",
+  "title": "The Brink of War",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130537578",
+    "imdb": "tt33070884",
+    "tmdb": 192139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-14"
+}

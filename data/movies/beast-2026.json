@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beast_2026",
+  "title": "Beast",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132322744",
+    "imdb": "tt7708226",
+    "tmdb": 1292415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-10",
+  "runtime_minutes": 113
+}

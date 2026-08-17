@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_by_design_2026",
+  "title": "By Design",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131429167",
+    "imdb": "tt33365660",
+    "tmdb": 1355496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-13",
+  "runtime_minutes": 92
+}

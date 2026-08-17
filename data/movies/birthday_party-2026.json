@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birthday_party_2026",
+  "title": "The Birthday Party",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139078113",
+    "imdb": "tt30495381",
+    "tmdb": 1191818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-22"
+}

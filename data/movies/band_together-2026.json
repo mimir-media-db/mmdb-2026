@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_band_together_2026",
+  "title": "Band Together",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134972718",
+    "imdb": "tt29300998",
+    "tmdb": 1437873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-16",
+  "runtime_minutes": 112
+}

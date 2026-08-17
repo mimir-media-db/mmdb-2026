@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boulevard_2026",
+  "title": "Boulevard",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138767249",
+    "imdb": "tt38235625",
+    "tmdb": 1595852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-10"
+}
