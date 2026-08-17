@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_gate24the_border",
+  "title": "GATE24:The Border",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139913913",
+    "tmdb": 323579
+  },
+  "last_updated": "2026-08-17"
+}
