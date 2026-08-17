@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_company_tv_series",
+  "title": "Bad Company (TV series)",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139915238",
+    "imdb": "tt38453191",
+    "tmdb": 317670
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

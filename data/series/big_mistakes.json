@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_big_mistakes",
+  "title": "Big Mistakes",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135984985",
+    "imdb": "tt36957934",
+    "tmdb": 291506
+  },
+  "last_updated": "2026-08-17"
+}
