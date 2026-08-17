@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_future_council_2026",
+  "title": "Future Council",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140137214",
+    "imdb": "tt32757385",
+    "tmdb": 1319849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-04",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_follies_2026",
+  "title": "Follies",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135321330",
+    "imdb": "tt37537634",
+    "tmdb": 1403189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-01"
+}

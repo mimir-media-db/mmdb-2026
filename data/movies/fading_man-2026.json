@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fading_man_2026",
+  "title": "A Fading Man",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138011200",
+    "imdb": "tt39602467",
+    "tmdb": 1530193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-29"
+}

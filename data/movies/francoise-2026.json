@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_francoise_2026",
+  "title": "François.e",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139500401",
+    "imdb": "tt36961579",
+    "tmdb": 1483527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-08"
+}

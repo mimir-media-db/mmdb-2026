@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_franco_battiato_il_lungo_viaggio_2026",
+  "title": "Franco Battiato - Il lungo viaggio",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138332638",
+    "imdb": "tt38892001",
+    "tmdb": 1577457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 115
+}

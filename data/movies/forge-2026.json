@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forge_2026",
+  "title": "Forge",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133202871",
+    "imdb": "tt32332334",
+    "tmdb": 1288229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-15",
+  "runtime_minutes": 104
+}

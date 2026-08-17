@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fatherland_2026",
+  "title": "Fatherland",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135825188",
+    "imdb": "tt37304295",
+    "tmdb": 1437696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-14"
+}

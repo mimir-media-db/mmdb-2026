@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_house_is_here_2026",
+  "title": "The Friend's House Is Here",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137380440",
+    "imdb": "tt38980819",
+    "tmdb": 1596282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-24",
+  "runtime_minutes": 96
+}

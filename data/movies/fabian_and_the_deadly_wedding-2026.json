@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fabian_and_the_deadly_wedding_2026",
+  "title": "Fabian and the Deadly Wedding",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138026054",
+    "imdb": "tt35829169",
+    "tmdb": 1436061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 100
+}

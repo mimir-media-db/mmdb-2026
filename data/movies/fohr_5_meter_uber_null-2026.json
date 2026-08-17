@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fohr_5_meter_uber_null_2026",
+  "title": "Föhr – 5 Meter über Null",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138843038",
+    "imdb": "tt41120182"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-02",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_four_mothers_2026",
+  "title": "Four Mothers",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124353890",
+    "imdb": "tt19391518",
+    "tmdb": 1081196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-23",
+  "runtime_minutes": 89
+}
