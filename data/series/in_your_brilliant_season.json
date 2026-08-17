@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_your_brilliant_season",
+  "title": "In Your Brilliant Season",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136890356",
+    "imdb": "tt39369595",
+    "tmdb": 233833
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
