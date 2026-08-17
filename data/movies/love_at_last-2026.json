@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_love_at_last_2026",
+  "title": "Love at Last",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138819733",
+    "imdb": "tt39130911"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-27"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_litvyak_film_2026",
+  "title": "Litvyak (film)",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139665860",
+    "imdb": "tt11377110",
+    "tmdb": 650059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

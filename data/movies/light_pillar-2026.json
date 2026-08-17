@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_pillar_2026",
+  "title": "Light Pillar",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138281628",
+    "imdb": "tt32409947",
+    "tmdb": 1601885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-14"
+}

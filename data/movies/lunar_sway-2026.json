@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lunar_sway_2026",
+  "title": "Lunar Sway",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138357493",
+    "imdb": "tt32492478",
+    "tmdb": 1297474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-25"
+}

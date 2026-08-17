@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_that_remains_2026",
+  "title": "The Love That Remains",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131750758",
+    "imdb": "tt33381401",
+    "tmdb": 1258509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-28",
+  "runtime_minutes": 109
+}

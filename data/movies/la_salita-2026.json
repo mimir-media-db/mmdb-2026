@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_salita_2026",
+  "title": "La salita",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138659875",
+    "imdb": "tt38778417",
+    "tmdb": 1523111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-09",
+  "runtime_minutes": 90
+}

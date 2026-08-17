@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lottie_dottie_chicken_the_movie_2026",
+  "title": "Lottie Dottie Chicken: The Movie",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140676537",
+    "imdb": "tt39482377",
+    "tmdb": 1615391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-10-01",
+  "runtime_minutes": 90
+}

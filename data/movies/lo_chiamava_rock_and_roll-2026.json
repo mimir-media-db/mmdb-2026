@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_chiamava_rock_and_roll_2026",
+  "title": "Lo chiamava Rock and Roll",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139393788",
+    "imdb": "tt40618521",
+    "tmdb": 1591391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-16",
+  "runtime_minutes": 100
+}

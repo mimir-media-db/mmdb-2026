@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_caprices_de_lenfant_roi_2026",
+  "title": "Les Caprices de l'enfant roi",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139715394",
+    "imdb": "tt37376862",
+    "tmdb": 1472829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-15"
+}

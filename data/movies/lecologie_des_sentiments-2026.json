@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lecologie_des_sentiments_2026",
+  "title": "L'Écologie des sentiments",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140390997",
+    "imdb": "tt39995690",
+    "tmdb": 1432073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-08"
+}

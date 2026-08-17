@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_legendaires_2026",
+  "title": "Les Légendaires",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123154969",
+    "imdb": "tt35659725",
+    "tmdb": 677561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-28"
+}

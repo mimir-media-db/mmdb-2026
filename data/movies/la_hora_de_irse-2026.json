@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_hora_de_irse_2026",
+  "title": "La hora de irse",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138330867",
+    "imdb": "tt39386189",
+    "tmdb": 1614670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 20
+}

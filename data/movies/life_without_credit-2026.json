@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_without_credit_2026",
+  "title": "Life Without Credit",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140266876",
+    "imdb": "tt35227331"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 104
+}
