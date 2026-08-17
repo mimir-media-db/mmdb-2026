@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_53_sundays_2026",
+  "title": "53 Sundays",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138012467",
+    "imdb": "tt32155665",
+    "tmdb": 1276704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-27"
+}
