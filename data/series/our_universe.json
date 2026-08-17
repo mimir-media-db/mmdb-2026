@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_our_universe",
+  "title": "Our Universe",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137668853",
+    "imdb": "tt39453765",
+    "tmdb": 297424
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
