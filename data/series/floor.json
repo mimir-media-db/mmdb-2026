@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_floor",
+  "title": "The Floor",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138584927",
+    "imdb": "tt39282718",
+    "tmdb": 308065
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_furious",
+  "title": "Furious",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140517950",
+    "imdb": "tt36303968",
+    "tmdb": 287238
+  },
+  "last_updated": "2026-08-17"
+}
