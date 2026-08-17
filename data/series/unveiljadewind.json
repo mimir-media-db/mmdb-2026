@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unveiljadewind",
+  "title": "Unveil:Jadewind",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138081558",
+    "imdb": "tt34452086",
+    "tmdb": 278127
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 34
+}

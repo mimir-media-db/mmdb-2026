@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unfamiliar",
+  "title": "Unfamiliar",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137993658",
+    "imdb": "tt37024136",
+    "tmdb": 274776
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
