@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_neighbors",
+  "title": "Neighbors",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138141043",
+    "imdb": "tt39398809",
+    "tmdb": 312428
+  },
+  "last_updated": "2026-08-17"
+}

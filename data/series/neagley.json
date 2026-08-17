@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_neagley",
+  "title": "Neagley",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132661267",
+    "imdb": "tt33539520",
+    "tmdb": 273207
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_no_pain_no_gain",
+  "title": "No Pain No Gain",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136713473",
+    "imdb": "tt34903451",
+    "tmdb": 278882
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}
