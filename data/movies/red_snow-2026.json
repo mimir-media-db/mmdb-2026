@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_red_snow_2026",
+  "title": "Red Snow",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140393539",
+    "imdb": "tt36119435"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-11-20"
+}

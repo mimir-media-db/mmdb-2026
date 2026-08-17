@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_real_estate_2026",
+  "title": "Real Estate",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136794939",
+    "imdb": "tt32650898",
+    "tmdb": 1186820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-06"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rental_family_2026",
+  "title": "Rental Family",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124947229",
+    "imdb": "tt14142060",
+    "tmdb": 1208348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-05",
+  "runtime_minutes": 110
+}

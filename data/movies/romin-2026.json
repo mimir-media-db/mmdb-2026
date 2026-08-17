@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_romin_2026",
+  "title": "Romin",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140187828",
+    "imdb": "tt29277216",
+    "tmdb": 1705776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-01",
+  "runtime_minutes": 93
+}

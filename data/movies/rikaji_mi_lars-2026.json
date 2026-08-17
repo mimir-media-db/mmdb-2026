@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rikaji_mi_lars_2026",
+  "title": "Říkají mi Lars",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138427679",
+    "imdb": "tt40600257",
+    "tmdb": 1669062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-16",
+  "runtime_minutes": 113
+}
