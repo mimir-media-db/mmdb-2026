@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gates_2026",
+  "title": "The Gates",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138566603",
+    "imdb": "tt33303521",
+    "tmdb": 1366906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-24"
+}

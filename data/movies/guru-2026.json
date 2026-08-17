@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guru_2026",
+  "title": "Guru",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134457252",
+    "imdb": "tt31777964",
+    "tmdb": 1259983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-28",
+  "runtime_minutes": 125
+}

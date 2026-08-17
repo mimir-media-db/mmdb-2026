@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gropiusstadt_supernova_2026",
+  "title": "Gropiusstadt Supernova",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137882881",
+    "imdb": "tt39292036",
+    "tmdb": 1601856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 78
+}

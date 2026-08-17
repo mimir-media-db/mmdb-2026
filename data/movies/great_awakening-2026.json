@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_awakening_2026",
+  "title": "A Great Awakening",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137701335",
+    "imdb": "tt33305882",
+    "tmdb": 1341137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-03"
+}

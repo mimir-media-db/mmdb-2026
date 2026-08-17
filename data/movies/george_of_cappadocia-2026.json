@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_george_of_cappadocia_2026",
+  "title": "George of Cappadocia",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140173463",
+    "imdb": "tt30768673",
+    "tmdb": 1210096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-29",
+  "runtime_minutes": 119
+}

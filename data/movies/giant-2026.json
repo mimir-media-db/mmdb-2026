@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_giant_2026",
+  "title": "Giant",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125613304",
+    "imdb": "tt26452616",
+    "tmdb": 1078581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-09"
+}
