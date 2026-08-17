@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_sister_2026",
+  "title": "The Little Sister",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131139556",
+    "imdb": "tt28326501",
+    "tmdb": 961077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-23",
+  "runtime_minutes": 106
+}

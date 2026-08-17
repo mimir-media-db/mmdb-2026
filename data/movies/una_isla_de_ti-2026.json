@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_isla_de_ti_2026",
+  "title": "A una isla de ti",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138307611",
+    "imdb": "tt36591456",
+    "tmdb": 1468688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-10",
+  "runtime_minutes": 102
+}

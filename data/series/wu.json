@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wu",
+  "title": "Wu",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139585559",
+    "imdb": "tt34881054",
+    "tmdb": 278169
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_weeks_after_2026",
+  "title": "3 Weeks After",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140456105",
+    "imdb": "tt35351269",
+    "tmdb": 1706723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-07"
+}

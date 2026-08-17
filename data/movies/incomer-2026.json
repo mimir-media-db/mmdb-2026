@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incomer_2026",
+  "title": "The Incomer",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133163344",
+    "imdb": "tt36980182",
+    "tmdb": 1554956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-22",
+  "runtime_minutes": 101
+}

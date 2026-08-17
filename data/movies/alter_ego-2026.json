@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alter_ego_2026",
+  "title": "Alter ego",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137826291",
+    "imdb": "tt35591633",
+    "tmdb": 1266791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-04"
+}

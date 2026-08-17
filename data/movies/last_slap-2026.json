@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_slap_2026",
+  "title": "The Last Slap",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137717822",
+    "imdb": "tt38813823",
+    "tmdb": 1558049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-08",
+  "runtime_minutes": 101
+}

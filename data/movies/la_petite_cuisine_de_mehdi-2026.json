@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_petite_cuisine_de_mehdi_2026",
+  "title": "La Petite cuisine de Mehdi",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137204917",
+    "imdb": "tt34487826",
+    "tmdb": 1266826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-25"
+}

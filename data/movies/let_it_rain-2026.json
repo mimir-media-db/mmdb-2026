@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_it_rain_2026",
+  "title": "Let It Rain",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131619932",
+    "imdb": "tt34250056",
+    "tmdb": 1324241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-13",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_north_to_paradise_2026",
+  "title": "North to Paradise",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140363094",
+    "imdb": "tt37162873",
+    "tmdb": 1551205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-26",
+  "runtime_minutes": 110
+}

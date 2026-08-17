@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_a2_2026",
+  "title": "A2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140254943",
+    "imdb": "tt35825636",
+    "tmdb": 1726910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-12"
+}

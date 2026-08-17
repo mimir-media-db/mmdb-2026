@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mike_nick_nick_alice_2026",
+  "title": "Mike & Nick & Nick & Alice",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130240838",
+    "imdb": "tt27552099",
+    "tmdb": 1115544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-14"
+}

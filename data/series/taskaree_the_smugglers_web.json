@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_taskaree_the_smugglers_web",
+  "title": "Taskaree: The Smuggler's Web",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137783870",
+    "imdb": "tt35335046",
+    "tmdb": 308482
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

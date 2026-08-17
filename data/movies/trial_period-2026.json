@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trial_period_2026",
+  "title": "Trial Period",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136697658",
+    "imdb": "tt38223092",
+    "tmdb": 1541434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-08",
+  "runtime_minutes": 90
+}

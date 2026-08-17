@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_plastic_beauty",
+  "title": "Plastic Beauty",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138007013",
+    "imdb": "tt37884325",
+    "tmdb": 298008
+  },
+  "last_updated": "2026-08-17"
+}

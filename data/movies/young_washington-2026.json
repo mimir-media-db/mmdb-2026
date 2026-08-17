@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_washington_2026",
+  "title": "Young Washington",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136002124",
+    "imdb": "tt32104007",
+    "tmdb": 1308767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-03",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yani",
+  "title": "Yani",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138048109",
+    "imdb": "tt38354954",
+    "tmdb": 313896
+  },
+  "last_updated": "2026-08-17"
+}

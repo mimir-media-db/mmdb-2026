@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_piccolo_piccolo_2026",
+  "title": "Piccolo piccolo",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140266602",
+    "tmdb": 1647567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-31",
+  "runtime_minutes": 9
+}

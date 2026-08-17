@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_street_flow_3_2026",
+  "title": "Street Flow 3",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137711764",
+    "imdb": "tt37800570",
+    "tmdb": 1629382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-04"
+}

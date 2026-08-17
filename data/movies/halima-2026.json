@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_halima_2026",
+  "title": "Halima",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140916238",
+    "imdb": "tt43586489"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-15"
+}

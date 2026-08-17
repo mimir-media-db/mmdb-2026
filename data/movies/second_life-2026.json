@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_life_2026",
+  "title": "A Second Life",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136087828",
+    "imdb": "tt36591115",
+    "tmdb": 1398460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-11",
+  "runtime_minutes": 77
+}

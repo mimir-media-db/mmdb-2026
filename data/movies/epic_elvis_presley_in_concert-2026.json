@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_epic_elvis_presley_in_concert_2026",
+  "title": "EPiC: Elvis Presley in Concert",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135853698",
+    "imdb": "tt35003538",
+    "tmdb": 1445363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-12"
+}

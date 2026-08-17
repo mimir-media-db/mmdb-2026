@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piccolo_miracolo_2026",
+  "title": "Piccolo miracolo",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140358571",
+    "imdb": "tt39045280",
+    "tmdb": 1560020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-25",
+  "runtime_minutes": 103
+}

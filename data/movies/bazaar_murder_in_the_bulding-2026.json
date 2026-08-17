@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bazaar_murder_in_the_bulding_2026",
+  "title": "Bazaar (Murder in the Bulding)",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138522175",
+    "imdb": "tt38814447",
+    "tmdb": 1471224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-07",
+  "runtime_minutes": 104
+}

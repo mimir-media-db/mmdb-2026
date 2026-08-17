@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sing_for_me_arja_2026",
+  "title": "Sing for Me Arja",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140541145",
+    "imdb": "tt42957392",
+    "tmdb": 1713056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-14"
+}

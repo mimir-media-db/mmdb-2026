@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scarpetta",
+  "title": "Scarpetta",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125343239",
+    "imdb": "tt14786934",
+    "tmdb": 240740
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

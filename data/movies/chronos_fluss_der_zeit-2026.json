@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chronos_fluss_der_zeit_2026",
+  "title": "Chronos – Fluss der Zeit",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137839778",
+    "imdb": "tt39369887",
+    "tmdb": 1616884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-12",
+  "runtime_minutes": 200
+}

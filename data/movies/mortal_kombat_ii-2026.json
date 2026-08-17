@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mortal_kombat_ii_2026",
+  "title": "Mortal Kombat II",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117830073",
+    "imdb": "tt17490712",
+    "tmdb": 931285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-27",
+  "runtime_minutes": 116
+}

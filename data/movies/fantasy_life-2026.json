@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fantasy_life_2026",
+  "title": "Fantasy Life",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133172721",
+    "imdb": "tt35519497",
+    "tmdb": 1421977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-27"
+}

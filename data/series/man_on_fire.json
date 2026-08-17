@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_man_on_fire",
+  "title": "Man on Fire",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134599078",
+    "imdb": "tt27331527",
+    "tmdb": 223386
+  },
+  "last_updated": "2026-08-17"
+}

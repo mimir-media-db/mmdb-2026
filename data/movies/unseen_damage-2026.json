@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unseen_damage_2026",
+  "title": "Unseen Damage",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138568319",
+    "imdb": "tt40346478",
+    "tmdb": 1660010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

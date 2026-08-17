@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_rebels_win_2026",
+  "title": "Only Rebels Win",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137595830",
+    "imdb": "tt30324264",
+    "tmdb": 1000155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-12",
+  "runtime_minutes": 105
+}

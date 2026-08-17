@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toxic_love_story_2026",
+  "title": "A Toxic Love Story",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140770843",
+    "imdb": "tt43619305",
+    "tmdb": 1723460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-22"
+}

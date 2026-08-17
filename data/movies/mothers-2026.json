@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mothers_2026",
+  "title": "Mothers",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140387352",
+    "imdb": "tt38916470",
+    "tmdb": 1575571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-24",
+  "runtime_minutes": 80
+}

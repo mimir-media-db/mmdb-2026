@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_of_bastards_2026",
+  "title": "A Family of Bastards",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140192748",
+    "imdb": "tt36963493",
+    "tmdb": 1501018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-12",
+  "runtime_minutes": 96
+}

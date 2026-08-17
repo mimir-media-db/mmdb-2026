@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peaky_blinders_the_immortal_man_2026",
+  "title": "Peaky Blinders: The Immortal Man",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124355470",
+    "imdb": "tt15574124",
+    "tmdb": 875828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-06",
+  "runtime_minutes": 112
+}

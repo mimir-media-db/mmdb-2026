@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_one_for_the_road_2026",
+  "title": "The Last One for the Road",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133862881",
+    "imdb": "tt36491632",
+    "tmdb": 1462322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-11-26",
+  "runtime_minutes": 100
+}

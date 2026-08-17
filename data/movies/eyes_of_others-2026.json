@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eyes_of_others_2026",
+  "title": "The Eyes of Others",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136649447",
+    "imdb": "tt34625288",
+    "tmdb": 1341422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-13",
+  "runtime_minutes": 90
+}

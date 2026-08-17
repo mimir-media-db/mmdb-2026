@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_cross_2_2026",
+  "title": "Mission Cross 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137843078",
+    "imdb": "tt38958590",
+    "tmdb": 1579433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

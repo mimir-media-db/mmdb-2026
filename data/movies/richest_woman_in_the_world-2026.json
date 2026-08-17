@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_richest_woman_in_the_world_2026",
+  "title": "The Richest Woman in the World",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134251823",
+    "imdb": "tt32759477",
+    "tmdb": 1309725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-05",
+  "runtime_minutes": 121
+}

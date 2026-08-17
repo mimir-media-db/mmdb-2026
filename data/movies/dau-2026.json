@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dau_2026",
+  "title": "Dau",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140676305",
+    "imdb": "tt43702526",
+    "tmdb": 1734147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-01"
+}

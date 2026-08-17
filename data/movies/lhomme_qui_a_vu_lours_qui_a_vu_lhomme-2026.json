@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lhomme_qui_a_vu_lours_qui_a_vu_lhomme_2026",
+  "title": "L'Homme qui a vu l'ours qui a vu l'homme",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134099125",
+    "imdb": "tt36364025",
+    "tmdb": 1312312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-16"
+}

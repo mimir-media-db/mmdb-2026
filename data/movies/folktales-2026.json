@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_folktales_2026",
+  "title": "Folktales",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131964582",
+    "imdb": "tt34966025",
+    "tmdb": 1400776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-05",
+  "runtime_minutes": 106
+}

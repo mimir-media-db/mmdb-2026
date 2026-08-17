@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_dead_burn_2026",
+  "title": "Evil Dead Burn",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132731331",
+    "imdb": "tt31170389",
+    "tmdb": 1212763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-09",
+  "runtime_minutes": 110
+}

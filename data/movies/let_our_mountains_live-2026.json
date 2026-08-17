@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_let_our_mountains_live_2026",
+  "title": "Let Our Mountains Live",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139381923",
+    "imdb": "tt40036377",
+    "tmdb": 1635584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-15",
+  "runtime_minutes": 100
+}

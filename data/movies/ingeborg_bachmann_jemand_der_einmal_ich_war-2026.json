@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ingeborg_bachmann_jemand_der_einmal_ich_war_2026",
+  "title": "Ingeborg Bachmann – Jemand, der einmal ich war",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139503980",
+    "imdb": "tt41692123",
+    "tmdb": 1477087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-06",
+  "runtime_minutes": 102
+}

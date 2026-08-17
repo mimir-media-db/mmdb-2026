@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_your_own_quiz_2026",
+  "title": "Your Own Quiz",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140317621",
+    "imdb": "tt42369041",
+    "tmdb": 1566225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-15"
+}

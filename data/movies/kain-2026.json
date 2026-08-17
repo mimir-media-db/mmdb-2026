@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kain_2026",
+  "title": "Kain",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138640984",
+    "imdb": "tt32324127",
+    "tmdb": 1440198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-02"
+}

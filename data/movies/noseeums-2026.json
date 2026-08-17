@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noseeums_2026",
+  "title": "No-See-Ums",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138276050",
+    "imdb": "tt35443420",
+    "tmdb": 1384751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-27"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_dream_2026",
+  "title": "The American Dream",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137596264",
+    "imdb": "tt36313062",
+    "tmdb": 1365378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-18"
+}

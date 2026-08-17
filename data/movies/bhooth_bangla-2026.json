@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhooth_bangla_2026",
+  "title": "Bhooth Bangla",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136187174",
+    "imdb": "tt29540862",
+    "tmdb": 1239134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-17",
+  "runtime_minutes": 164
+}

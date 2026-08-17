@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hollywood_arts",
+  "title": "Hollywood Arts",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136678399",
+    "imdb": "tt35673115",
+    "tmdb": 286183
+  },
+  "last_updated": "2026-08-17"
+}

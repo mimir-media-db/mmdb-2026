@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_bit_of_dying_2026",
+  "title": "A Little Bit of Dying",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141040656",
+    "imdb": "tt36370540",
+    "tmdb": 1590456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 79
+}

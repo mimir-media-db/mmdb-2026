@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cannabis_and_cancer_2026",
+  "title": "Cannabis and Cancer",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140066285",
+    "imdb": "tt43370666"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-06",
+  "runtime_minutes": 98
+}

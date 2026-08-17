@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_tempting_madness_2026",
+  "title": "This Tempting Madness",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127850090",
+    "imdb": "tt30796568",
+    "tmdb": 1226834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-12",
+  "runtime_minutes": 92
+}

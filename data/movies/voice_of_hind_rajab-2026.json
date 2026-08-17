@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_of_hind_rajab_2026",
+  "title": "The Voice of Hind Rajab",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135038882",
+    "imdb": "tt36943034",
+    "tmdb": 1480382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-22",
+  "runtime_minutes": 89
+}

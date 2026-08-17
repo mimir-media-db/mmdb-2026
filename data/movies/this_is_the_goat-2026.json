@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_the_goat_2026",
+  "title": "This is the GOAT!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117816594",
+    "imdb": "tt30505337",
+    "tmdb": 1047227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-28",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ready_or_not_2_here_i_come_2026",
+  "title": "Ready or Not 2: Here I Come",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134054683",
+    "imdb": "tt33978029",
+    "tmdb": 1266127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-13",
+  "runtime_minutes": 104
+}

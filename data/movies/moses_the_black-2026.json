@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moses_the_black_2026",
+  "title": "Moses the Black",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136650057",
+    "imdb": "tt32542065",
+    "tmdb": 1446824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-30"
+}

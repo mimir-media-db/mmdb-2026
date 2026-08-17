@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_architektur_des_glucks_2026",
+  "title": "Architektur des Glücks",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137795598",
+    "imdb": "tt35220419",
+    "tmdb": 1403533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-05",
+  "runtime_minutes": 83
+}

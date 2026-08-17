@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_specijalisti_zagreb",
+  "title": "Specijalisti Zagreb",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140287992",
+    "tmdb": 325874
+  },
+  "last_updated": "2026-08-17"
+}

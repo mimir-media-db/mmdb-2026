@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_it_2026",
+  "title": "The End of It",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138024654",
+    "imdb": "tt36590232",
+    "tmdb": 1476532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

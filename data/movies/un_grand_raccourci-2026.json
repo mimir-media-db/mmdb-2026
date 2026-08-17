@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_grand_raccourci_2026",
+  "title": "Un grand raccourci",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140770607",
+    "imdb": "tt43306462",
+    "tmdb": 1683079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-12",
+  "runtime_minutes": 81
+}

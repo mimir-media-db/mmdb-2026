@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_club_2026",
+  "title": "The Miracle Club",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117004416",
+    "imdb": "tt12712604",
+    "tmdb": 830721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-09",
+  "runtime_minutes": 91
+}

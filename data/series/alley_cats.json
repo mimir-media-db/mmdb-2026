@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_alley_cats",
+  "title": "Alley Cats",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136839005",
+    "imdb": "tt38264832",
+    "tmdb": 300480
+  },
+  "last_updated": "2026-08-17"
+}

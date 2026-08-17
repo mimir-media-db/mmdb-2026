@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_warden_2026",
+  "title": "The King's Warden",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137592424",
+    "imdb": "tt38626703",
+    "tmdb": 1321179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-04"
+}

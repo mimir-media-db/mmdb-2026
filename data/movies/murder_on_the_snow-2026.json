@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_murder_on_the_snow_2026",
+  "title": "Murder on the snow",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138013778",
+    "imdb": "tt36396485",
+    "tmdb": 1449709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-05",
+  "runtime_minutes": 109
+}

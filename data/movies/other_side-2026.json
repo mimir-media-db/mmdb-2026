@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_other_side_2026",
+  "title": "The Other Side",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140466176",
+    "imdb": "tt42373658",
+    "tmdb": 1419383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-10-22"
+}

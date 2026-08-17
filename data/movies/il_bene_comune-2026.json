@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_bene_comune_2026",
+  "title": "Il bene comune",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138659874",
+    "imdb": "tt35994346",
+    "tmdb": 1493024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-12",
+  "runtime_minutes": 103
+}

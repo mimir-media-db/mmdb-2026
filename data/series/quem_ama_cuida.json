@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_quem_ama_cuida",
+  "title": "Quem Ama Cuida",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136881183",
+    "imdb": "tt42751057",
+    "tmdb": 306956
+  },
+  "last_updated": "2026-08-17"
+}

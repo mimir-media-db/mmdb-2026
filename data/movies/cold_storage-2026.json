@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_storage_2026",
+  "title": "Cold Storage",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117805784",
+    "imdb": "tt8879928",
+    "tmdb": 696393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-05"
+}

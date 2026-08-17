@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_office_of_magical_forces_2026",
+  "title": "Office of Magical Forces",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136339935",
+    "imdb": "tt37610530",
+    "tmdb": 1541128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-28"
+}

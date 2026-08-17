@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dinner_2026",
+  "title": "The Dinner",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135678444",
+    "imdb": "tt35657504",
+    "tmdb": 1433680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-09",
+  "runtime_minutes": 106
+}

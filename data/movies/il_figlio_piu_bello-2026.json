@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_figlio_piu_bello_2026",
+  "title": "Il figlio più bello",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139393984",
+    "imdb": "tt39551235",
+    "tmdb": 1564211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-13",
+  "runtime_minutes": 81
+}

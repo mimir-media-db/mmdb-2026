@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soulevements_2026",
+  "title": "Soulèvements",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135971754",
+    "imdb": "tt37833058",
+    "tmdb": 1510913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-11"
+}

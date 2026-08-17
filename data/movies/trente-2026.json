@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trente_2026",
+  "title": "Trente",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140403385",
+    "imdb": "tt42576262",
+    "tmdb": 1687834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-16",
+  "runtime_minutes": 66
+}

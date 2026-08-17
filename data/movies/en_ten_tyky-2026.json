@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_ten_tyky_2026",
+  "title": "En, ten, týky!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138349016",
+    "imdb": "tt39371349",
+    "tmdb": 1616186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-18",
+  "runtime_minutes": 13
+}

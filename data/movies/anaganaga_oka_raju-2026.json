@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anaganaga_oka_raju_2026",
+  "title": "Anaganaga Oka Raju",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137713080",
+    "imdb": "tt15427952",
+    "tmdb": 1407432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-14",
+  "runtime_minutes": 150
+}

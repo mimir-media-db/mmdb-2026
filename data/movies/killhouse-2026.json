@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killhouse_2026",
+  "title": "Killhouse",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131011104",
+    "imdb": "tt26657665",
+    "tmdb": 1493123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-21",
+  "runtime_minutes": 152
+}

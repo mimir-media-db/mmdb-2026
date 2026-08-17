@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_125_rue_des_malaises_2026",
+  "title": "125, rue des Malaises",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140547321",
+    "imdb": "tt42702735",
+    "tmdb": 1696266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-06",
+  "runtime_minutes": 95
+}

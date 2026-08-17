@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sleepwalker_2026",
+  "title": "Sleepwalker",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136565786",
+    "imdb": "tt35672651",
+    "tmdb": 1432306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-09"
+}

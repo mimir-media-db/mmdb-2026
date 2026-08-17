@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_case_0_tomorrow_2026",
+  "title": "Case 0 : Tomorrow",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140164231",
+    "imdb": "tt43374418",
+    "tmdb": 1708484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

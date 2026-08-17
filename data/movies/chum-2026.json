@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chum_2026",
+  "title": "Chum",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139858801",
+    "imdb": "tt41604789",
+    "tmdb": 1694978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-05"
+}

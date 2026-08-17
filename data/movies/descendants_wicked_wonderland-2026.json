@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_descendants_wicked_wonderland_2026",
+  "title": "Descendants: Wicked Wonderland",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132778256",
+    "imdb": "tt34477910",
+    "tmdb": 1318621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

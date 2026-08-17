@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twisted_2026",
+  "title": "Twisted",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131538146",
+    "imdb": "tt14201728",
+    "tmdb": 1373198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-06"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burn_2026",
+  "title": "Burn",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137396496",
+    "imdb": "tt39150067",
+    "tmdb": 1559189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-10",
+  "runtime_minutes": 103
+}

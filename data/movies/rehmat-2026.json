@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rehmat_2026",
+  "title": "Rehmat",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140472994",
+    "imdb": "tt40546978",
+    "tmdb": 1649061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-06"
+}

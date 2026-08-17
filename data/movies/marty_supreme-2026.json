@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marty_supreme_2026",
+  "title": "Marty Supreme",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130118681",
+    "imdb": "tt32916440",
+    "tmdb": 1317288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-22",
+  "runtime_minutes": 150
+}

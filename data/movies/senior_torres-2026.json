@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_senior_torres_2026",
+  "title": "Senior Torres",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138349154",
+    "imdb": "tt1756722",
+    "tmdb": 1527041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

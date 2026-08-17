@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sheep_in_the_box_2026",
+  "title": "Sheep in the Box",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137640905",
+    "imdb": "tt38551209",
+    "tmdb": 1553969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-16",
+  "runtime_minutes": 126
+}

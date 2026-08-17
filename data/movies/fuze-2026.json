@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuze_2026",
+  "title": "Fuze",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127324468",
+    "imdb": "tt31189814",
+    "tmdb": 1242265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-03",
+  "runtime_minutes": 98
+}

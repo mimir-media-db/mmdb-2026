@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tehran_another_view_2026",
+  "title": "Tehran Another View",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140008145",
+    "imdb": "tt35205646",
+    "tmdb": 1439863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-13"
+}

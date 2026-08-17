@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_of_flies_2026",
+  "title": "Mother of Flies",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137856608",
+    "imdb": "tt36871027",
+    "tmdb": 1481608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-23"
+}

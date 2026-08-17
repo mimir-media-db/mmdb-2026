@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_titanic_ocean_2026",
+  "title": "Titanic Ocean",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139830219",
+    "imdb": "tt15437998",
+    "tmdb": 1000843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-20"
+}

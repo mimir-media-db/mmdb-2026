@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hadestown_the_musical_2026",
+  "title": "Hadestown: The Musical",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140158820",
+    "imdb": "tt36307021",
+    "tmdb": 1439808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-08"
+}

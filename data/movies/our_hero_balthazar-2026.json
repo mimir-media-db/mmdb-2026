@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_hero_balthazar_2026",
+  "title": "Our Hero, Balthazar",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133890815",
+    "imdb": "tt36589928",
+    "tmdb": 1465557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-27",
+  "runtime_minutes": 91
+}

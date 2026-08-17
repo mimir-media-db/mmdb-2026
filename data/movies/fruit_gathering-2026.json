@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fruit_gathering_2026",
+  "title": "Fruit Gathering",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140520061",
+    "imdb": "tt36159340",
+    "tmdb": 1615283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-09",
+  "runtime_minutes": 97
+}

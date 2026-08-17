@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_snail_2026",
+  "title": "White Snail",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135243516",
+    "imdb": "tt36558094",
+    "tmdb": 1318811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-29",
+  "runtime_minutes": 115
+}

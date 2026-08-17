@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hungry_2026",
+  "title": "Hungry",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139502222",
+    "imdb": "tt34494076",
+    "tmdb": 1382832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-03"
+}

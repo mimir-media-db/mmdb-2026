@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_my_love_2026",
+  "title": "Die My Love",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117745793",
+    "imdb": "tt9362736",
+    "tmdb": 1033148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-05",
+  "runtime_minutes": 118
+}

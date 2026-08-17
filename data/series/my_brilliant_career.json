@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_brilliant_career",
+  "title": "My Brilliant Career",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135011543",
+    "imdb": "tt37352716",
+    "tmdb": 309798
+  },
+  "last_updated": "2026-08-17"
+}

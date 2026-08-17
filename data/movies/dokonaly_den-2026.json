@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dokonaly_den_2026",
+  "title": "Dokonalý den",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139385859",
+    "imdb": "tt39730838",
+    "tmdb": 1733409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-03",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_corazon_de_oro",
+  "title": "Corazón de oro",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137433296",
+    "imdb": "tt39699537",
+    "tmdb": 315245
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 80
+}

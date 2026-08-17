@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_back_to_buenos_aires_2026",
+  "title": "Back To Buenos Aires",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140680798",
+    "imdb": "tt39239726",
+    "tmdb": 1597199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-01"
+}

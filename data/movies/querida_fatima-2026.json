@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_querida_fatima_2026",
+  "title": "Querida Fátima",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140695988",
+    "imdb": "tt41870610"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-19",
+  "runtime_minutes": 83
+}

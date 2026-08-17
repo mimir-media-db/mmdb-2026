@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bit_before_midnight_2026",
+  "title": "A Bit Before Midnight",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140739344",
+    "imdb": "tt38807757",
+    "tmdb": 1480672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-10"
+}

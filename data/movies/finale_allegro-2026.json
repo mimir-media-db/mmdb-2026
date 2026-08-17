@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finale_allegro_2026",
+  "title": "FInale: allegro",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139392881",
+    "imdb": "tt40601886",
+    "tmdb": 1657991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-09",
+  "runtime_minutes": 113
+}

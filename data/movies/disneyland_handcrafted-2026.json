@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disneyland_handcrafted_2026",
+  "title": "Disneyland Handcrafted",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137771918",
+    "imdb": "tt39308381",
+    "tmdb": 1538718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-22",
+  "runtime_minutes": 78
+}

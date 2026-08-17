@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_principe_della_follia_2026",
+  "title": "Il principe della follia",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139847935",
+    "imdb": "tt36896545",
+    "tmdb": 1559944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-14",
+  "runtime_minutes": 93
+}

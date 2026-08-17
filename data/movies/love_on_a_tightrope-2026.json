@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_on_a_tightrope_2026",
+  "title": "Love on a Tightrope",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139862589",
+    "imdb": "tt36120762",
+    "tmdb": 1447097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-24",
+  "runtime_minutes": 115
+}

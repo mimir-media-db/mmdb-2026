@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_balamory",
+  "title": "Balamory",
+  "start_year": 2026,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4849923",
+    "imdb": "tt0372047",
+    "tmdb": 1524
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 264
+}

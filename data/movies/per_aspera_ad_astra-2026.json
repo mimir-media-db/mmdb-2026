@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_per_aspera_ad_astra_2026",
+  "title": "Per Aspera Ad Astra",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132730795",
+    "imdb": "tt33440748",
+    "tmdb": 1359005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-17"
+}

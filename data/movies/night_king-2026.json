@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_king_2026",
+  "title": "Night King",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137711426",
+    "imdb": "tt37284356",
+    "tmdb": 1602727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-14"
+}

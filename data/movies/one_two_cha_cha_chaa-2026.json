@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_two_cha_cha_chaa_2026",
+  "title": "One Two Cha Cha Chaa",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136558776",
+    "imdb": "tt38283987",
+    "tmdb": 1617536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-16"
+}

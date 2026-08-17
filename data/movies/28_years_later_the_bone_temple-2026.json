@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_28_years_later_the_bone_temple_2026",
+  "title": "28 Years Later: The Bone Temple",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129423731",
+    "imdb": "tt32141377",
+    "tmdb": 1272837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-14",
+  "runtime_minutes": 109
+}

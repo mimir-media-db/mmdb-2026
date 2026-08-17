@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poutpout_fish_2026",
+  "title": "The Pout-Pout Fish",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136428319",
+    "imdb": "tt12824390",
+    "tmdb": 1146058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

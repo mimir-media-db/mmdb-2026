@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_s4_the_bob_lazar_story_2026",
+  "title": "S4: The Bob Lazar Story",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139242058",
+    "imdb": "tt37605896",
+    "tmdb": 1462146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-03",
+  "runtime_minutes": 114
+}

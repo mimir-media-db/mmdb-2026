@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalevala_the_story_of_kullervo_2026",
+  "title": "Kalevala: The Story of Kullervo",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130479016",
+    "imdb": "tt33086020",
+    "tmdb": 1016024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-16"
+}

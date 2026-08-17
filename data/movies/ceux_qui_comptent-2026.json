@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ceux_qui_comptent_2026",
+  "title": "Ceux qui comptent",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138685400",
+    "imdb": "tt35404853",
+    "tmdb": 1421963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-25"
+}

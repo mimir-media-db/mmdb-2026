@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_digs_bill_evans_2026",
+  "title": "Everybody Digs Bill Evans",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136087547",
+    "imdb": "tt34347792",
+    "tmdb": 1378791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-13"
+}

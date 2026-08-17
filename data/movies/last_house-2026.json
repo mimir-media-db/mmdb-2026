@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_house_2026",
+  "title": "The Last House",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129165193",
+    "imdb": "tt32268156",
+    "tmdb": 1284041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-07",
+  "runtime_minutes": 112
+}

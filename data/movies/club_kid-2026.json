@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_club_kid_2026",
+  "title": "Club Kid",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139042812",
+    "imdb": "tt38058097",
+    "tmdb": 1585239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-01"
+}

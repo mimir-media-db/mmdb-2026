@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_als_ware_es_leicht_2026",
+  "title": "Als wäre es leicht",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136361527",
+    "imdb": "tt35430837",
+    "tmdb": 1544052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-02",
+  "runtime_minutes": 90
+}

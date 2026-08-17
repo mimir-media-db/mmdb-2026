@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_idiots_2026",
+  "title": "Idiots",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137356276",
+    "imdb": "tt6628920",
+    "tmdb": 445466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-23"
+}

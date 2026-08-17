@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_song_sung_blue_2026",
+  "title": "Song Sung Blue",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130532687",
+    "imdb": "tt30343021",
+    "tmdb": 1371185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-08"
+}

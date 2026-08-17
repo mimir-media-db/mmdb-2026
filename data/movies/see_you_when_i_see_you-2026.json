@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_see_you_when_i_see_you_2026",
+  "title": "See You When I See You",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130738047",
+    "imdb": "tt34378128",
+    "tmdb": 1380166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-27",
+  "runtime_minutes": 102
+}

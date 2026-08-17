@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_major_grom",
+  "title": "Major Grom",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130343349",
+    "imdb": "tt33451063",
+    "tmdb": 285507
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

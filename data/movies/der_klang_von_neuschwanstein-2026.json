@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_klang_von_neuschwanstein_2026",
+  "title": "Der Klang von Neuschwanstein",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140193506",
+    "imdb": "tt43490077",
+    "tmdb": 1705975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-18",
+  "runtime_minutes": 90
+}

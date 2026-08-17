@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vampires_of_the_velvet_lounge_2026",
+  "title": "Vampires of the Velvet Lounge",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137766736",
+    "imdb": "tt29762861",
+    "tmdb": 1217931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-20"
+}

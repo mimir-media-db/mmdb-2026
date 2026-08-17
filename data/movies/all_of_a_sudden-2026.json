@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_of_a_sudden_2026",
+  "title": "All of a Sudden",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137946980",
+    "imdb": "tt36834996",
+    "tmdb": 1476614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-01"
+}

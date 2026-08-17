@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lorne_2026",
+  "title": "Lorne",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138589517",
+    "imdb": "tt39847629",
+    "tmdb": 1634949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-17"
+}

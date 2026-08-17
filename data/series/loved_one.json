@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_loved_one",
+  "title": "LOVED ONE",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138504604",
+    "imdb": "tt42022518",
+    "tmdb": 315438
+  },
+  "last_updated": "2026-08-17"
+}

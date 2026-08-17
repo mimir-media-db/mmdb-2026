@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bowie_the_final_act_2026",
+  "title": "Bowie: The Final Act",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137709582",
+    "imdb": "tt38796013",
+    "tmdb": 1571485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-25",
+  "runtime_minutes": 90
+}

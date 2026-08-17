@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foggy_tale_2026",
+  "title": "A Foggy Tale",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135265466",
+    "imdb": "tt32080855",
+    "tmdb": 1174334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-16",
+  "runtime_minutes": 134
+}

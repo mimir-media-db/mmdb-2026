@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_2026",
+  "title": "King",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131178539",
+    "imdb": "tt28228084",
+    "tmdb": 1145110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-12-24"
+}

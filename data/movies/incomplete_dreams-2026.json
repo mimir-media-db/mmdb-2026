@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incomplete_dreams_2026",
+  "title": "Incomplete Dreams",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136521786",
+    "imdb": "tt33061626",
+    "tmdb": 1324726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-16",
+  "runtime_minutes": 27
+}

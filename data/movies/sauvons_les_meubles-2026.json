@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sauvons_les_meubles_2026",
+  "title": "Sauvons les meubles",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139571144",
+    "imdb": "tt38786933",
+    "tmdb": 1012609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-29",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hysteria_2026",
+  "title": "Hysteria",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131831420",
+    "imdb": "tt30129207",
+    "tmdb": 1399696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-13"
+}

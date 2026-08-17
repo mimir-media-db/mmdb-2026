@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_was_just_an_accident_2026",
+  "title": "It Was Just an Accident",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133866932",
+    "imdb": "tt36491653",
+    "tmdb": 1456349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-15",
+  "runtime_minutes": 105
+}

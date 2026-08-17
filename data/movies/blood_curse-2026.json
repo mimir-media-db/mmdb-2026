@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_curse_2026",
+  "title": "Blood Curse",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140360595",
+    "imdb": "tt41490063",
+    "tmdb": 1474133
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-30"
+}

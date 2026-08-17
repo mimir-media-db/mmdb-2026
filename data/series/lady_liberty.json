@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lady_liberty",
+  "title": "Lady Liberty",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131451549",
+    "imdb": "tt32740239",
+    "tmdb": 273129
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 37
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_room_returns_2026",
+  "title": "The Room Returns",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117842621",
+    "imdb": "tt25274490",
+    "tmdb": 1097699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-26"
+}

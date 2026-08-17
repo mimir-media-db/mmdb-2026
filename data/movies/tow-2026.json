@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tow_2026",
+  "title": "Tow",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125408538",
+    "imdb": "tt21045208",
+    "tmdb": 1244517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-20",
+  "runtime_minutes": 105
+}

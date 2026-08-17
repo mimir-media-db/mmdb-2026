@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_apples_2026",
+  "title": "Bad Apples",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125029885",
+    "imdb": "tt29714073",
+    "tmdb": 1198654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-10"
+}

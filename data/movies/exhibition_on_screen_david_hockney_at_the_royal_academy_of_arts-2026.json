@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exhibition_on_screen_david_hockney_at_the_royal_academy_of_arts_2026",
+  "title": "Exhibition on Screen: David Hockney at the Royal Academy of Arts",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47143989",
+    "imdb": "tt7661952",
+    "tmdb": 470675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-10-15",
+  "runtime_minutes": 85
+}

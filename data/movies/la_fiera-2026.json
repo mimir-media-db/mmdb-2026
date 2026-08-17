@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fiera_2026",
+  "title": "La fiera",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137259391",
+    "imdb": "tt36454145",
+    "tmdb": 1588838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-06"
+}

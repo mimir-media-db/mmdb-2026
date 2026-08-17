@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dose_2026",
+  "title": "Dose",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140570275",
+    "imdb": "tt38573318",
+    "tmdb": 1516529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-22"
+}

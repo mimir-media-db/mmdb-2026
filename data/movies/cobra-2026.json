@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cobra_2026",
+  "title": "Cobra",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q637290",
+    "imdb": "tt0090859",
+    "tmdb": 9874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-13",
+  "runtime_minutes": 83
+}

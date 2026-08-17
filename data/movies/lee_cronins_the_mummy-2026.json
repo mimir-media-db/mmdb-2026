@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lee_cronins_the_mummy_2026",
+  "title": "Lee Cronin's The Mummy",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133505340",
+    "imdb": "tt32612507",
+    "tmdb": 1304313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-09",
+  "runtime_minutes": 134
+}

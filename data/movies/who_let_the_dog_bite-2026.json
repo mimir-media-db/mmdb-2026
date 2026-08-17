@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_let_the_dog_bite_2026",
+  "title": "Who Let the Dog Bite?",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125422670",
+    "imdb": "tt27198573",
+    "tmdb": 1056648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-23",
+  "runtime_minutes": 83
+}

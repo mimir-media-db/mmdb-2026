@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_not_a_test_2026",
+  "title": "This Is Not a Test",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136462964",
+    "imdb": "tt35669125",
+    "tmdb": 1428990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-20",
+  "runtime_minutes": 102
+}

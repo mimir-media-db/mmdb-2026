@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_under_fire_2026",
+  "title": "Brothers Under Fire",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133833407",
+    "imdb": "tt32394984",
+    "tmdb": 1414413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-17",
+  "runtime_minutes": 101
+}

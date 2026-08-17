@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quiet_beekeper_2026",
+  "title": "The Quiet Beekeper",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137176843",
+    "imdb": "tt6155016",
+    "tmdb": 1596163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-17"
+}

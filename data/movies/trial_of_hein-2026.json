@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trial_of_hein_2026",
+  "title": "Trial of Hein",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138398649",
+    "imdb": "tt33522697",
+    "tmdb": 1476466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 122
+}

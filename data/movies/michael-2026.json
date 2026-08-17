@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_michael_2026",
+  "title": "Michael",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116677364",
+    "imdb": "tt11378946",
+    "tmdb": 936075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-10",
+  "runtime_minutes": 127
+}

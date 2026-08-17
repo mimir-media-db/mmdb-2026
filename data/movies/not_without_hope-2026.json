@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_not_without_hope_2026",
+  "title": "Not Without Hope",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123137223",
+    "imdb": "tt3331548",
+    "tmdb": 339849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

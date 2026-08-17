@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fils_de_personne_2026",
+  "title": "Fils de personne",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140007413",
+    "imdb": "tt36827509",
+    "tmdb": 1309406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-10"
+}

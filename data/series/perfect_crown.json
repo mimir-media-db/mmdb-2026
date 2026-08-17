@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_crown",
+  "title": "Perfect Crown",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q131386568",
+    "imdb": "tt39333617",
+    "tmdb": 278573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

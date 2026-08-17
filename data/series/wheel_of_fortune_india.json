@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wheel_of_fortune_india",
+  "title": "Wheel of Fortune India",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138314861"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 47
+}

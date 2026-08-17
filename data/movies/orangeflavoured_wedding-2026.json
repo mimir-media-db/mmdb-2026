@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_orangeflavoured_wedding_2026",
+  "title": "Orange-Flavoured Wedding",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138464330",
+    "imdb": "tt42007277",
+    "tmdb": 1563891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-20"
+}

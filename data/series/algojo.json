@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_algojo",
+  "title": "Algojo",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137397366",
+    "imdb": "tt39122494",
+    "tmdb": 284021
+  },
+  "last_updated": "2026-08-17"
+}

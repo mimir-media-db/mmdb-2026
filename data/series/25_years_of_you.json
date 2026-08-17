@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_25_years_of_you",
+  "title": "25 Years of You",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139890520",
+    "imdb": "tt43619278",
+    "tmdb": 326063
+  },
+  "last_updated": "2026-08-17"
+}

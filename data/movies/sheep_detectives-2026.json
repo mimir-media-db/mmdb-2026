@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sheep_detectives_2026",
+  "title": "The Sheep Detectives",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126405648",
+    "imdb": "tt32565993",
+    "tmdb": 1301421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-07",
+  "runtime_minutes": 110
+}

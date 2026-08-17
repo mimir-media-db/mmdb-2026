@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fall_of_the_house_of_koller_2026",
+  "title": "The Fall of the House of Koller",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130740128"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 60
+}

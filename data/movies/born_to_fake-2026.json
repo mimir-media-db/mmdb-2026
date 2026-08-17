@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_fake_2026",
+  "title": "Born To Fake",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139743047",
+    "imdb": "tt37021394",
+    "tmdb": 1489036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-28",
+  "runtime_minutes": 97
+}

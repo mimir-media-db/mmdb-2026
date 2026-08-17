@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_seven_dials_mystery",
+  "title": "Seven Dials Mystery",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q127609533",
+    "imdb": "tt31974288",
+    "tmdb": 250505
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

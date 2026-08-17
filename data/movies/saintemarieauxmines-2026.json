@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saintemarieauxmines_2026",
+  "title": "Sainte-Marie-aux-Mines",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137994425",
+    "imdb": "tt38504753",
+    "tmdb": 1273296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-31"
+}

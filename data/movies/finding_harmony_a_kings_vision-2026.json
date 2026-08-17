@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_harmony_a_kings_vision_2026",
+  "title": "Finding Harmony: A King's Vision",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138026513",
+    "imdb": "tt38631437",
+    "tmdb": 1559456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-06",
+  "runtime_minutes": 90
+}

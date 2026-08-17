@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_father_mother_sister_brother_2026",
+  "title": "Father Mother Sister Brother",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124364048",
+    "imdb": "tt31189315",
+    "tmdb": 1159206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-05",
+  "runtime_minutes": 110
+}

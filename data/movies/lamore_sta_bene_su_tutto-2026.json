@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lamore_sta_bene_su_tutto_2026",
+  "title": "L'amore sta bene su tutto",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139691514",
+    "imdb": "tt35487701",
+    "tmdb": 1663996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-06",
+  "runtime_minutes": 96
+}

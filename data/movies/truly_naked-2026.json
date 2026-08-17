@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truly_naked_2026",
+  "title": "Truly Naked",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139568167",
+    "imdb": "tt8760666",
+    "tmdb": 1281195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-16",
+  "runtime_minutes": 102
+}

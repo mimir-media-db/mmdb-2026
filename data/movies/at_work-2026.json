@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_work_2026",
+  "title": "At Work",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135438484",
+    "imdb": "tt37660587",
+    "tmdb": 1430820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-05",
+  "runtime_minutes": 91
+}

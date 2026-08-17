@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_only_2026",
+  "title": "One Night Only",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135906833",
+    "imdb": "tt37853455",
+    "tmdb": 1433367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-07",
+  "runtime_minutes": 102
+}

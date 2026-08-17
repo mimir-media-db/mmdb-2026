@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_ask_me_if_i_killed_2026",
+  "title": "Don't Ask Me If I Killed",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140812115",
+    "imdb": "tt42615623",
+    "tmdb": 1692701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-08",
+  "runtime_minutes": 104
+}

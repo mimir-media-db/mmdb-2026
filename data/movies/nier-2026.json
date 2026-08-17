@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nier_2026",
+  "title": "Ni’er",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138349730",
+    "imdb": "tt39211477",
+    "tmdb": 1599752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nagi_notes_2026",
+  "title": "Nagi Notes",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139079810",
+    "imdb": "tt28551050",
+    "tmdb": 1448971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-13"
+}

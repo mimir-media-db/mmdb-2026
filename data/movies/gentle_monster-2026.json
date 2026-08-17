@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gentle_monster_2026",
+  "title": "Gentle Monster",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136335212",
+    "imdb": "tt37020296",
+    "tmdb": 1473148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-16"
+}

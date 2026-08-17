@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saptadingar_guptodhon_2026",
+  "title": "Saptadingar Guptodhon",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139149095",
+    "imdb": "tt41446108",
+    "tmdb": 1441301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-15"
+}

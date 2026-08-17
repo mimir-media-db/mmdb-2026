@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_monyova",
+  "title": "Monyová",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q135313451",
+    "imdb": "tt39390768",
+    "tmdb": 321775
+  },
+  "last_updated": "2026-08-17"
+}

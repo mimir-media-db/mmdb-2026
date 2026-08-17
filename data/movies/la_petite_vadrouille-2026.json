@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_petite_vadrouille_2026",
+  "title": "La Petite Vadrouille",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124324244",
+    "imdb": "tt30402052",
+    "tmdb": 1119550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-23",
+  "runtime_minutes": 96
+}

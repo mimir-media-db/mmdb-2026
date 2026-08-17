@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_gaulle_tilting_iron_2026",
+  "title": "De Gaulle: Tilting Iron",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120640544",
+    "imdb": "tt28553375",
+    "tmdb": 1165366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-10",
+  "runtime_minutes": 159
+}

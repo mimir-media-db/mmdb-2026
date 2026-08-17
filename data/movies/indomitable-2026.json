@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indomitable_2026",
+  "title": "Indomitable",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140473306",
+    "imdb": "tt43644760",
+    "tmdb": 1690143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-10-11"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_will_i_become_2026",
+  "title": "What Will I Become?",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138401099",
+    "imdb": "tt39371437",
+    "tmdb": 1557013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

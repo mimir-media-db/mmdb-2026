@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_hand_of_dante_2026",
+  "title": "In the Hand of Dante",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123113807",
+    "imdb": "tt1333644",
+    "tmdb": 1020047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-12"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bini_sutor_taan_2026",
+  "title": "Bini Sutor Taan",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139602226",
+    "imdb": "tt37984781",
+    "tmdb": 1645760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-27"
+}

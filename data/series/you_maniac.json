@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_you_maniac",
+  "title": "You Maniac",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141042842",
+    "imdb": "tt39039439",
+    "tmdb": 306630
+  },
+  "last_updated": "2026-08-17"
+}

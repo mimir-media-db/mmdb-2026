@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_supporting_role_2026",
+  "title": "Supporting Role",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140694635",
+    "imdb": "tt31326337",
+    "tmdb": 1306247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

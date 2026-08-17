@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disappearance_of_josef_mengele_2026",
+  "title": "The Disappearance of Josef Mengele",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124758292",
+    "imdb": "tt22852560",
+    "tmdb": 1037264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-29",
+  "runtime_minutes": 135
+}

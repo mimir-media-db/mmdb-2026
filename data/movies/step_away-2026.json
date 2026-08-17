@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_step_away_2026",
+  "title": "A Step Away",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138568280",
+    "imdb": "tt40336419",
+    "tmdb": 1652531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

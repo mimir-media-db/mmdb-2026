@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_masterplan_2026",
+  "title": "Masterplan",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140534750",
+    "imdb": "tt38672588"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-10-16"
+}

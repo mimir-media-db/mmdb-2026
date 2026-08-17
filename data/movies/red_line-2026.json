@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_red_line_2026",
+  "title": "The Red Line",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140376424",
+    "imdb": "tt39744394"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

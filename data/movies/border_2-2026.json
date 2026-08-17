@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_border_2_2026",
+  "title": "Border 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126734387",
+    "imdb": "tt30387012",
+    "tmdb": 1213898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-23",
+  "runtime_minutes": 200
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_triangle_dor_2026",
+  "title": "Le Triangle d'or",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139736526",
+    "imdb": "tt39462979",
+    "tmdb": 1466662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-29"
+}

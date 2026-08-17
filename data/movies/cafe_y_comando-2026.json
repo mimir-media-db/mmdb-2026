@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cafe_y_comando_2026",
+  "title": "Café y comando",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139591664",
+    "imdb": "tt41258975",
+    "tmdb": 1661224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_we_are_all_trying_here",
+  "title": "We Are All Trying Here",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137843064",
+    "imdb": "tt36732944",
+    "tmdb": 289424
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

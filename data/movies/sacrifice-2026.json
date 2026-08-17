@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sacrifice_2026",
+  "title": "Sacrifice",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125757803",
+    "imdb": "tt32268992",
+    "tmdb": 1284186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-12"
+}

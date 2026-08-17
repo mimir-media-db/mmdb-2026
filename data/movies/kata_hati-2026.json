@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kata_hati_2026",
+  "title": "Kata Hati",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139246191",
+    "imdb": "tt37895088",
+    "tmdb": 1668345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-04"
+}

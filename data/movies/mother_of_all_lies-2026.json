@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_of_all_lies_2026",
+  "title": "The Mother of All Lies",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122740872",
+    "imdb": "tt15307068",
+    "tmdb": 1112527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-17",
+  "runtime_minutes": 97
+}

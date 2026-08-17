@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_das_gewisse_etwas_2026",
+  "title": "Das gewisse Etwas",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137946795",
+    "imdb": "tt37800509",
+    "tmdb": 1553672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-03"
+}

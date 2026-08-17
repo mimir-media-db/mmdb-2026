@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_copan_la_leyenda_2026",
+  "title": "Copán: La Leyenda",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139793794",
+    "imdb": "tt42980748",
+    "tmdb": 1690013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-07",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friend_the_sun_2026",
+  "title": "My Friend The Sun",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138588527",
+    "imdb": "tt22393352",
+    "tmdb": 1414544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-01"
+}

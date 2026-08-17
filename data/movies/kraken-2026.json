@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kraken_2026",
+  "title": "Kraken",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131699191",
+    "imdb": "tt19838566",
+    "tmdb": 1110034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-06"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tienimi_presente_2026",
+  "title": "Tienimi presente",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138482023",
+    "imdb": "tt39551260",
+    "tmdb": 1555887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-26",
+  "runtime_minutes": 78
+}

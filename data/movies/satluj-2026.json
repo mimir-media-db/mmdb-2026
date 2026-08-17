@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_satluj_2026",
+  "title": "Satluj",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131822415",
+    "imdb": "tt28089784",
+    "tmdb": 1155818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-03",
+  "runtime_minutes": 164
+}

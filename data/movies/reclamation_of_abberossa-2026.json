@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reclamation_of_abberossa_2026",
+  "title": "The Reclamation of Abberossa",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137784704",
+    "imdb": "tt39368303",
+    "tmdb": 1616471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-14",
+  "runtime_minutes": 3
+}

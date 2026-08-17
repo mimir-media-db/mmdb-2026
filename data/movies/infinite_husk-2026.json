@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_infinite_husk_2026",
+  "title": "The Infinite Husk",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137752666",
+    "imdb": "tt35442423",
+    "tmdb": 1422033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-06"
+}

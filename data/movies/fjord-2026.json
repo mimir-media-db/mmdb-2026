@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fjord_2026",
+  "title": "Fjord",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137652478",
+    "imdb": "tt35410859",
+    "tmdb": 1401459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-18",
+  "runtime_minutes": 146
+}

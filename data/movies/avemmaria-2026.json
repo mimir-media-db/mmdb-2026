@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avemmaria_2026",
+  "title": "Avemmaria",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140361173",
+    "imdb": "tt36283869",
+    "tmdb": 1570931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-25",
+  "runtime_minutes": 104
+}

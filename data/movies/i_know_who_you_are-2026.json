@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_know_who_you_are_2026",
+  "title": "I Know Who You Are",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140440648",
+    "imdb": "tt32634330",
+    "tmdb": 1305672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-19",
+  "runtime_minutes": 141
+}

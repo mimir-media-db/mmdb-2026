@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_shades_of_temptation_2026",
+  "title": "All shades of temptation",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135684529",
+    "imdb": "tt38533212",
+    "tmdb": 1527004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-26",
+  "runtime_minutes": 90
+}

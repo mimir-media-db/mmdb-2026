@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spring_2026",
+  "title": "Spring",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140029989",
+    "imdb": "tt42007279",
+    "tmdb": 1613874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-18"
+}

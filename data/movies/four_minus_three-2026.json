@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_four_minus_three_2026",
+  "title": "Four Minus Three",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131541812",
+    "imdb": "tt38939444",
+    "tmdb": 1249152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-16"
+}

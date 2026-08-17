@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freaks_part_ii_2026",
+  "title": "Freaks Part II",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140621514",
+    "imdb": "tt35284983",
+    "tmdb": 1600094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-02"
+}

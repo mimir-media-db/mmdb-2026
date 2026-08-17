@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_never_sets_2026",
+  "title": "The Sun Never Sets",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137843187",
+    "imdb": "tt39368267",
+    "tmdb": 1490214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-13",
+  "runtime_minutes": 102
+}

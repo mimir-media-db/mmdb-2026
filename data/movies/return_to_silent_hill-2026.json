@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_silent_hill_2026",
+  "title": "Return to Silent Hill",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114771310",
+    "imdb": "tt22868010",
+    "tmdb": 680493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-23",
+  "runtime_minutes": 106
+}

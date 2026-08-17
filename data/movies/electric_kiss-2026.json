@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_electric_kiss_2026",
+  "title": "The Electric Kiss",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138850159",
+    "imdb": "tt37163509",
+    "tmdb": 1442669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-12"
+}

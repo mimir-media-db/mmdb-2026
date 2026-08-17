@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_to_kenmure_street_2026",
+  "title": "Everybody To Kenmure Street",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137396843",
+    "imdb": "tt36966956",
+    "tmdb": 1484620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-30",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vienna_game",
+  "title": "Vienna Game",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125314909",
+    "imdb": "tt31844371",
+    "tmdb": 288120
+  },
+  "last_updated": "2026-08-17"
+}

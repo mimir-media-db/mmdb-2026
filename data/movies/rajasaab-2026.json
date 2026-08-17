@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rajasaab_2026",
+  "title": "The RajaSaab",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124301053",
+    "imdb": "tt23790696",
+    "tmdb": 1022453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-09",
+  "runtime_minutes": 183
+}

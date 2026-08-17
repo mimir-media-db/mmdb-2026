@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_villain_of_villains_2026",
+  "title": "Villain of Villains",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130729843",
+    "imdb": "tt28681764",
+    "tmdb": 1379289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-06",
+  "runtime_minutes": 96
+}

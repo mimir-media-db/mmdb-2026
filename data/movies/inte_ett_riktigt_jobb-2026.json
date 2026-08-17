@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inte_ett_riktigt_jobb_2026",
+  "title": "Inte ett riktigt jobb",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139900516",
+    "imdb": "tt42610282",
+    "tmdb": 1693485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-21"
+}

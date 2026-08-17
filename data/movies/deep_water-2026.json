@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_water_2026",
+  "title": "Deep Water",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124526427",
+    "imdb": "tt29516222",
+    "tmdb": 1127384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-10",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_mermaid_2026",
+  "title": "Miss Mermaid",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140320909",
+    "imdb": "tt35453503",
+    "tmdb": 1351705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_survivors_tale_2026",
+  "title": "A Survivor's Tale",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137917152",
+    "imdb": "tt11611166",
+    "tmdb": 1002053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-25",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breadwinner_2026",
+  "title": "The Breadwinner",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134972733",
+    "imdb": "tt34459219",
+    "tmdb": 1440050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-27"
+}

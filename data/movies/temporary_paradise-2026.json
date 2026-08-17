@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_temporary_paradise_2026",
+  "title": "Temporary Paradise",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7698966",
+    "imdb": "tt0082545",
+    "tmdb": 286458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-30"
+}

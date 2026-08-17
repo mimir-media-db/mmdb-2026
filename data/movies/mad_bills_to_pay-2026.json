@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_bills_to_pay_2026",
+  "title": "Mad Bills to Pay",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131926269",
+    "imdb": "tt33562917",
+    "tmdb": 1400756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-17",
+  "runtime_minutes": 99
+}

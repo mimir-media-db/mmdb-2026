@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_barrio_esperanza",
+  "title": "Barrio Esperanza",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139381318",
+    "imdb": "tt37439565"
+  },
+  "last_updated": "2026-08-17"
+}

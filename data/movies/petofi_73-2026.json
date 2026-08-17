@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petofi_73_2026",
+  "title": "Petőfi '73",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7179461",
+    "imdb": "tt0070527",
+    "tmdb": 198545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-02",
+  "runtime_minutes": 89
+}

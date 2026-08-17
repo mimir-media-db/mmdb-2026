@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shikar_2026",
+  "title": "Shikar",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140250220",
+    "imdb": "tt40547431",
+    "tmdb": 1713175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-12"
+}

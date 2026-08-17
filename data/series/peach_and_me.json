@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_peach_and_me",
+  "title": "Peach and Me",
+  "start_year": 2026,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q140360559",
+    "imdb": "tt43618445",
+    "tmdb": 326445
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wonderfools",
+  "title": "The Wonderfools",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q130748503",
+    "imdb": "tt34440854",
+    "tmdb": 259837
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

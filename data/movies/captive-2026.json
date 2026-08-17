@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captive_2026",
+  "title": "The Captive",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125728863",
+    "imdb": "tt31101921",
+    "tmdb": 1238188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-11",
+  "runtime_minutes": 133
+}

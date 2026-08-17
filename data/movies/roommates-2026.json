@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_roommates_2026",
+  "title": "Roommates",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138566602",
+    "imdb": "tt37540875",
+    "tmdb": 1511057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-17"
+}

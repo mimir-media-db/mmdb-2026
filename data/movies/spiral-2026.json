@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spiral_2026",
+  "title": "The Spiral",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140739770",
+    "imdb": "tt23411728",
+    "tmdb": 1412795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-01"
+}

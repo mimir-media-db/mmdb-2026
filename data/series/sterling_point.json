@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sterling_point",
+  "title": "Sterling Point",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137917795",
+    "imdb": "tt35618070",
+    "tmdb": 283297
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

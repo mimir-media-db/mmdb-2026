@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_my_sisters_2026",
+  "title": "To My Sisters",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140620938",
+    "imdb": "tt43686734",
+    "tmdb": 1679585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-23",
+  "runtime_minutes": 99
+}

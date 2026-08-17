@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mouths_2026",
+  "title": "THE MOUTHS",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139620403",
+    "imdb": "tt39029729",
+    "tmdb": 1587473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-03",
+  "runtime_minutes": 89
+}

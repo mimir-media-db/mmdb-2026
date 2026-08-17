@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doc",
+  "title": "Doc",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138661831",
+    "imdb": "tt36992503",
+    "tmdb": 314006
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_place_to_be_single_2026",
+  "title": "No Place to Be Single",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139601549",
+    "imdb": "tt34906817",
+    "tmdb": 1317448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-08"
+}

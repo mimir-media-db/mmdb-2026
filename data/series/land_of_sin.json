@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_land_of_sin",
+  "title": "Land of Sin",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q130443243",
+    "imdb": "tt33501959",
+    "tmdb": 272586
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

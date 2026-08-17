@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reminders_of_him_2026",
+  "title": "Reminders of Him",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133886934",
+    "imdb": "tt33714084",
+    "tmdb": 1367642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-12",
+  "runtime_minutes": 114
+}

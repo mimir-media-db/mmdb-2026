@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_match_2026",
+  "title": "The Match",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139076841",
+    "imdb": "tt41593328",
+    "tmdb": 1666712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-13"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_deadend_job",
+  "title": "Dead-End Job",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140867557",
+    "imdb": "tt36458668"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

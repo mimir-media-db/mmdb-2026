@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stranger_2026",
+  "title": "The Stranger",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134280292",
+    "imdb": "tt36243564",
+    "tmdb": 1429348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 122
+}

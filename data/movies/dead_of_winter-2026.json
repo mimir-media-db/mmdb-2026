@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_of_winter_2026",
+  "title": "Dead of Winter",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124947655",
+    "imdb": "tt7574556",
+    "tmdb": 1235746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-19",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scream_7_2026",
+  "title": "Scream 7",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124758309",
+    "imdb": "tt27047903",
+    "tmdb": 1159559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-25",
+  "runtime_minutes": 114
+}

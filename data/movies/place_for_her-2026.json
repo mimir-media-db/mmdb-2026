@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_place_for_her_2026",
+  "title": "A Place For Her",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138417077",
+    "imdb": "tt35455708",
+    "tmdb": 1318417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-10-15",
+  "runtime_minutes": 110
+}
