@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_junkies_of_dreaming_2026",
+  "title": "Junkies of Dreaming",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139980577",
+    "imdb": "tt43342607",
+    "tmdb": 1646767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-22",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_josephine_2026",
+  "title": "Josephine",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128502486",
+    "imdb": "tt32321285",
+    "tmdb": 1299329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-23",
+  "runtime_minutes": 120
+}

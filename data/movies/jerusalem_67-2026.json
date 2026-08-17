@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jerusalem_67_2026",
+  "title": "Jerusalem '67",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138426900",
+    "imdb": "tt14487192",
+    "tmdb": 823429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-17",
+  "runtime_minutes": 109
+}

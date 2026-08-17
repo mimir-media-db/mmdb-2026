@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jennerwein_hochsaison_2026",
+  "title": "Jennerwein – Hochsaison",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137217823",
+    "imdb": "tt39304299",
+    "tmdb": 1582025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-11-05"
+}

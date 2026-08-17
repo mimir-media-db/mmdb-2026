@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joel_d_wynkoops_beast_mode_2026",
+  "title": "Joel D. Wynkoop's Beast Mode",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140408854",
+    "imdb": "tt12663406",
+    "tmdb": 1688802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

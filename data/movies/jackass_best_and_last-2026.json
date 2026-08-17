@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jackass_best_and_last_2026",
+  "title": "Jackass: Best and Last",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138035676",
+    "imdb": "tt39316472",
+    "tmdb": 1612018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-26",
+  "runtime_minutes": 92
+}

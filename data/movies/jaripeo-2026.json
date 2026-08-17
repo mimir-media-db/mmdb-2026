@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jaripeo_2026",
+  "title": "Jaripeo",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137441358",
+    "imdb": "tt38589440",
+    "tmdb": 1487074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-25",
+  "runtime_minutes": 70
+}
