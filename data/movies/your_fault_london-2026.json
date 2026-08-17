@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_fault_london_2026",
+  "title": "Your Fault: London",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134441283",
+    "imdb": "tt36958376",
+    "tmdb": 1477317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-17",
+  "runtime_minutes": 123
+}

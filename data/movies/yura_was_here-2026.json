@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yura_was_here_2026",
+  "title": "Yura Was Here",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138718968",
+    "imdb": "tt38671655",
+    "tmdb": 1472573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-20",
+  "runtime_minutes": 96
+}

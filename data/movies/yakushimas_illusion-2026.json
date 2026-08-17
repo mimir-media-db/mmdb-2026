@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yakushimas_illusion_2026",
+  "title": "Yakushima's Illusion",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135523216",
+    "imdb": "tt36364208",
+    "tmdb": 1449868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-17"
+}
