@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_union_county_2026",
+  "title": "Union County",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137356271",
+    "imdb": "tt36981462",
+    "tmdb": 1482938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-25",
+  "runtime_minutes": 97
+}

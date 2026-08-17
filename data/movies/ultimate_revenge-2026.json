@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ultimate_revenge_2026",
+  "title": "Ultimate Revenge",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330657",
+    "imdb": "tt32272771",
+    "tmdb": 1071640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-05"
+}

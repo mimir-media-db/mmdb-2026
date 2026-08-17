@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unabomber_2026",
+  "title": "Unabomber",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139596561",
+    "imdb": "tt6933238",
+    "tmdb": 1492640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}
