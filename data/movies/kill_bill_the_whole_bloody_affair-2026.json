@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_bill_the_whole_bloody_affair_2026",
+  "title": "Kill Bill: The Whole Bloody Affair",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18126825",
+    "imdb": "tt6019206",
+    "tmdb": 414419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-14",
+  "runtime_minutes": 275
+}

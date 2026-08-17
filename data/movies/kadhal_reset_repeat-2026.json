@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadhal_reset_repeat_2026",
+  "title": "Kadhal Reset Repeat",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138579986",
+    "imdb": "tt38779833",
+    "tmdb": 1568600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-06"
+}

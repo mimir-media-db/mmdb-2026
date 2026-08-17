@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kara_2026",
+  "title": "Kara",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139496302",
+    "imdb": "tt37458112",
+    "tmdb": 1433117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-30"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kijsada_paradise_2026",
+  "title": "Kijsada Paradise",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139780017",
+    "imdb": "tt42721267",
+    "tmdb": 1419036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-11",
+  "runtime_minutes": 113
+}
