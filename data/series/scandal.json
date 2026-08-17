@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_scandal",
+  "title": "The Scandal",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137476131",
+    "imdb": "tt36347588"
+  },
+  "last_updated": "2026-08-17"
+}

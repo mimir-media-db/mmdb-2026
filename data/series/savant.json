@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_savant",
+  "title": "The Savant",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124544604",
+    "imdb": "tt27304258",
+    "tmdb": 223294
+  },
+  "last_updated": "2026-08-17"
+}

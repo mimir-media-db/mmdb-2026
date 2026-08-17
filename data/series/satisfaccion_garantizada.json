@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_satisfaccion_garantizada",
+  "title": "Satisfacción garantizada",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132852828",
+    "imdb": "tt35946742",
+    "tmdb": 285404
+  },
+  "last_updated": "2026-08-17"
+}
