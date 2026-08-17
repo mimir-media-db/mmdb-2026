@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_other_mahmoud_2026",
+  "title": "The Other Mahmoud",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140917338",
+    "imdb": "tt42667820",
+    "tmdb": 1630748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-12"
+}

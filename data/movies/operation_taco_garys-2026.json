@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_taco_garys_2026",
+  "title": "Operation Taco Gary's",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123992901",
+    "imdb": "tt19393076",
+    "tmdb": 1130875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-27",
+  "runtime_minutes": 88
+}

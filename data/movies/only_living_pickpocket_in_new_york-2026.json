@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_living_pickpocket_in_new_york_2026",
+  "title": "The Only Living Pickpocket In New York",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134114136",
+    "imdb": "tt36482679",
+    "tmdb": 1458099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-27",
+  "runtime_minutes": 88
+}

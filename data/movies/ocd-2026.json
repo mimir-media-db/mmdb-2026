@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ocd_2026",
+  "title": "OCD",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137874897",
+    "imdb": "tt39393751",
+    "tmdb": 1062545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-06"
+}

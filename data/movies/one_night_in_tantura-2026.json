@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_in_tantura_2026",
+  "title": "One Night in Tantura",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132734212",
+    "imdb": "tt9392756",
+    "tmdb": 1439337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

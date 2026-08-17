@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_odyssey_2026",
+  "title": "The Odyssey",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131547207",
+    "imdb": "tt33764258",
+    "tmdb": 1368337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-06",
+  "runtime_minutes": 172
+}

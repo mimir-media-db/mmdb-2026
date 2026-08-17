@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_beautiful_things_to_look_at_2026",
+  "title": "Only Beautiful Things to Look At",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140373470",
+    "imdb": "tt42577282",
+    "tmdb": 1397737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-16",
+  "runtime_minutes": 88
+}

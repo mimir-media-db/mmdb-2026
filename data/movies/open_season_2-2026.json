@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_open_season_2_2026",
+  "title": "Open Season 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134112803",
+    "imdb": "tt36280391",
+    "tmdb": 1437985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-28"
+}
