@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_legends",
+  "title": "Legends",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q134412209",
+    "imdb": "tt33265765",
+    "tmdb": 262280
+  },
+  "last_updated": "2026-08-17"
+}

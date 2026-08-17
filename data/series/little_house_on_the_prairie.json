@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_little_house_on_the_prairie",
+  "title": "Little House on the Prairie",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132521516",
+    "imdb": "tt2431250",
+    "tmdb": 283304
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
