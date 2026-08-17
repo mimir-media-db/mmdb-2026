@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haciendo_amigos_2026",
+  "title": "Haciendo amigos",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140519333",
+    "imdb": "tt41801352",
+    "tmdb": 1632981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-10"
+}

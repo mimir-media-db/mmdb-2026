@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_humint_2026",
+  "title": "Humint",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131466792",
+    "imdb": "tt32606470",
+    "tmdb": 1268127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-11"
+}

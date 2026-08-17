@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heidi_rescue_of_the_lynx_2026",
+  "title": "Heidi: Rescue of the Lynx",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134593897",
+    "imdb": "tt14260876",
+    "tmdb": 944931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-17",
+  "runtime_minutes": 80
+}

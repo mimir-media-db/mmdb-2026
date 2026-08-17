@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heartman_rock_and_love_2026",
+  "title": "Heartman: Rock and Love",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137886427",
+    "imdb": "tt39308490",
+    "tmdb": 863149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-14"
+}

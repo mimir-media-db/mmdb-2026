@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_house_with_chimaeras_2026",
+  "title": "The House with Chimaeras",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573987",
+    "imdb": "tt37284857"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-11-19"
+}

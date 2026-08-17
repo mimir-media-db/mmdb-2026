@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_oblique_2026",
+  "title": "Hotel Oblique",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138349774",
+    "imdb": "tt39371363",
+    "tmdb": 1616185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-17"
+}

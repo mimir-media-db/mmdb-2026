@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_homo_argentum_2026",
+  "title": "Homo Argentum",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135726447",
+    "imdb": "tt34996428",
+    "tmdb": 1471345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-23",
+  "runtime_minutes": 110
+}
