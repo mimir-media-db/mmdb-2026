@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_does_this_mean_2026",
+  "title": "What Does This Mean?",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140373802",
+    "imdb": "tt43371539",
+    "tmdb": 1708470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-11"
+}

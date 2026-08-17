@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wuthering_heights_2026",
+  "title": "Wuthering Heights",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130393881",
+    "imdb": "tt32897959",
+    "tmdb": 1316092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-12",
+  "runtime_minutes": 136
+}

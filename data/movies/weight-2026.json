@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weight_2026",
+  "title": "The Weight",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135906914",
+    "imdb": "tt10794054",
+    "tmdb": 1433583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-26",
+  "runtime_minutes": 112
+}

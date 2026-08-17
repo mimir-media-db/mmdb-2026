@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_night_falls_2026",
+  "title": "When the Night Falls",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139120673",
+    "imdb": "tt35422726",
+    "tmdb": 1506476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_marielle_knows_2026",
+  "title": "What Marielle Knows",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131840241",
+    "imdb": "tt35500283",
+    "tmdb": 1416893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-23",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weight_of_the_world_2026",
+  "title": "The Weight of the World",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139542322",
+    "imdb": "tt41373111",
+    "tmdb": 1620452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-07",
+  "runtime_minutes": 94
+}

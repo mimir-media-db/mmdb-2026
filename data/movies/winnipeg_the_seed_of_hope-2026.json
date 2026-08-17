@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winnipeg_the_seed_of_hope_2026",
+  "title": "Winnipeg, the Seed of Hope",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140011542",
+    "imdb": "tt12097608",
+    "tmdb": 815043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-01",
+  "runtime_minutes": 77
+}

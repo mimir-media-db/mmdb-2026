@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_women_on_trial_2026",
+  "title": "Women on trial",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139620282",
+    "imdb": "tt35494574",
+    "tmdb": 1003494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

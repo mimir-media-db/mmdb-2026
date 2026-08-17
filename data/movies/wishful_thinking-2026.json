@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wishful_thinking_2026",
+  "title": "Wishful Thinking",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136410909",
+    "imdb": "tt37599264",
+    "tmdb": 1514328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-12"
+}

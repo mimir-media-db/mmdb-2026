@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whose_son_is_it_2026",
+  "title": "Whose Son is it?",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140606418",
+    "imdb": "tt41737871",
+    "tmdb": 1505973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-09"
+}

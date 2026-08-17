@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wicker_2026",
+  "title": "Wicker",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136428321",
+    "imdb": "tt29611136",
+    "tmdb": 1195803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

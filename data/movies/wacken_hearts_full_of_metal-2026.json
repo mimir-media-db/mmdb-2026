@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wacken_hearts_full_of_metal_2026",
+  "title": "Wacken – Hearts Full Of Metal",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139709735",
+    "imdb": "tt41691696",
+    "tmdb": 1675732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-13",
+  "runtime_minutes": 87
+}
