@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nos_victoires_fragiles_2026",
+  "title": "Nos victoires fragiles",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140129046",
+    "imdb": "tt42474804",
+    "tmdb": 1711915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_new_years_map_2026",
+  "title": "New Year's Map",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137746368",
+    "imdb": "tt39175485",
+    "tmdb": 1511520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

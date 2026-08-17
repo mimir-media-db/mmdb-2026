@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_knows_2026",
+  "title": "Nobody Knows",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q612298",
+    "imdb": "tt0408664",
+    "tmdb": 2517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-25",
+  "runtime_minutes": 141
+}

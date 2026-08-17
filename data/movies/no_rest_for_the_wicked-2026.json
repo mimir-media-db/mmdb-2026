@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_rest_for_the_wicked_2026",
+  "title": "No Rest for the Wicked",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140690207",
+    "imdb": "tt35669487",
+    "tmdb": 1486475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

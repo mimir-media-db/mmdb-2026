@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nino_2026",
+  "title": "Nino",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134281431",
+    "imdb": "tt35519445",
+    "tmdb": 1313229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-30",
+  "runtime_minutes": 97
+}

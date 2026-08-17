@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neglected_2026",
+  "title": "Neglected",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139547631",
+    "imdb": "tt35224721",
+    "tmdb": 1409853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-08"
+}
