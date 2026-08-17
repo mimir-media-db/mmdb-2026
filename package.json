@@ -1,0 +1,9 @@
+{
+  "name": "mmdb-2026",
+  "version": "1.0.0",
+  "description": "MMDB data for 2026",
+  "private": true,
+  "devDependencies": {
+    "mmdb-validate": "^1.0.0"
+  }
+}
