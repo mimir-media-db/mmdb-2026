@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_brother_the_minotaur",
+  "title": "My Brother the Minotaur",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139273201",
+    "imdb": "tt40822983",
+    "tmdb": 316832
+  },
+  "last_updated": "2026-08-17"
+}

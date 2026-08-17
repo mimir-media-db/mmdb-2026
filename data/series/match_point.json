@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_match_point",
+  "title": "Match Point",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140478311",
+    "imdb": "tt39037171",
+    "tmdb": 306629
+  },
+  "last_updated": "2026-08-17"
+}
