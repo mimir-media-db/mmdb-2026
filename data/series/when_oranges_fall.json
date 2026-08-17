@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_when_oranges_fall",
+  "title": "When Oranges Fall",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139588588",
+    "imdb": "tt39029529",
+    "tmdb": 306607
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}
