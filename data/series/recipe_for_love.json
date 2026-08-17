@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_recipe_for_love",
+  "title": "Recipe For Love",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137183750",
+    "imdb": "tt39375564",
+    "tmdb": 307602
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}
