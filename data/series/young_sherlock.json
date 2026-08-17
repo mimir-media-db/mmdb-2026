@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_young_sherlock",
+  "title": "Young Sherlock",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126194054",
+    "imdb": "tt8599532",
+    "tmdb": 255661
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
