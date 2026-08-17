@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_17_2026",
+  "title": "17",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137836699",
+    "imdb": "tt37775862",
+    "tmdb": 1619815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 105
+}
