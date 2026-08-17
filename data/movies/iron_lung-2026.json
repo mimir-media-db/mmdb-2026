@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_lung_2026",
+  "title": "Iron Lung",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117815027",
+    "imdb": "tt27564844",
+    "tmdb": 1116201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-30",
+  "runtime_minutes": 125
+}

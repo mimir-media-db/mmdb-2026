@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_illusion_of_a_quiet_night_2026",
+  "title": "The Illusion of a Quiet Night",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573777",
+    "imdb": "tt41148268",
+    "tmdb": 1658230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-21",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_internship_2026",
+  "title": "The Internship",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140225877",
+    "imdb": "tt38238651",
+    "tmdb": 1584215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_idols_2026",
+  "title": "Idols",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134893933",
+    "imdb": "tt33397910",
+    "tmdb": 1357449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-23",
+  "runtime_minutes": 126
+}

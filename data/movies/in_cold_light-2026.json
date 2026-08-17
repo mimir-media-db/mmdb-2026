@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_cold_light_2026",
+  "title": "In Cold Light",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133887490",
+    "imdb": "tt27497165",
+    "tmdb": 1128377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-23",
+  "runtime_minutes": 99
+}

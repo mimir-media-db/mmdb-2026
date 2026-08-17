@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ikkis_2026",
+  "title": "Ikkis",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136673072",
+    "imdb": "tt15464188",
+    "tmdb": 1196946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

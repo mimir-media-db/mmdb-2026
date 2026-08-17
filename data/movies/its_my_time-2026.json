@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_my_time_2026",
+  "title": "It's My Time",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140264326",
+    "imdb": "tt36130077",
+    "tmdb": 1257942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-30",
+  "runtime_minutes": 107
+}

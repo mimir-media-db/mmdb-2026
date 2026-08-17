@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_grande_boccia_2026",
+  "title": "Il grande Boccia",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140184491",
+    "imdb": "tt36941209",
+    "tmdb": 1554542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-11",
+  "runtime_minutes": 83
+}

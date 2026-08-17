@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_grey_2026",
+  "title": "In the Grey",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123172835",
+    "imdb": "tt27681354",
+    "tmdb": 1122573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-14",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_illusion_industry_2026",
+  "title": "The Illusion Industry",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140163279",
+    "imdb": "tt41890484",
+    "tmdb": 1681417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_is_another_2026",
+  "title": "I Is Another",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140472786",
+    "imdb": "tt35871759",
+    "tmdb": 1618651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-07"
+}

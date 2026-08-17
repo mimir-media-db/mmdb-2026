@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_boosters_2026",
+  "title": "I Love Boosters",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131109043",
+    "imdb": "tt30827810",
+    "tmdb": 1227877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-12",
+  "runtime_minutes": 105
+}

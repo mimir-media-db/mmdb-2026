@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ich_verstehe_ihren_unmut_2026",
+  "title": "Ich verstehe Ihren Unmut",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139943298",
+    "imdb": "tt39368062",
+    "tmdb": 1616184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-04",
+  "runtime_minutes": 93
+}
