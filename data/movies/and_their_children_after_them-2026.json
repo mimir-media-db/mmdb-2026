@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_their_children_after_them_2026",
+  "title": "And Their Children After Them",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124252667",
+    "imdb": "tt28522540",
+    "tmdb": 1103678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-14",
+  "runtime_minutes": 146
+}

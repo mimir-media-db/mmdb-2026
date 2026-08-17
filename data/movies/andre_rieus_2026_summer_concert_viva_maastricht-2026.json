@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andre_rieus_2026_summer_concert_viva_maastricht_2026",
+  "title": "André Rieu's 2026 Summer Concert: Viva Maastricht!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140645360",
+    "imdb": "tt43384010",
+    "tmdb": 1702801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 165
+}

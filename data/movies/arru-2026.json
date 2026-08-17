@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arru_2026",
+  "title": "Árru",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137909418",
+    "imdb": "tt13975248",
+    "tmdb": 1431677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-16",
+  "runtime_minutes": 95
+}

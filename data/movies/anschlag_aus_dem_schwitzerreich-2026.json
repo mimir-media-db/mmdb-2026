@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anschlag_aus_dem_schwitzerreich_2026",
+  "title": "Anschlag aus dem Schwitzerreich",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139329260",
+    "imdb": "tt36586032",
+    "tmdb": 1385104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 118
+}

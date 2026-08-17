@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_the_revolutionary_festival_2026",
+  "title": "At the Revolutionary Festival",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139379082",
+    "imdb": "tt36283691",
+    "tmdb": 1549120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-16",
+  "runtime_minutes": 98
+}

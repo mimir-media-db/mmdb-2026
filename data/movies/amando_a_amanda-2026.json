@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amando_a_amanda_2026",
+  "title": "Amando a Amanda",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140247054",
+    "tmdb": 1662451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 90
+}

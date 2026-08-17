@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_forever_2026",
+  "title": "Almost Forever",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139900525",
+    "imdb": "tt38937280",
+    "tmdb": 1635476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-14"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_assalto_a_brasileira_2026",
+  "title": "Assalto à Brasileira",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136352682",
+    "imdb": "tt35919742",
+    "tmdb": 1388037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-10-08"
+}
