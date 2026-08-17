@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_citizen_vigilante_2026",
+  "title": "Citizen Vigilante",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132322742",
+    "imdb": "tt35309713",
+    "tmdb": 1413976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-19"
+}

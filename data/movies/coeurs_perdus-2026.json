@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coeurs_perdus_2026",
+  "title": "Coeurs perdus",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135012751",
+    "imdb": "tt32095736",
+    "tmdb": 1218267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-29",
+  "runtime_minutes": 34
+}

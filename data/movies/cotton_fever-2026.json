@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cotton_fever_2026",
+  "title": "Cotton Fever",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139383821",
+    "imdb": "tt35300247",
+    "tmdb": 1413200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 89
+}

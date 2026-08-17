@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cycle_of_time_2026",
+  "title": "Cycle of Time",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136357793",
+    "imdb": "tt33323667",
+    "tmdb": 1284496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-22",
+  "runtime_minutes": 103
+}

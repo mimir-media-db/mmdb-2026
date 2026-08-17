@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_changes_2026_film_2026",
+  "title": "Changes (2026 film)",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140366678",
+    "imdb": "tt43663737",
+    "tmdb": 1742276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

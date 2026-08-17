@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cha_gorom_2026",
+  "title": "Cha Gorom",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139499083",
+    "imdb": "tt41979566"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-13"
+}

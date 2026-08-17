@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_case_137_2026",
+  "title": "Case 137",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131360679",
+    "imdb": "tt34794183",
+    "tmdb": 1294698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-15",
+  "runtime_minutes": 115
+}

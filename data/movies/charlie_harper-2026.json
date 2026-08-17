@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charlie_harper_2026",
+  "title": "Charlie Harper",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136190269",
+    "imdb": "tt27739255",
+    "tmdb": 1126097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-25"
+}

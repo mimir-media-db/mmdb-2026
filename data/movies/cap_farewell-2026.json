@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cap_farewell_2026",
+  "title": "Cap Farewell",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140481261",
+    "imdb": "tt32537111",
+    "tmdb": 1001386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-15"
+}

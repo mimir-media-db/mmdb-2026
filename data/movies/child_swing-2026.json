@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_child_swing_2026",
+  "title": "Child Swing",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138381072"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-19",
+  "runtime_minutes": 36
+}

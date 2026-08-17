@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charlie_the_wonderdog_2026",
+  "title": "Charlie the Wonderdog",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137535221",
+    "imdb": "tt29612071",
+    "tmdb": 1276521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-30"
+}

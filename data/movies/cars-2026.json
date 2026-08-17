@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cars_2026",
+  "title": "Cars",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q182153",
+    "imdb": "tt0317219",
+    "tmdb": 920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-17",
+  "runtime_minutes": 116
+}

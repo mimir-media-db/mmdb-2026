@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_california_schemin_2026",
+  "title": "California Schemin'",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130907514",
+    "imdb": "tt32306200",
+    "tmdb": 1193550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-10"
+}

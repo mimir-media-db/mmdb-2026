@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_christmas_2026",
+  "title": "Crazy Christmas",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140386387",
+    "tmdb": 1554138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-11-26"
+}

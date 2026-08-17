@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_corpus_delicti_2026",
+  "title": "Corpus Delicti",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140033314",
+    "imdb": "tt37804242",
+    "tmdb": 1477583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-10-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chand_mera_dil_2026",
+  "title": "Chand Mera Dil",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139900491",
+    "imdb": "tt34498111",
+    "tmdb": 1371023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-22",
+  "runtime_minutes": 142
+}

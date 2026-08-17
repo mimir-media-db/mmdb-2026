@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_couples_weekend_2026",
+  "title": "Couples Weekend",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134055596",
+    "imdb": "tt12477096",
+    "tmdb": 1257868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-08",
+  "runtime_minutes": 96
+}

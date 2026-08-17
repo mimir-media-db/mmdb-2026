@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cuando_llegue_a_casa_2026",
+  "title": "Cuando Llegue A Casa",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138362916",
+    "imdb": "tt39371335",
+    "tmdb": 1616190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-18"
+}
