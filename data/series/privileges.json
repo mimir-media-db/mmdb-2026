@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_privileges",
+  "title": "Privileges",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137861591",
+    "imdb": "tt35677100",
+    "tmdb": 283853
+  },
+  "last_updated": "2026-08-17"
+}

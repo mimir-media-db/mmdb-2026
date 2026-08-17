@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_president_curtis",
+  "title": "President Curtis",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135742014",
+    "imdb": "tt37692332",
+    "tmdb": 296756
+  },
+  "last_updated": "2026-08-17"
+}

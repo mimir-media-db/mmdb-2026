@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_payback",
+  "title": "Payback",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140026693",
+    "imdb": "tt39380468",
+    "tmdb": 316294
+  },
+  "last_updated": "2026-08-17"
+}

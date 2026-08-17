@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_positively_yours",
+  "title": "Positively Yours",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137217475",
+    "imdb": "tt39375130",
+    "tmdb": 296009
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

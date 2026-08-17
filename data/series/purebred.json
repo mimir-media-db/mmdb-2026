@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_purebred",
+  "title": "Pure-bred",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137782103",
+    "imdb": "tt36874852",
+    "tmdb": 290918
+  },
+  "last_updated": "2026-08-17"
+}
