@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_made_in_england_the_films_of_powell_and_pressburger_2026",
+  "title": "Made in England: The Films of Powell and Pressburger",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127115034",
+    "imdb": "tt19895822",
+    "tmdb": 1139072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-10",
+  "runtime_minutes": 131
+}

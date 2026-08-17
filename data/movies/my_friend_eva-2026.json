@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_friend_eva_2026",
+  "title": "My Friend Eva",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135273858",
+    "imdb": "tt32372983",
+    "tmdb": 1297953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_motherwitch_2026",
+  "title": "Motherwitch",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138426898",
+    "imdb": "tt20249852",
+    "tmdb": 1461870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-03"
+}

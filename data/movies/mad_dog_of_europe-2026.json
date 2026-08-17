@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_dog_of_europe_2026",
+  "title": "The Mad Dog of Europe",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139376096",
+    "imdb": "tt38236278",
+    "tmdb": 1660552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-15",
+  "runtime_minutes": 83
+}

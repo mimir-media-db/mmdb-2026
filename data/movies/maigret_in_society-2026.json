@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maigret_in_society_2026",
+  "title": "Maigret in Society",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131418064",
+    "imdb": "tt33509147",
+    "tmdb": 1398486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-18"
+}

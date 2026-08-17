@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_me_at_the_eclipse_2026",
+  "title": "Meet Me at the Eclipse",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139305901",
+    "imdb": "tt40374009"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-27"
+}

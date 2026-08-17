@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_best_enemy_2026",
+  "title": "My Best Enemy",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137730939",
+    "imdb": "tt35495331",
+    "tmdb": 1611380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

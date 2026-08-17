@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_mago_de_oz_la_pelicula_2026",
+  "title": "Mago de Oz: La película",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137162679"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01"
+}

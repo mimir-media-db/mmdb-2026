@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maaran_2026",
+  "title": "Maaran",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140700539",
+    "imdb": "tt43688916",
+    "tmdb": 1739294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-30"
+}

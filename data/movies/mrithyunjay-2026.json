@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mrithyunjay_2026",
+  "title": "Mrithyunjay",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138842732",
+    "imdb": "tt32161542",
+    "tmdb": 1428294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-06"
+}

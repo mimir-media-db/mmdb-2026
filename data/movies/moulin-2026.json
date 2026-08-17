@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moulin_2026",
+  "title": "Moulin",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136680004",
+    "imdb": "tt36899180",
+    "tmdb": 1437925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-17"
+}

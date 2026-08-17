@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_materia_prima_2026",
+  "title": "Materia Prima",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140884585",
+    "imdb": "tt40601764"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-09-27",
+  "runtime_minutes": 89
+}

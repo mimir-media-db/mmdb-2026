@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masters_of_the_universe_2026",
+  "title": "Masters of the Universe",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112040381",
+    "imdb": "tt0427340",
+    "tmdb": 454639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-18",
+  "runtime_minutes": 141
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_hour_2026",
+  "title": "Magic Hour",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132151700",
+    "imdb": "tt32134256",
+    "tmdb": 1282774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-15"
+}
