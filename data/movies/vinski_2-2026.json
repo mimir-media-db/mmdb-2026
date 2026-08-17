@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vinski_2_2026",
+  "title": "Vinski 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138473316",
+    "imdb": "tt36454107",
+    "tmdb": 964311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-13"
+}

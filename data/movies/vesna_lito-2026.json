@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vesna_lito_2026",
+  "title": "Vesna Lito",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573779",
+    "imdb": "tt41201809"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-25",
+  "runtime_minutes": 82
+}

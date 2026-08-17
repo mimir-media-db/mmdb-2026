@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_visa_2026",
+  "title": "Visa",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140998454",
+    "imdb": "tt20853246",
+    "tmdb": 1728803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-30"
+}

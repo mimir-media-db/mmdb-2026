@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_verliefd_op_curacao_2026",
+  "title": "Verliefd op Curaçao",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136645276",
+    "imdb": "tt37797014",
+    "tmdb": 1567711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-29"
+}

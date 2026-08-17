@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vanishing_point_2026",
+  "title": "Vanishing Point",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139595861",
+    "imdb": "tt34885279",
+    "tmdb": 1658653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-01"
+}

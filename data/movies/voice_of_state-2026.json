@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_of_state_2026",
+  "title": "Voice of State",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140605739",
+    "imdb": "tt43676033",
+    "tmdb": 1731946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-07-16",
+  "runtime_minutes": 46
+}

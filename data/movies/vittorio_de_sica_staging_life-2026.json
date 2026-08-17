@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vittorio_de_sica_staging_life_2026",
+  "title": "Vittorio De Sica – Staging Life",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140235144",
+    "imdb": "tt42416291",
+    "tmdb": 1688865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-16",
+  "runtime_minutes": 100
+}
