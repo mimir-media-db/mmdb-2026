@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dream_of_golden_years",
+  "title": "Dream of Golden Years",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138858352",
+    "imdb": "tt34625806",
+    "tmdb": 280822
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 36
+}
