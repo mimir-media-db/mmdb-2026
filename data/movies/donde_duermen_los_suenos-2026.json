@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_donde_duermen_los_suenos_2026",
+  "title": "Donde duermen los sueños",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138657771",
+    "imdb": "tt6170938",
+    "tmdb": 1168428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 75
+}

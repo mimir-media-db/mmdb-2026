@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dracula_2026",
+  "title": "Dracula",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135241825",
+    "imdb": "tt32448239",
+    "tmdb": 1323409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-07",
+  "runtime_minutes": 170
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_say_good_luck_2026",
+  "title": "Don't Say Good Luck",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135220006",
+    "imdb": "tt36590417",
+    "tmdb": 1504358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-14"
+}

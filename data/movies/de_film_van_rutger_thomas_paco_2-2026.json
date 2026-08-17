@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_film_van_rutger_thomas_paco_2_2026",
+  "title": "De film van Rutger, Thomas & Paco 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138874760",
+    "imdb": "tt42338587",
+    "tmdb": 1689716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-31"
+}

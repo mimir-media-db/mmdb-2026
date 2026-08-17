@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dudesons_homecoming_2026",
+  "title": "The Dudesons: Homecoming",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137440392",
+    "imdb": "tt38593144",
+    "tmdb": 1600204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-03-27"
+}

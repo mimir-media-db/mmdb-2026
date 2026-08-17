@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drift_2026",
+  "title": "The Drift",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138507601",
+    "imdb": "tt34959976",
+    "tmdb": 1424965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deool_band_2_2026",
+  "title": "Deool Band 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139878805",
+    "imdb": "tt41389703"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-21",
+  "runtime_minutes": 182
+}

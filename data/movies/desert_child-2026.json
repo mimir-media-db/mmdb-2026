@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desert_child_2026",
+  "title": "The Desert Child",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138835073",
+    "imdb": "tt37495239",
+    "tmdb": 1266800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-08",
+  "runtime_minutes": 92
+}

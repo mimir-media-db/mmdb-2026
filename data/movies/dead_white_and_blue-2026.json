@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_white_and_blue_2026",
+  "title": "Dead, White and Blue",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137830026",
+    "imdb": "tt38909406",
+    "tmdb": 1477816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 85
+}

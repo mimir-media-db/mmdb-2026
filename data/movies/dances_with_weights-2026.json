@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dances_with_weights_2026",
+  "title": "Dances with Weights",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140557432",
+    "tmdb": 1686669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-10-22",
+  "runtime_minutes": 95
+}

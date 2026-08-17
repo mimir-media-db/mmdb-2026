@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_robin_hood_2026",
+  "title": "The Death of Robin Hood",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125960231",
+    "imdb": "tt32273171",
+    "tmdb": 1284465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-08-12",
+  "runtime_minutes": 123
+}

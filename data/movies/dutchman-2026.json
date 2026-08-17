@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dutchman_2026",
+  "title": "The Dutchman",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123169096",
+    "imdb": "tt29214162",
+    "tmdb": 1180417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-02"
+}

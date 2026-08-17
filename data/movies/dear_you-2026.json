@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_you_2026",
+  "title": "Dear You",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139679997",
+    "imdb": "tt41791573",
+    "tmdb": 1671548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-30",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devil_wears_prada_2_2026",
+  "title": "The Devil Wears Prada 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134611972",
+    "imdb": "tt33612209",
+    "tmdb": 1314481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-04-20",
+  "runtime_minutes": 119
+}

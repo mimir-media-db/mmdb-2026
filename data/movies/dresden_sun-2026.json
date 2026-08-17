@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dresden_sun_2026",
+  "title": "The Dresden Sun",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116867220",
+    "imdb": "tt1959374",
+    "tmdb": 846049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-06"
+}

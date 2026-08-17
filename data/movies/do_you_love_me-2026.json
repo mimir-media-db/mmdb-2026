@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_do_you_love_me_2026",
+  "title": "Do You Love Me",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139709702",
+    "imdb": "tt12484760",
+    "tmdb": 1518801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-07",
+  "runtime_minutes": 79
+}

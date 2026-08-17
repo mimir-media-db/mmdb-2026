@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dreadful_2026",
+  "title": "The Dreadful",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131919305",
+    "imdb": "tt30842022",
+    "tmdb": 1242937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-02-20"
+}
