@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extrawurst_2026",
+  "title": "Extrawurst",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134487219",
+    "imdb": "tt36586751",
+    "tmdb": 1427838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 100
+}

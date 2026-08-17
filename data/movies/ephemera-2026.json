@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ephemera_2026",
+  "title": "Ephemera",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139563990",
+    "imdb": "tt33499787",
+    "tmdb": 1675324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-06-07"
+}

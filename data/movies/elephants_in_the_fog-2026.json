@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elephants_in_the_fog_2026",
+  "title": "Elephants in the Fog",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139159598",
+    "imdb": "tt29279937",
+    "tmdb": 1661926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-05-20"
+}

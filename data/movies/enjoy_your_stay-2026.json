@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enjoy_your_stay_2026",
+  "title": "Enjoy Your Stay",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138336382",
+    "imdb": "tt38809417",
+    "tmdb": 1616187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 99
+}
