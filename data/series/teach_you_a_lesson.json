@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_teach_you_a_lesson",
+  "title": "Teach You a Lesson",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137844128",
+    "imdb": "tt34809853",
+    "tmdb": 276161
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
