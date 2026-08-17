@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_elle",
+  "title": "Elle",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133696105",
+    "imdb": "tt32020831",
+    "tmdb": 254420
+  },
+  "last_updated": "2026-08-17"
+}
