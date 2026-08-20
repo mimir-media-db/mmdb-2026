@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pitcairn_island_today_2026",
+  "title": "Pitcairn Island Today",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141123684",
+    "imdb": "tt0301732",
+    "tmdb": 197146
+  },
+  "last_updated": "2026-08-20"
+}
