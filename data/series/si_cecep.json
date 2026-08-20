@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_si_cecep",
+  "title": "Si Cecep",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q120878575",
+    "tmdb": 51764
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}
