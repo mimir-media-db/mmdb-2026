@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_restu_2024",
+  "title": "Restu (2024)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141130184",
+    "imdb": "tt39783166",
+    "tmdb": 256579
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null,
+  "total_episodes": 10
+}
