@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_old_man_2026",
+  "title": "Old Man",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106153068",
+    "imdb": "tt13456976",
+    "tmdb": 766220
+  },
+  "last_updated": "2026-08-20"
+}
