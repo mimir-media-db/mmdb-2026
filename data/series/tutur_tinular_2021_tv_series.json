@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tutur_tinular_2021_tv_series",
+  "title": "Tutur Tinular (2021 TV series)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q108867716",
+    "imdb": "tt0334873",
+    "tmdb": 66362
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}
