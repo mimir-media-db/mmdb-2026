@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bruised_celluloid_2026",
+  "title": "Bruised Celluloid",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141123674",
+    "imdb": "tt4525776",
+    "tmdb": 327945
+  },
+  "last_updated": "2026-08-20"
+}
