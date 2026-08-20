@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_les_evapores",
+  "title": "Les Évaporés",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136702993",
+    "imdb": "tt44049791"
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}
