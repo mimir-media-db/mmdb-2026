@@ -1,15 +1,11 @@
 {
   "schema_version": 1,
   "id": "s_",
-  "title": "الطبيب: في حياة أخرى",
+  "title": "الغميضة (مسلسل)",
   "start_year": 2026,
   "external_ids": {
-    "wikidata": "Q138679489",
-    "imdb": "tt40568799",
-    "tmdb": 310430
+    "wikidata": "Q138381120"
   },
   "last_updated": "2026-08-20",
-  "end_year": 2026,
-  "total_seasons": 1,
-  "total_episodes": 6
+  "end_year": null
 }
