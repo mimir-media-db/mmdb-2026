@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cotton_queen_2026",
+  "title": "Cotton Queen",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136765329",
+    "imdb": "tt37645474",
+    "tmdb": 974228
+  },
+  "last_updated": "2026-08-20",
+  "runtime_minutes": 89
+}
