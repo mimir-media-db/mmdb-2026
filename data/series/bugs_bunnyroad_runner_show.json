@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_bugs_bunnyroad_runner_show",
+  "title": "The Bugs Bunny/Road Runner Show",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140552108",
+    "imdb": "tt0356238"
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}
