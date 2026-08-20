@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_heart_2021",
+  "title": "Hello Heart (2021)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141130270",
+    "imdb": "tt15672158",
+    "tmdb": 136121
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null,
+  "total_episodes": 8
+}
