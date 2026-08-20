@@ -1,12 +1,13 @@
 {
   "schema_version": 1,
   "id": "m__2026",
-  "title": "Родительский дом (фильм)",
+  "title": "Выготский (фильм)",
   "year": 2026,
   "type": "movie",
   "external_ids": {
-    "wikidata": "Q140071118",
-    "imdb": "tt38504820"
+    "wikidata": "Q140685187",
+    "imdb": "tt42053103",
+    "tmdb": 1561949
   },
   "last_updated": "2026-08-20",
   "release_date": "2026-01-01"
