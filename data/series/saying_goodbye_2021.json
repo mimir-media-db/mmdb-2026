@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_saying_goodbye_2021",
+  "title": "Saying Goodbye (2021)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141130349",
+    "imdb": "tt15672122",
+    "tmdb": 136119
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null,
+  "total_episodes": 8
+}
