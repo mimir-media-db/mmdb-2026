@@ -1,15 +1,11 @@
 {
   "schema_version": 1,
   "id": "s_",
-  "title": "أخي",
+  "title": "أولاد الراعي",
   "start_year": 2026,
   "external_ids": {
-    "wikidata": "Q137845716",
-    "imdb": "tt38282411",
-    "tmdb": 306529
+    "wikidata": "Q131589792"
   },
   "last_updated": "2026-08-20",
-  "end_year": null,
-  "total_seasons": 1,
-  "total_episodes": 9
+  "end_year": null
 }
