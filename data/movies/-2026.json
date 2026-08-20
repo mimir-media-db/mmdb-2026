@@ -1,14 +1,15 @@
 {
   "schema_version": 1,
   "id": "m__2026",
-  "title": "Выготский (фильм)",
+  "title": "拯救哈馬斯人質",
   "year": 2026,
   "type": "movie",
   "external_ids": {
-    "wikidata": "Q140685187",
-    "imdb": "tt42053103",
-    "tmdb": 1561949
+    "wikidata": "Q132137356",
+    "imdb": "tt35439895",
+    "tmdb": 1418569
   },
   "last_updated": "2026-08-20",
-  "release_date": "2026-01-01"
+  "release_date": "2026-01-09",
+  "runtime_minutes": 97
 }
