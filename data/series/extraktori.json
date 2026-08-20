@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_extraktori",
+  "title": "Extraktoři",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116998486",
+    "imdb": "tt29452174",
+    "tmdb": 215097
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null,
+  "total_seasons": 2,
+  "total_episodes": 12
+}
