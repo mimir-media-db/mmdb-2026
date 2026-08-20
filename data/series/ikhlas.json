@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ikhlas",
+  "title": "Ikhlas",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q119567661",
+    "tmdb": 50149
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}
