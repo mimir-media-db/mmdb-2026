@@ -1,11 +1,14 @@
 {
   "schema_version": 1,
   "id": "s_",
-  "title": "الغميضة (مسلسل)",
+  "title": "الكية",
   "start_year": 2026,
   "external_ids": {
-    "wikidata": "Q138381120"
+    "wikidata": "Q138351554",
+    "imdb": "tt40045814"
   },
   "last_updated": "2026-08-20",
-  "end_year": null
+  "end_year": 2026,
+  "total_seasons": 1,
+  "total_episodes": 24
 }
