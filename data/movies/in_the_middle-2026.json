@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_middle_2026",
+  "title": "In the Middle",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140680078",
+    "imdb": "tt21835170",
+    "tmdb": 1061223
+  },
+  "last_updated": "2026-08-20"
+}

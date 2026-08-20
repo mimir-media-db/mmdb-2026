@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_most_beautiful_age_2026",
+  "title": "The Most Beautiful Age",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136831994",
+    "imdb": "tt0066131",
+    "tmdb": 155133
+  },
+  "last_updated": "2026-08-20",
+  "runtime_minutes": 75
+}

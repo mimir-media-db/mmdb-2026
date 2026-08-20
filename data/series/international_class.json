@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_international_class",
+  "title": "International Class",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q22342152",
+    "tmdb": 231961
+  },
+  "last_updated": "2026-08-20",
+  "end_year": 2017,
+  "total_seasons": 2,
+  "total_episodes": 393
+}

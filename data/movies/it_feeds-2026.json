@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_feeds_2026",
+  "title": "It Feeds",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136396301",
+    "imdb": "tt28230296",
+    "tmdb": 1145221
+  },
+  "last_updated": "2026-08-20",
+  "runtime_minutes": 101
+}

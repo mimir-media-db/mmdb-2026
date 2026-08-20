@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_last_photograph_2026",
+  "title": "The Last Photograph",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135917878",
+    "imdb": "tt37968650",
+    "tmdb": 487802
+  },
+  "last_updated": "2026-08-20"
+}

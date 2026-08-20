@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_2121_once_upon_a_time_in_the_future_2026",
+  "title": "2121: Once Upon a Time in the Future",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138843886",
+    "imdb": "tt17222924",
+    "tmdb": 1024179
+  },
+  "last_updated": "2026-08-20"
+}

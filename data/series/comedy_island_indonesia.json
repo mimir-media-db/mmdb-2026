@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_island_indonesia",
+  "title": "Comedy Island Indonesia",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q123555153",
+    "imdb": "tt29688988",
+    "tmdb": 239144
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}

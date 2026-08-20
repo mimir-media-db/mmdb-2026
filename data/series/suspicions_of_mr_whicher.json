@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_suspicions_of_mr_whicher",
+  "title": "The Suspicions of Mr. Whicher",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q6145302",
+    "imdb": "tt11460508"
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null,
+  "total_episodes": 4
+}

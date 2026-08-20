@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ruler_2026",
+  "title": "Ruler",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73903350",
+    "imdb": "tt11433724",
+    "tmdb": 657170
+  },
+  "last_updated": "2026-08-20"
+}

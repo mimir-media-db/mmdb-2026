@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_body_odyssey_2026",
+  "title": "Body Odyssey",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140745376",
+    "imdb": "tt15844940",
+    "tmdb": 1188405
+  },
+  "last_updated": "2026-08-20"
+}

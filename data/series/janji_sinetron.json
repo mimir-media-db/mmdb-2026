@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_janji_sinetron",
+  "title": "Janji (sinetron)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116745191",
+    "tmdb": 228947
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}

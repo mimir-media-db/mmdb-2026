@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_life_is_strange",
+  "title": "Life Is Strange",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138567315",
+    "imdb": "tt15344990",
+    "tmdb": 299990
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}

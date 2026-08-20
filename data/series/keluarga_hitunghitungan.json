@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_keluarga_hitunghitungan",
+  "title": "Keluarga Hitung-Hitungan",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124657035",
+    "imdb": "tt31258489",
+    "tmdb": 246164
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}

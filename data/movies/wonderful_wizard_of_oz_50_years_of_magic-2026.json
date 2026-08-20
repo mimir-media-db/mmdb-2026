@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wonderful_wizard_of_oz_50_years_of_magic_2026",
+  "title": "The Wonderful Wizard of Oz: 50 Years of Magic",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141123661",
+    "imdb": "tt0100950",
+    "tmdb": 334629
+  },
+  "last_updated": "2026-08-20"
+}

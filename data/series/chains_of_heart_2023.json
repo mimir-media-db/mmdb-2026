@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chains_of_heart_2023",
+  "title": "Chains of Heart (2023)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141129963",
+    "imdb": "tt27580377"
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null,
+  "total_episodes": 10
+}
