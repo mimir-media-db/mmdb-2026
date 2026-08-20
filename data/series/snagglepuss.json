@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_snagglepuss",
+  "title": "Snagglepuss",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q2722789",
+    "tmdb": 272160
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}
