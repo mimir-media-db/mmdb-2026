@@ -1,14 +1,11 @@
 {
   "schema_version": 1,
   "id": "s_",
-  "title": "المهاجر",
+  "title": "اليتيم (مسلسل)",
   "start_year": 2026,
   "external_ids": {
-    "wikidata": "Q138638876",
-    "imdb": "tt40623413"
+    "wikidata": "Q138605037"
   },
   "last_updated": "2026-08-20",
-  "end_year": 2026,
-  "total_seasons": 1,
-  "total_episodes": 22
+  "end_year": null
 }
