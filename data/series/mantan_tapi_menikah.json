@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mantan_tapi_menikah",
+  "title": "Mantan tapi Menikah",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116850257",
+    "imdb": "tt26236618",
+    "tmdb": 219485
+  },
+  "last_updated": "2026-08-20",
+  "end_year": null
+}
