@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sista_2026",
+  "title": "Sista",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126529299",
+    "imdb": "tt21206344",
+    "tmdb": 1134171
+  },
+  "last_updated": "2026-08-20"
+}
