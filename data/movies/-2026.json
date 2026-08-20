@@ -1,12 +1,14 @@
 {
   "schema_version": 1,
   "id": "m__2026",
-  "title": "Малыш",
+  "title": "名無し",
   "year": 2026,
   "type": "movie",
   "external_ids": {
-    "wikidata": "Q138649907"
+    "wikidata": "Q138464932",
+    "imdb": "tt42972499",
+    "tmdb": 1584397
   },
   "last_updated": "2026-08-20",
-  "release_date": "2026-02-26"
+  "release_date": "2026-05-22"
 }
