@@ -1,15 +1,12 @@
 {
   "schema_version": 1,
   "id": "m__2026",
-  "title": "拯救哈馬斯人質",
+  "title": "Малыш",
   "year": 2026,
   "type": "movie",
   "external_ids": {
-    "wikidata": "Q132137356",
-    "imdb": "tt35439895",
-    "tmdb": 1418569
+    "wikidata": "Q138649907"
   },
   "last_updated": "2026-08-20",
-  "release_date": "2026-01-09",
-  "runtime_minutes": 97
+  "release_date": "2026-02-26"
 }
