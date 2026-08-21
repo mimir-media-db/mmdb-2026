@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_trollie",
+  "title": "Trollie",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q112679708",
+    "imdb": "tt4659100",
+    "tmdb": 216021
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
