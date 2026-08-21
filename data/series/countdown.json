@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_countdown",
+  "title": "Countdown",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q2351011"
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null,
+  "total_episodes": 147
+}
