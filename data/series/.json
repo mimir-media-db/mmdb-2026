@@ -1,11 +1,14 @@
 {
   "schema_version": 1,
   "id": "s_",
-  "title": "أولاد الراعي",
+  "title": "الخزانة",
   "start_year": 2026,
   "external_ids": {
-    "wikidata": "Q131589792"
+    "wikidata": "Q138350989",
+    "imdb": "tt40044248"
   },
   "last_updated": "2026-08-21",
-  "end_year": null
+  "end_year": 2026,
+  "total_seasons": 1,
+  "total_episodes": 20
 }
