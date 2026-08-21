@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_io_te_2026",
+  "title": "Io + te",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138333509",
+    "imdb": "tt31613224",
+    "tmdb": 1619020
+  },
+  "last_updated": "2026-08-21"
+}
