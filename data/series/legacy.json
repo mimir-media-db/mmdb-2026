@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_legacy",
+  "title": "Legacy",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116838278",
+    "imdb": "tt11507982",
+    "tmdb": 122171
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
