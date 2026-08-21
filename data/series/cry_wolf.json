@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cry_wolf",
+  "title": "Cry Wolf",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140052331",
+    "imdb": "tt35855291",
+    "tmdb": 296182
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
