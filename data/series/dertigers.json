@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dertigers",
+  "title": "Dertigers",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q104507647",
+    "imdb": "tt12258686",
+    "tmdb": 103841
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
