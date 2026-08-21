@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_safe_2026",
+  "title": "in safe",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109451454",
+    "imdb": "tt0217567",
+    "tmdb": 445073
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 100
+}
