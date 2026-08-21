@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_patries_2026",
+  "title": "Patries",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107709859",
+    "imdb": "tt5080074",
+    "tmdb": 375209
+  },
+  "last_updated": "2026-08-21"
+}
