@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mockbuster_2026",
+  "title": "Mockbuster",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136681365",
+    "imdb": "tt32377397",
+    "tmdb": 1497325
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 90
+}
