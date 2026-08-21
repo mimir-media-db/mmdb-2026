@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_countess_of_monte_cristo",
+  "title": "The Countess of Monte Cristo",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136488880",
+    "imdb": "tt38688809",
+    "tmdb": 271338
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
