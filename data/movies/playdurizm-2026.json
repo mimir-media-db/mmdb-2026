@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_playdurizm_2026",
+  "title": "Playdurizm",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898690",
+    "imdb": "tt9733108",
+    "tmdb": 695350
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 87
+}
