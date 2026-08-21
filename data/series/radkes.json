@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_radkes",
+  "title": "The Radkes",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141110655",
+    "imdb": "tt10165608",
+    "tmdb": 89887
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
