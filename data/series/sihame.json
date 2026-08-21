@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sihame",
+  "title": "Sihame",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124478029",
+    "imdb": "tt20414388",
+    "tmdb": 209031
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
