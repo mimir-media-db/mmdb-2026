@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_allelujah_2026",
+  "title": "Allelujah",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110594434",
+    "imdb": "tt15765412",
+    "tmdb": 894201
+  },
+  "last_updated": "2026-08-21"
+}
