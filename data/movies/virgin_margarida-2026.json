@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virgin_margarida_2026",
+  "title": "Virgin Margarida",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108913557",
+    "imdb": "tt2155343",
+    "tmdb": 128238
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 90
+}
