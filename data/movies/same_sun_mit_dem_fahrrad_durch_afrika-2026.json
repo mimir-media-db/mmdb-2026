@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_same_sun_mit_dem_fahrrad_durch_afrika_2026",
+  "title": "Same Sun - Mit dem Fahrrad durch Afrika",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141133493",
+    "imdb": "tt42574015",
+    "tmdb": 1650016
+  },
+  "last_updated": "2026-08-21",
+  "release_date": "2026-09-03",
+  "runtime_minutes": 90
+}
