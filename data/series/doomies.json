@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_doomies",
+  "title": "The Doomies",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140378359",
+    "imdb": "tt21057046",
+    "tmdb": 204137
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
