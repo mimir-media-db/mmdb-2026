@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_serengeti_symphony_2026",
+  "title": "Serengeti Symphony",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135438806",
+    "imdb": "tt0170560",
+    "tmdb": 232906
+  },
+  "last_updated": "2026-08-21"
+}
