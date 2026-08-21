@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bahar",
+  "title": "Bahar",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124757667",
+    "imdb": "tt31012986",
+    "tmdb": 245914
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 12
+}
