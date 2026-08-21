@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nerds_with_attitude",
+  "title": "Nerds with Attitude",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140437967",
+    "imdb": "tt13071928",
+    "tmdb": 133026
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null,
+  "total_episodes": 30
+}
