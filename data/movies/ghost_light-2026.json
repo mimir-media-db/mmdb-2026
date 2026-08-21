@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_light_2026",
+  "title": "Ghost Light",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104830191",
+    "imdb": "tt6215446",
+    "tmdb": 558742
+  },
+  "last_updated": "2026-08-21"
+}
