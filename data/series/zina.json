@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zina",
+  "title": "Zina",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q110966439",
+    "imdb": "tt16399044",
+    "tmdb": 137497
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 8
+}
