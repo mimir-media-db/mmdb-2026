@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aux_jours_qui_viennent_2026",
+  "title": "Aux jours qui viennent",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134786238",
+    "imdb": "tt30323611",
+    "tmdb": 1193440
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 100
+}
