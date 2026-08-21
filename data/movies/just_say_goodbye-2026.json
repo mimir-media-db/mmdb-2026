@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_say_goodbye_2026",
+  "title": "Just Say Goodbye",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115516681",
+    "imdb": "tt5641246",
+    "tmdb": 569064
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 106
+}
