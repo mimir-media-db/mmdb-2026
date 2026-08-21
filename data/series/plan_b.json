@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_plan_b",
+  "title": "Plan B",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q55656919",
+    "imdb": "tt35939490",
+    "tmdb": 118323
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
