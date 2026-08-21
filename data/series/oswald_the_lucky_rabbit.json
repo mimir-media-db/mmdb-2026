@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_oswald_the_lucky_rabbit",
+  "title": "Oswald the Lucky Rabbit",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q135649141",
+    "imdb": "tt37350717",
+    "tmdb": 310113
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
