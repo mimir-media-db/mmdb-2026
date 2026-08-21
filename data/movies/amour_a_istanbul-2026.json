@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_amour_a_istanbul_2026",
+  "title": "Amour à Istanbul",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54863908",
+    "imdb": "tt0253099",
+    "tmdb": 493614
+  },
+  "last_updated": "2026-08-21"
+}
