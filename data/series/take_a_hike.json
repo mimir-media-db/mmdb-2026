@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_take_a_hike",
+  "title": "Take a Hike!",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141135359",
+    "imdb": "tt39387594"
+  },
+  "last_updated": "2026-08-21",
+  "end_year": 2026,
+  "total_episodes": 10
+}

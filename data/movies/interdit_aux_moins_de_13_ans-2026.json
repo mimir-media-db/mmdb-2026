@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_interdit_aux_moins_de_13_ans_2026",
+  "title": "Interdit aux moins de 13 ans",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97280782",
+    "imdb": "tt0084143"
+  },
+  "last_updated": "2026-08-21"
+}

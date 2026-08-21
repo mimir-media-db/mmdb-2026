@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_intern_2026",
+  "title": "The Intern",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140888632",
+    "imdb": "tt43741215"
+  },
+  "last_updated": "2026-08-21"
+}

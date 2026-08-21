@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_andrey_tarkovsky_a_cinema_prayer_2026",
+  "title": "Andrey Tarkovsky. A Cinema Prayer",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101437463",
+    "imdb": "tt10850518",
+    "tmdb": 618389
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 97
+}

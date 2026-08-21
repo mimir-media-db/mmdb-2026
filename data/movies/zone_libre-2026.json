@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zone_libre_2026",
+  "title": "Zone libre",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106729595",
+    "imdb": "tt0450890",
+    "tmdb": 165162
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 104
+}

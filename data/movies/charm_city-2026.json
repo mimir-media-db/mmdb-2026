@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charm_city_2026",
+  "title": "Charm City",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104878929",
+    "imdb": "tt8196200",
+    "tmdb": 512230
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 108
+}

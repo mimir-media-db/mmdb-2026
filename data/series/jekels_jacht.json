@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_jekels_jacht",
+  "title": "Jekels Jacht",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q112227112",
+    "imdb": "tt17821814",
+    "tmdb": 194982
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}

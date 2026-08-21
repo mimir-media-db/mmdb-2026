@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_something_real_2026",
+  "title": "Something Real",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139860799"
+  },
+  "last_updated": "2026-08-21",
+  "release_date": "2026-01-01"
+}

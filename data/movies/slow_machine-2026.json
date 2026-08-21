@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_slow_machine_2026",
+  "title": "Slow Machine",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101245267",
+    "imdb": "tt8300462",
+    "tmdb": 662947
+  },
+  "last_updated": "2026-08-21"
+}

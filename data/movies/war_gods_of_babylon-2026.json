@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_gods_of_babylon_2026",
+  "title": "War Gods of Babylon",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3829073",
+    "imdb": "tt0056674",
+    "tmdb": 256724
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 88
+}

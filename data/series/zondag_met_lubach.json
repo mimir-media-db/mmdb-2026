@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zondag_met_lubach",
+  "title": "Zondag met Lubach",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q18655610",
+    "imdb": "tt5556434",
+    "tmdb": 64758
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null,
+  "total_seasons": 12,
+  "total_episodes": 13
+}

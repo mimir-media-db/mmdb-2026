@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poser_2026",
+  "title": "Poser",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108770430",
+    "imdb": "tt11175956",
+    "tmdb": 820967
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 87
+}

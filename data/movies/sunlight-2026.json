@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_sunlight_2026",
+  "title": "Sunlight",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140676301",
+    "imdb": "tt15204578"
+  },
+  "last_updated": "2026-08-21"
+}

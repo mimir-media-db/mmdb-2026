@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_10_2026",
+  "title": "Perfect 10",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97580947",
+    "imdb": "tt9070230",
+    "tmdb": 582908
+  },
+  "last_updated": "2026-08-21"
+}

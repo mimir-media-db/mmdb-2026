@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_fausse_note_2026",
+  "title": "Fausse Note",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140914550",
+    "imdb": "tt38566952"
+  },
+  "last_updated": "2026-08-21"
+}

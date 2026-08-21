@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_serafin_geronimo_2026",
+  "title": "Serafin Geronimo",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97403830",
+    "imdb": "tt0253189",
+    "tmdb": 149446
+  },
+  "last_updated": "2026-08-21"
+}

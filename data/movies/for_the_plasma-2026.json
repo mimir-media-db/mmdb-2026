@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_the_plasma_2026",
+  "title": "For the Plasma",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113685712",
+    "imdb": "tt3717236",
+    "tmdb": 278106
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 94
+}

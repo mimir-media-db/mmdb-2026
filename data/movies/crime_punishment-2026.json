@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crime_punishment_2026",
+  "title": "Crime + Punishment",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121272058",
+    "imdb": "tt7689908",
+    "tmdb": 489983
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 112
+}

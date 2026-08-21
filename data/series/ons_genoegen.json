@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ons_genoegen",
+  "title": "Ons Genoegen",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140331775"
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null,
+  "total_episodes": 12
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_stripes_2026",
+  "title": "Tiger Stripes",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118753835",
+    "imdb": "tt10803634",
+    "tmdb": 1077693
+  },
+  "last_updated": "2026-08-21"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_officer_obrien_2026",
+  "title": "Officer O'Brien",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110264263",
+    "imdb": "tt0021198",
+    "tmdb": 275469
+  },
+  "last_updated": "2026-08-21"
+}

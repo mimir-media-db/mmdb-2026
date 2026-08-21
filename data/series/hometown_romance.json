@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hometown_romance",
+  "title": "Hometown Romance",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141069916",
+    "imdb": "tt39452164",
+    "tmdb": 312583
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}

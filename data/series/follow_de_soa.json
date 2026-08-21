@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_follow_de_soa",
+  "title": "Follow de SOA",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q126096982",
+    "imdb": "tt14722644",
+    "tmdb": 124139
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}

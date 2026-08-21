@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_atomic",
+  "title": "Atomic",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q131442961",
+    "imdb": "tt32386301",
+    "tmdb": 254701
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 5
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_janes_2026",
+  "title": "The Janes",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117219576",
+    "imdb": "tt16377356",
+    "tmdb": 913829
+  },
+  "last_updated": "2026-08-21",
+  "runtime_minutes": 101
+}

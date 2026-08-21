@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_elyse_2026",
+  "title": "Elyse",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101202468",
+    "imdb": "tt9098562",
+    "tmdb": 759688
+  },
+  "last_updated": "2026-08-21"
+}

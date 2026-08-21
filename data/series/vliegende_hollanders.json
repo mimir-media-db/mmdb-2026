@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vliegende_hollanders",
+  "title": "Vliegende Hollanders",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q100386040",
+    "imdb": "tt10230370",
+    "tmdb": 94531
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 8
+}
