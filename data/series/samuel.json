@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_samuel",
+  "title": "Samuel",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140196745",
+    "imdb": "tt43580341"
+  },
+  "last_updated": "2026-08-21",
+  "end_year": null
+}
