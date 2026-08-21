@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_louis_2026",
+  "title": "Louis",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111685389",
+    "imdb": "tt19139066",
+    "tmdb": 959860
+  },
+  "last_updated": "2026-08-21"
+}
