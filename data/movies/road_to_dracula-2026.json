@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_road_to_dracula_2026",
+  "title": "The Road to Dracula",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141123642",
+    "imdb": "tt0242820",
+    "tmdb": 139708
+  },
+  "last_updated": "2026-08-22"
+}

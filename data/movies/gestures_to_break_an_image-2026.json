@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gestures_to_break_an_image_2026",
+  "title": "Gestures to Break an Image",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141145647",
+    "tmdb": 1711435
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 15
+}

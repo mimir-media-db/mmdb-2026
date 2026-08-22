@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_hareem",
+  "title": "Hareem",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q125510401"
+  },
+  "last_updated": "2026-08-22",
+  "end_year": null
+}

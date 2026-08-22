@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_virgin_the_series",
+  "title": "Virgin the Series",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q122957595",
+    "imdb": "tt14760100",
+    "tmdb": 156101
+  },
+  "last_updated": "2026-08-22",
+  "end_year": null
+}

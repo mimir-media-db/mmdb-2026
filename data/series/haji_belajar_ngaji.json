@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_haji_belajar_ngaji",
+  "title": "Haji Belajar Ngaji",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q97240742"
+  },
+  "last_updated": "2026-08-22",
+  "end_year": null,
+  "total_episodes": 64
+}

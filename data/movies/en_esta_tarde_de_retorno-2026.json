@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_esta_tarde_de_retorno_2026",
+  "title": "En esta tarde de retorno",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141147164",
+    "tmdb": 1737268
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 62
+}

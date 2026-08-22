@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_av_lima_2026",
+  "title": "Av. Lima",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141147162",
+    "tmdb": 1753422
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 105
+}

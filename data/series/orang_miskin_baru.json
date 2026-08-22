@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_orang_miskin_baru",
+  "title": "Orang Miskin Baru",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q97307656"
+  },
+  "last_updated": "2026-08-22",
+  "end_year": null
+}
