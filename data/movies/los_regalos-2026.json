@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_regalos_2026",
+  "title": "Los regalos",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141147168",
+    "tmdb": 1744752
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 71
+}
