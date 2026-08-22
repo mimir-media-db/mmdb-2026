@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vedlejsi_produkt_2026",
+  "title": "Vedlejší produkt",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125726846",
+    "imdb": "tt31012708"
+  },
+  "last_updated": "2026-08-22",
+  "runtime_minutes": 56
+}
