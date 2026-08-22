@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spa_weekend_2026",
+  "title": "Spa Weekend",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135285630",
+    "imdb": "tt33305867",
+    "tmdb": 1341138
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-09-04",
+  "runtime_minutes": 98
+}

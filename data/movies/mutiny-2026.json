@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mutiny_2026",
+  "title": "Mutiny",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125878994",
+    "imdb": "tt32338669",
+    "tmdb": 1288445
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-08-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_martin_parr_2026",
+  "title": "I Am Martin Parr",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132732158",
+    "imdb": "tt33985496"
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-11-26",
+  "runtime_minutes": 68
+}
