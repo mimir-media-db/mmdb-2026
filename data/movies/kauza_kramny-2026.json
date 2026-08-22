@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kauza_kramny_2026",
+  "title": "Kauza Kramný",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600516",
+    "imdb": "tt32932208"
+  },
+  "last_updated": "2026-08-22",
+  "runtime_minutes": 45
+}
