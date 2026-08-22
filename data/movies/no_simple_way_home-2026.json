@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_simple_way_home_2026",
+  "title": "No Simple Way Home",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110935550",
+    "imdb": "tt17079296",
+    "tmdb": 928364
+  },
+  "last_updated": "2026-08-22",
+  "runtime_minutes": 83
+}
