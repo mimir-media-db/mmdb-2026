@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hrdina_tv_series_2026",
+  "title": "Hrdina (TV series)",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130634357",
+    "imdb": "tt33101555"
+  },
+  "last_updated": "2026-08-22",
+  "runtime_minutes": 52
+}
