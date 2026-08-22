@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_my_ghost_oh_my_god_2026",
+  "title": "Oh My Ghost! Oh My God!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139783604",
+    "imdb": "tt43560584",
+    "tmdb": 1193673
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-09-04",
+  "runtime_minutes": 93
+}
