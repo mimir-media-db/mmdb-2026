@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_gadis_korek_api",
+  "title": "Gadis Korek Api",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q122491750"
+  },
+  "last_updated": "2026-08-22",
+  "end_year": null
+}
