@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_road_2026",
+  "title": "Iron Road",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6072814",
+    "imdb": "tt1013119"
+  },
+  "last_updated": "2026-08-22",
+  "runtime_minutes": 180
+}
