@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hummingbird_paints_fragrant_songs_2026",
+  "title": "The Hummingbird Paints Fragrant Songs",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141145295",
+    "imdb": "tt39052657",
+    "tmdb": 1753410
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 88
+}
