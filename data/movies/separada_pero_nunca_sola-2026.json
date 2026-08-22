@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_separada_pero_nunca_sola_2026",
+  "title": "Separada pero nunca sola",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141114094",
+    "imdb": "tt44111791",
+    "tmdb": 1744851
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-09-03",
+  "runtime_minutes": 90
+}
