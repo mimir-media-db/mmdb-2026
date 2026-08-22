@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_adikts_2026",
+  "title": "Adikts",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124006685",
+    "imdb": "tt30824794"
+  },
+  "last_updated": "2026-08-22",
+  "runtime_minutes": 30
+}
