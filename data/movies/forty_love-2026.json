@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forty_love_2026",
+  "title": "Forty Love",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140331952",
+    "imdb": "tt38361305",
+    "tmdb": 1519016
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-11-25"
+}
