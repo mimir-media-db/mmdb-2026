@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twister_caught_in_the_storm_2026",
+  "title": "The Twister: Caught in the Storm",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133235520",
+    "imdb": "tt35882698",
+    "tmdb": 1437446
+  },
+  "last_updated": "2026-08-22",
+  "runtime_minutes": 89
+}
