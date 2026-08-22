@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manana_me_caso_2026",
+  "title": "Mañana me caso",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141147158",
+    "imdb": "tt38808587",
+    "tmdb": 1744212
+  },
+  "last_updated": "2026-08-22",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 100
+}
