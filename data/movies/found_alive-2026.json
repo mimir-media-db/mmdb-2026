@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_found_alive_2026",
+  "title": "Found Alive",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73546864",
+    "imdb": "tt0024035",
+    "tmdb": 212493
+  },
+  "last_updated": "2026-08-23"
+}
