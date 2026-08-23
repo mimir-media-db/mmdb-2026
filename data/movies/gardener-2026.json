@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gardener_2026",
+  "title": "The Gardener",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141146764",
+    "imdb": "tt39747274",
+    "tmdb": 1647277
+  },
+  "last_updated": "2026-08-23",
+  "release_date": "2026-04-17"
+}
