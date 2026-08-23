@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_from_the_jedi_temple_2026",
+  "title": "Escape from the Jedi Temple",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75015398",
+    "imdb": "tt3688956"
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 22
+}
