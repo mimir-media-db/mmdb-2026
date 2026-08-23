@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_punch_2026",
+  "title": "The Heart Punch",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65071684",
+    "imdb": "tt0022982",
+    "tmdb": 223475
+  },
+  "last_updated": "2026-08-23"
+}
