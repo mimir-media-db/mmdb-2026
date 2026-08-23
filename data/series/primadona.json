@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_primadona",
+  "title": "Primadona",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q97218496"
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2005,
+  "total_episodes": 25
+}
