@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mafia",
+  "title": "Mafia",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141147855",
+    "imdb": "tt32840267"
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_episodes": 6
+}
