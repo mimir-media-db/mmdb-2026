@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_white_rage_2026",
+  "title": "White Rage",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65246149",
+    "imdb": "tt4614910",
+    "tmdb": 374142
+  },
+  "last_updated": "2026-08-23"
+}
