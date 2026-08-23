@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_never_change_2026",
+  "title": "Never Change!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139525801",
+    "imdb": "tt37899019",
+    "tmdb": 1558796
+  },
+  "last_updated": "2026-08-23"
+}

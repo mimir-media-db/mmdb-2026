@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_na_koho_to_slovo_padne_2026",
+  "title": "Na koho to slovo padne...",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30513017",
+    "imdb": "tt0171552",
+    "tmdb": 1109151
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 97
+}
