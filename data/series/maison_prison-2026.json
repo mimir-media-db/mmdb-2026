@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_maison_prison_2026",
+  "title": "Maison Prison",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140440612",
+    "imdb": "tt43265084",
+    "tmdb": 318177
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

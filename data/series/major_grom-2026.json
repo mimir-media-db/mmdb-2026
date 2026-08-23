@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_major_grom_2026",
+  "title": "Major Grom",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130343349",
+    "imdb": "tt33451063",
+    "tmdb": 285507
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

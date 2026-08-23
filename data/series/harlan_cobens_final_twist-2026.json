@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_harlan_cobens_final_twist_2026",
+  "title": "Harlan Coben's Final Twist",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137801932",
+    "imdb": "tt36852013",
+    "tmdb": 305997
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

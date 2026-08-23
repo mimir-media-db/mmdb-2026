@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hawk_2026",
+  "title": "The Hawk",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125965346",
+    "imdb": "tt27550719",
+    "tmdb": 254528
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

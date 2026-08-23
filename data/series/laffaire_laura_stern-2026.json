@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_laffaire_laura_stern_2026",
+  "title": "L'Affaire Laura Stern",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q133253476",
+    "imdb": "tt39387981",
+    "tmdb": 285650
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

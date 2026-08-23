@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_spooky_in_love_2026",
+  "title": "Spooky in Love",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138266416",
+    "imdb": "tt40247521",
+    "tmdb": 298610
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

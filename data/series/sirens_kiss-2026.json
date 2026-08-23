@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sirens_kiss_2026",
+  "title": "Siren's Kiss",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137772351",
+    "imdb": "tt39303992",
+    "tmdb": 310800
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

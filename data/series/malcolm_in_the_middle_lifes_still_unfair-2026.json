@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_malcolm_in_the_middle_lifes_still_unfair_2026",
+  "title": "Malcolm in the Middle: Life's Still Unfair",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134396475",
+    "imdb": "tt35466672",
+    "tmdb": 279471
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_mating_season_2026",
+  "title": "Mating Season",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139387446",
+    "imdb": "tt14690136",
+    "tmdb": 290295
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": []
+}

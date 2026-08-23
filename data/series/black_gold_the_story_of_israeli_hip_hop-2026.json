@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_black_gold_the_story_of_israeli_hip_hop_2026",
+  "title": "Black Gold: The Story of Israeli Hip Hop",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140622586",
+    "imdb": "tt43600985",
+    "tmdb": 329526
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

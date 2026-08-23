@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dinosaurs_2026",
+  "title": "The Dinosaurs",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138035326",
+    "imdb": "tt32493765",
+    "tmdb": 313298
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

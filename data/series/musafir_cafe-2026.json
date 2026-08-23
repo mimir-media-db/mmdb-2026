@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_musafir_cafe_2026",
+  "title": "Musafir Cafe",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140762618",
+    "imdb": "tt39665097",
+    "tmdb": 313101
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

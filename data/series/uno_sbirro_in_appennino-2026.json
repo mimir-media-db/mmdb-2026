@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_uno_sbirro_in_appennino_2026",
+  "title": "Uno sbirro in Appennino",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139383407",
+    "imdb": "tt31394052",
+    "tmdb": 318760
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

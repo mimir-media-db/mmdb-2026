@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_selfie_family_2026",
+  "title": "Selfie Family",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137780877",
+    "imdb": "tt39962826",
+    "tmdb": 316422
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_your_third_2026",
+  "title": "Your Third",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139960664",
+    "imdb": "tt35932159",
+    "tmdb": 284822
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

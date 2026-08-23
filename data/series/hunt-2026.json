@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hunt_2026",
+  "title": "The Hunt",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136436373",
+    "imdb": "tt33086602",
+    "tmdb": 257992
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

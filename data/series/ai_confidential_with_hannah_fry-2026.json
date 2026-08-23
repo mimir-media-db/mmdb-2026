@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ai_confidential_with_hannah_fry_2026",
+  "title": "AI Confidential with Hannah Fry",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138454416",
+    "imdb": "tt39930758",
+    "tmdb": 290226
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

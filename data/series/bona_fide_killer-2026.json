@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_bona_fide_killer_2026",
+  "title": "A Bona Fide Killer",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139411314",
+    "imdb": "tt43616775",
+    "tmdb": 294095
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

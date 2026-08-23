@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_vladimir_2026",
+  "title": "Vladimir",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135261486",
+    "imdb": "tt35997699",
+    "tmdb": 285739
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

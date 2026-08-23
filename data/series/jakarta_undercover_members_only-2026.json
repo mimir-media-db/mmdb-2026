@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jakarta_undercover_members_only_2026",
+  "title": "Jakarta Undercover: Members Only",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140712869",
+    "imdb": "tt43678299",
+    "tmdb": 328662
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

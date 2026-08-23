@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_gate24the_border_2026",
+  "title": "GATE24:The Border",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139913913",
+    "tmdb": 323579
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

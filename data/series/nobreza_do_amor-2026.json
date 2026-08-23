@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_nobreza_do_amor_2026",
+  "title": "A Nobreza do Amor",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136484563",
+    "imdb": "tt39396172",
+    "tmdb": 301557
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

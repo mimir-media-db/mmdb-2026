@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_di_luar_nurul_2026",
+  "title": "Di Luar Nurul",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139967826",
+    "imdb": "tt43142114",
+    "tmdb": 324811
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

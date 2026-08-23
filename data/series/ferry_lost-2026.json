@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_ferry_lost_2026",
+  "title": "Ferry Lost",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138320680",
+    "imdb": "tt39929238",
+    "tmdb": 314127
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": []
+}

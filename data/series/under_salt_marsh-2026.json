@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_under_salt_marsh_2026",
+  "title": "Under Salt Marsh",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130478292",
+    "imdb": "tt33741848",
+    "tmdb": 262262
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

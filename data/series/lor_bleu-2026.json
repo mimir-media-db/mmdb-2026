@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_lor_bleu_2026",
+  "title": "L'Or bleu",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133407564",
+    "imdb": "tt42507192",
+    "tmdb": 288383
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "FR"
+  ]
+}

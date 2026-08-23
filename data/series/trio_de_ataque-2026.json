@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_trio_de_ataque_2026",
+  "title": "Trio de Ataque",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137909395"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "sports program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

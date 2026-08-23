@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_well_be_fine_2026",
+  "title": "We'll Be Fine",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138819073",
+    "imdb": "tt38048350",
+    "tmdb": 314172
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

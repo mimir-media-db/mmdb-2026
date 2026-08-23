@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_twisted_yoga_2026",
+  "title": "Twisted Yoga",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138668320",
+    "imdb": "tt39842139",
+    "tmdb": 315800
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": []
+}

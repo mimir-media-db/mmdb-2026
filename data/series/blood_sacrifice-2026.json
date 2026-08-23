@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_blood_sacrifice_2026",
+  "title": "Blood Sacrifice",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136404689",
+    "imdb": "tt38553367",
+    "tmdb": 303351
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_hold_a_court_now_2026",
+  "title": "Hold a Court Now",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136772078",
+    "imdb": "tt30478333",
+    "tmdb": 261675
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

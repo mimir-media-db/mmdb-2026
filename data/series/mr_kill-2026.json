@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_kill_2026",
+  "title": "Mr. Kill",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140328910",
+    "imdb": "tt39046052",
+    "tmdb": 306953
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_6sixtones_2026",
+  "title": "6SixTONES",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138542419",
+    "tmdb": 317409
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

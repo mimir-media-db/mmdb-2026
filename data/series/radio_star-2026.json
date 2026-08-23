@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_radio_star_2026",
+  "title": "Radio Star",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139585728",
+    "imdb": "tt41355669",
+    "tmdb": 314434
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

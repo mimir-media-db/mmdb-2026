@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_bodas_sa_2026",
+  "title": "Bodas S.A.",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140692538",
+    "imdb": "tt38353553",
+    "tmdb": 313935
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

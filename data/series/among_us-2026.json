@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_among_us_2026",
+  "title": "Among Us",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124896137",
+    "imdb": "tt28230655",
+    "tmdb": 229544
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_tenkosei_nano_2026",
+  "title": "Tenkosei Nano",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139550328"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Noir",
+    "Romantic Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

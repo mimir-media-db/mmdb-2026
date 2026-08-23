@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_spring_fever_2026",
+  "title": "Spring Fever",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136527446",
+    "imdb": "tt39137681",
+    "tmdb": 280948
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

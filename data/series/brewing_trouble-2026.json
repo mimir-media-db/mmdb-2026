@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_brewing_trouble_2026",
+  "title": "Brewing Trouble",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138653338",
+    "imdb": "tt39847020",
+    "tmdb": 316435
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

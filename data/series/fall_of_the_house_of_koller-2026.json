@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fall_of_the_house_of_koller_2026",
+  "title": "The Fall of the House of Koller",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130740128"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "family television series",
+    "comedy television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

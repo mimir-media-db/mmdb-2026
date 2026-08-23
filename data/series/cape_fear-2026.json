@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cape_fear_2026",
+  "title": "Cape Fear",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134126367",
+    "imdb": "tt34675596",
+    "tmdb": 277439
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

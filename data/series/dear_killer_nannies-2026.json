@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dear_killer_nannies_2026",
+  "title": "Dear Killer Nannies",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138752308",
+    "imdb": "tt32125946",
+    "tmdb": 313721
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

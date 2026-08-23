@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_family_resister_2026",
+  "title": "Family Resister",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139885001",
+    "imdb": "tt43619121"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 120,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_tagusari_bros_2026",
+  "title": "TAGUSARI bros.",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138095595",
+    "imdb": "tt41801303",
+    "tmdb": 311871
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

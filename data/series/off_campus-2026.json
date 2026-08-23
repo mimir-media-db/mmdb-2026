@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_off_campus_2026",
+  "title": "Off Campus",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138862091",
+    "imdb": "tt33546863",
+    "tmdb": 273240
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

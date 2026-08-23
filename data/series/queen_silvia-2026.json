@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_silvia_2026",
+  "title": "Queen Silvia",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138784833",
+    "imdb": "tt41052642"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "SE"
+  ]
+}

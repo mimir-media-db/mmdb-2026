@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_brothers_2026",
+  "title": "Brothers",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133842356",
+    "imdb": "tt6773088",
+    "tmdb": 250203
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": []
+}

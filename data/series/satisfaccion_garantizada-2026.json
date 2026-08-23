@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_satisfaccion_garantizada_2026",
+  "title": "Satisfacción garantizada",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132852828",
+    "imdb": "tt35946742",
+    "tmdb": 285404
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

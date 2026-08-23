@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_populara_problem_2026",
+  "title": "Populära problem",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137393549",
+    "imdb": "tt37980553",
+    "tmdb": 310929
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

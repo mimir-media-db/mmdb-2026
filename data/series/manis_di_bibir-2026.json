@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_manis_di_bibir_2026",
+  "title": "Manis di Bibir",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140360962",
+    "imdb": "tt43620706"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

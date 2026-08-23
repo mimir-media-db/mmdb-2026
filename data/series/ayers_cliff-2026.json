@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ayers_cliff_2026",
+  "title": "Ayer's Cliff",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138008226",
+    "imdb": "tt39364935",
+    "tmdb": 310881
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 7,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

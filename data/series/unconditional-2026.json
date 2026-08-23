@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_unconditional_2026",
+  "title": "Unconditional",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138494715",
+    "imdb": "tt35668813",
+    "tmdb": 314916
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

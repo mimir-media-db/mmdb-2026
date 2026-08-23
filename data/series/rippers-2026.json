@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_rippers_2026",
+  "title": "Rippers",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138718532",
+    "imdb": "tt40441212",
+    "tmdb": 314295
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": []
+}
