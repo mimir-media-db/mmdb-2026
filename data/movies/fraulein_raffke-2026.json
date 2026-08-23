@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fraulein_raffke_2026",
+  "title": "Fräulein Raffke",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23926350",
+    "imdb": "tt0014066",
+    "tmdb": 506791
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 60
+}

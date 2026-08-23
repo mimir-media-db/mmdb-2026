@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_special_olympics_2026",
+  "title": "Special Olympics",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56277370",
+    "imdb": "tt0078306",
+    "tmdb": 375221
+  },
+  "last_updated": "2026-08-23"
+}

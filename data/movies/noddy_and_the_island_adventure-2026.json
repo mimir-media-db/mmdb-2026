@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noddy_and_the_island_adventure_2026",
+  "title": "Noddy And The Island Adventure",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11829961",
+    "imdb": "tt0495166",
+    "tmdb": 347439
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 26
+}

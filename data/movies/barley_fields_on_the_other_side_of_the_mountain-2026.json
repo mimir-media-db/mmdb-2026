@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barley_fields_on_the_other_side_of_the_mountain_2026",
+  "title": "Barley Fields on the Other Side of the Mountain",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50738983",
+    "imdb": "tt7606796",
+    "tmdb": 496404
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 88
+}

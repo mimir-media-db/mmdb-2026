@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tysons_run_2026",
+  "title": "Tyson's Run",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62018337",
+    "imdb": "tt3580748",
+    "tmdb": 860852
+  },
+  "last_updated": "2026-08-23"
+}

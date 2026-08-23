@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sevdigim_sensin",
+  "title": "Sevdiğim Sensin",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138289636",
+    "imdb": "tt38987259",
+    "tmdb": 306215
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 15
+}

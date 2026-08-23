@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_verschleppt_kein_weg_zuruck_2026",
+  "title": "Verschleppt - Kein Weg zurück",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43044050",
+    "imdb": "tt0768168",
+    "tmdb": 176176
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 95
+}

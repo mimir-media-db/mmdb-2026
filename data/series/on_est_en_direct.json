@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_on_est_en_direct",
+  "title": "On est en direct",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q100520543"
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}

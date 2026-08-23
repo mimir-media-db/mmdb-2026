@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_romance_of_the_west_2026",
+  "title": "Romance of the West",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65069392",
+    "imdb": "tt0038892",
+    "tmdb": 452515
+  },
+  "last_updated": "2026-08-23"
+}

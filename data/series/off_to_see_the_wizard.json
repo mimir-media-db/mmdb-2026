@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_off_to_see_the_wizard",
+  "title": "Off to See the Wizard",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q7079005",
+    "imdb": "tt0061284",
+    "tmdb": 30441
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}

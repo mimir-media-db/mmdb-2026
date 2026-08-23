@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_joy_ride_2026",
+  "title": "Joy Ride",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65054631",
+    "imdb": "tt0051803",
+    "tmdb": 208233
+  },
+  "last_updated": "2026-08-23"
+}

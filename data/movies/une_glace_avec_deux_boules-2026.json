@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_une_glace_avec_deux_boules_2026",
+  "title": "Une glace avec deux boules...",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61108009",
+    "imdb": "tt0083143",
+    "tmdb": 2170
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 89
+}

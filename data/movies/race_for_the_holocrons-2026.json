@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_race_for_the_holocrons_2026",
+  "title": "Race for the Holocrons",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75015215",
+    "imdb": "tt3867550"
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 22
+}

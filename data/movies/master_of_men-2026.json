@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_master_of_men_2026",
+  "title": "Master of Men",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65068183",
+    "imdb": "tt0024309",
+    "tmdb": 395040
+  },
+  "last_updated": "2026-08-23"
+}

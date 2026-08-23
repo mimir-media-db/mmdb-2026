@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soccer_fans_2026",
+  "title": "Soccer Fans",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13539009",
+    "imdb": "tt0239994",
+    "tmdb": 46638
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_announcement_2026",
+  "title": "The Announcement",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61075874",
+    "imdb": "tt8751804",
+    "tmdb": 538102
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 94
+}

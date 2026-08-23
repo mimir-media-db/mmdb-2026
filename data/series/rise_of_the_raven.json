@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rise_of_the_raven",
+  "title": "Rise of the Raven",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q130244547",
+    "imdb": "tt15373664",
+    "tmdb": 271050
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 10
+}

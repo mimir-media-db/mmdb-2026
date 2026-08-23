@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wonder_woman",
+  "title": "The Wonder Woman",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q85884548",
+    "imdb": "tt11783604",
+    "tmdb": 108743
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}

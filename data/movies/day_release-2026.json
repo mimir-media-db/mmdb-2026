@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_day_release_2026",
+  "title": "Day Release",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29022287",
+    "imdb": "tt3863542",
+    "tmdb": 321557
+  },
+  "last_updated": "2026-08-23"
+}

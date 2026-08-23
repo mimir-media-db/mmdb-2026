@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_times_square_2026",
+  "title": "Times Square",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65067507",
+    "imdb": "tt0019479",
+    "tmdb": 600504
+  },
+  "last_updated": "2026-08-23"
+}

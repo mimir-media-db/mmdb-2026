@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_munchen_beats",
+  "title": "München Beats",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141066257",
+    "imdb": "tt37206153",
+    "tmdb": 331124
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_crazy_2026",
+  "title": "Speed Crazy",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65087919",
+    "imdb": "tt0053300",
+    "tmdb": 107873
+  },
+  "last_updated": "2026-08-23"
+}

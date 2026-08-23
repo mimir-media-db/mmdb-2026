@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pursuit",
+  "title": "Pursuit",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q2381001",
+    "imdb": "tt0098540",
+    "tmdb": 77210
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}

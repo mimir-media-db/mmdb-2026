@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sable_lorcha_2026",
+  "title": "The Sable Lorcha",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63860215",
+    "imdb": "tt0005997",
+    "tmdb": 636680
+  },
+  "last_updated": "2026-08-23"
+}

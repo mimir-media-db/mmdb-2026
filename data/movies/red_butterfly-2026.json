@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_red_butterfly_2026",
+  "title": "Red Butterfly",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363776",
+    "imdb": "tt2063014",
+    "tmdb": 579552
+  },
+  "last_updated": "2026-08-23"
+}

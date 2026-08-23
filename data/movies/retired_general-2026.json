@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_retired_general_2026",
+  "title": "The Retired General",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10831433",
+    "imdb": "tt0096317",
+    "tmdb": 278616
+  },
+  "last_updated": "2026-08-23"
+}

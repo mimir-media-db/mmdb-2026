@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_american_hostage",
+  "title": "American Hostage",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141108648",
+    "imdb": "tt30051064",
+    "tmdb": 239618
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}

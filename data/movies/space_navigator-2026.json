@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_space_navigator_2026",
+  "title": "Space Navigator",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43043355",
+    "imdb": "tt0107660",
+    "tmdb": 528955
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 90
+}

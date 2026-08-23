@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pastoris_2026",
+  "title": "Pastoris",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130711640",
+    "imdb": "tt33633091",
+    "tmdb": 1365883
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 108
+}

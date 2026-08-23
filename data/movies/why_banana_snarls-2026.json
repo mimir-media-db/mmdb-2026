@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_why_banana_snarls_2026",
+  "title": "Why Banana Snarls",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25434661",
+    "imdb": "tt4434092",
+    "tmdb": 536814
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 14
+}

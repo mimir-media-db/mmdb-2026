@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lego_star_wars_the_yoda_chronicles_raid_on_coruscant_2026",
+  "title": "Lego Star Wars: The Yoda Chronicles: Raid on Coruscant",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75499486",
+    "imdb": "tt3978590"
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 22
+}

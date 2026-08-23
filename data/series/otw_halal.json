@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_otw_halal",
+  "title": "OTW Halal",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139660794",
+    "imdb": "tt41743308",
+    "tmdb": 319923
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_jackaroo_2026",
+  "title": "Jackaroo",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039468",
+    "imdb": "tt0099870"
+  },
+  "last_updated": "2026-08-23"
+}

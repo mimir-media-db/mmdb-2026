@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_algojo",
+  "title": "Algojo",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137397366",
+    "imdb": "tt39122494",
+    "tmdb": 284021
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 8
+}

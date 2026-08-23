@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cia",
+  "title": "CIA",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137176858",
+    "imdb": "tt35515227",
+    "tmdb": 289560
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 10
+}

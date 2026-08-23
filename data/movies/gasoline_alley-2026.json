@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gasoline_alley_2026",
+  "title": "Gasoline Alley",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65049154",
+    "imdb": "tt0125761",
+    "tmdb": 232779
+  },
+  "last_updated": "2026-08-23"
+}
