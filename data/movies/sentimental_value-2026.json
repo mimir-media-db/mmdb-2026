@@ -16,5 +16,12 @@
     "Drama",
     "Family"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "DK",
+    "FR",
+    "NO",
+    "SE"
+  ]
 }

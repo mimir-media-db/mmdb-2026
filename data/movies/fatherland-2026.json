@@ -16,5 +16,11 @@
     "Drama",
     "History"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "FR",
+    "IT",
+    "PL"
+  ]
 }

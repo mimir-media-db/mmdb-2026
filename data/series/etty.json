@@ -7,5 +7,9 @@
   "external_ids": {
     "wikidata": "Q140308354"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "countries": [
+    "DE",
+    "FR"
+  ]
 }

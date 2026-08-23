@@ -16,5 +16,13 @@
     "Drama",
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DK",
+    "FI",
+    "FR",
+    "NO",
+    "RO",
+    "SE"
+  ]
 }

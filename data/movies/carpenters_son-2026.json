@@ -14,5 +14,9 @@
   "genres": [
     "Horror"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "FR",
+    "US"
+  ]
 }

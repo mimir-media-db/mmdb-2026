@@ -14,5 +14,9 @@
   "genres": [
     "Short"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "HR",
+    "RS"
+  ]
 }

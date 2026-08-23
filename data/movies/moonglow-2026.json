@@ -16,5 +16,10 @@
     "Crime",
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "JP",
+    "PH",
+    "TW"
+  ]
 }

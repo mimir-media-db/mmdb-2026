@@ -15,5 +15,10 @@
   "genres": [
     "romantic drama film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CZ",
+    "FR",
+    "MM"
+  ]
 }
