@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_skuld_2026",
+  "title": "Skuld",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138342016",
+    "imdb": "tt36627040",
+    "tmdb": 1688185
+  },
+  "last_updated": "2026-08-23"
+}

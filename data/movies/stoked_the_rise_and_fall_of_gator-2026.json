@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stoked_the_rise_and_fall_of_gator_2026",
+  "title": "Stoked: The Rise and Fall of Gator",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7618503",
+    "imdb": "tt0271211",
+    "tmdb": 33255
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 82
+}

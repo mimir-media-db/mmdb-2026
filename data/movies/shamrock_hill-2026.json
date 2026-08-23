@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shamrock_hill_2026",
+  "title": "Shamrock Hill",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65048871",
+    "imdb": "tt0041863",
+    "tmdb": 601639
+  },
+  "last_updated": "2026-08-23"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_step_by_step_2026",
+  "title": "Step by Step",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13408631",
+    "imdb": "tt1982742",
+    "tmdb": 502794
+  },
+  "last_updated": "2026-08-23"
+}

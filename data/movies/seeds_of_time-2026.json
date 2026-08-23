@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_seeds_of_time_2026",
+  "title": "Seeds of Time",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65945546",
+    "imdb": "tt2962826",
+    "tmdb": 253296
+  },
+  "last_updated": "2026-08-23"
+}

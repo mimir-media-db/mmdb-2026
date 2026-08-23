@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_parkland_2026",
+  "title": "Song of Parkland",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65118753",
+    "imdb": "tt9701028",
+    "tmdb": 580638
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 28
+}
