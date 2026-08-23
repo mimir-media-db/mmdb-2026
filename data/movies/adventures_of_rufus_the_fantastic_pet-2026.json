@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_rufus_the_fantastic_pet_2026",
+  "title": "Adventures of Rufus: The Fantastic Pet",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83727467",
+    "imdb": "tt8545636",
+    "tmdb": 698410
+  },
+  "last_updated": "2026-08-23"
+}

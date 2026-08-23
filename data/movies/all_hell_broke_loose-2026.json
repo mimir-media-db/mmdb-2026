@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_hell_broke_loose_2026",
+  "title": "All Hell Broke Loose",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65425292",
+    "imdb": "tt1523266",
+    "tmdb": 34275
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 90
+}

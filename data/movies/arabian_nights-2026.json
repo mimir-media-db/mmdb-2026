@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_arabian_nights_2026",
+  "title": "Arabian Nights",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13104396",
+    "imdb": "tt0920466",
+    "tmdb": 307120
+  },
+  "last_updated": "2026-08-23"
+}

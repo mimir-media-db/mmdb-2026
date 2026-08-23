@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ariel_2026",
+  "title": "Ariel",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65154236",
+    "imdb": "tt0312378",
+    "tmdb": 619838
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 80
+}
