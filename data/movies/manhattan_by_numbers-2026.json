@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_manhattan_by_numbers_2026",
+  "title": "Manhattan by Numbers",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5606527",
+    "imdb": "tt0107508",
+    "tmdb": 260447
+  },
+  "last_updated": "2026-08-23"
+}
