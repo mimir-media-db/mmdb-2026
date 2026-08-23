@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cowboy_cavalier_2026",
+  "title": "Cowboy Cavalier",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65067040",
+    "imdb": "tt0040253",
+    "tmdb": 357529
+  },
+  "last_updated": "2026-08-23"
+}

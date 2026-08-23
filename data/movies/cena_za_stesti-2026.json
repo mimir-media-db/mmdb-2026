@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cena_za_stesti_2026",
+  "title": "Cena za štěstí",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32335497",
+    "imdb": "tt7682048",
+    "tmdb": 574707
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 92
+}

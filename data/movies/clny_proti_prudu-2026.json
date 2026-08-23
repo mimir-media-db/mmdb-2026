@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clny_proti_prudu_2026",
+  "title": "Člny proti prúdu",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12781378",
+    "imdb": "tt4844574",
+    "tmdb": 801298
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 85
+}
