@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_sunset_limousine",
+  "title": "Sunset Limousine",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q16929933",
+    "imdb": "tt0086389"
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}
