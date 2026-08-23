@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_biru",
+  "title": "Biru",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q109563782",
+    "tmdb": 225012
+  },
+  "last_updated": "2026-08-23",
+  "end_year": 2013,
+  "total_seasons": 1,
+  "total_episodes": 28
+}
