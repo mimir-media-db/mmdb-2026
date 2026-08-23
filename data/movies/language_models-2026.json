@@ -8,7 +8,11 @@
     "wikidata": "Q141145474",
     "tmdb": 1741430
   },
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-23",
   "release_date": "2026-01-01",
-  "runtime_minutes": 28
+  "runtime_minutes": 28,
+  "countries": [
+    "PE",
+    "US"
+  ]
 }

@@ -14,5 +14,8 @@
   "genres": [
     "Action"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
 }

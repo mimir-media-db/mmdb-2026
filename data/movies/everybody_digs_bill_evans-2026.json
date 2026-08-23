@@ -16,5 +16,10 @@
     "Drama",
     "Music"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "IE",
+    "US"
+  ]
 }

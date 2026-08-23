@@ -13,5 +13,9 @@
     "Drama",
     "Spy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DK",
+    "SE"
+  ]
 }

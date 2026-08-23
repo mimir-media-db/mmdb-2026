@@ -16,5 +16,8 @@
     "Adventure",
     "Family"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
 }

@@ -17,5 +17,10 @@
     "Adventure",
     "Mystery"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AU",
+    "CA",
+    "US"
+  ]
 }
