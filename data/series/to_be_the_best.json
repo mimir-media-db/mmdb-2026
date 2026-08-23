@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_to_be_the_best",
+  "title": "To Be the Best",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q4270261",
+    "imdb": "tt0105603",
+    "tmdb": 154066
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 2
+}

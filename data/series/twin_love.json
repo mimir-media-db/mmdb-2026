@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_twin_love",
+  "title": "Twin Love",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q123185853",
+    "imdb": "tt26941048",
+    "tmdb": 236327
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}
