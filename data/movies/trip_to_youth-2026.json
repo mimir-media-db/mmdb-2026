@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_to_youth_2026",
+  "title": "The Trip to Youth",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32870697",
+    "imdb": "tt0026330",
+    "tmdb": 81057
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 85
+}

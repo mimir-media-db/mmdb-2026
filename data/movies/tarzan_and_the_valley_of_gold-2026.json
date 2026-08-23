@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tarzan_and_the_valley_of_gold_2026",
+  "title": "Tarzan and the Valley of Gold",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4988024",
+    "imdb": "tt0061067",
+    "tmdb": 76081
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 90
+}
