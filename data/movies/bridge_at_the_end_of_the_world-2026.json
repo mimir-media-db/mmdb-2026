@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bridge_at_the_end_of_the_world_2026",
+  "title": "The Bridge at the End of the World",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20526895",
+    "imdb": "tt2626216",
+    "tmdb": 285831
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bethlehem_kudumba_unit_2026",
+  "title": "Bethlehem Kudumba Unit",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138716562",
+    "imdb": "tt37535100",
+    "tmdb": 1508168
+  },
+  "last_updated": "2026-08-23",
+  "release_date": "2026-08-21",
+  "runtime_minutes": 156
+}
