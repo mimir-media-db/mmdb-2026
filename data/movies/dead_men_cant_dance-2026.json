@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_men_cant_dance_2026",
+  "title": "Dead Men Can't Dance",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12637392",
+    "imdb": "tt0118941",
+    "tmdb": 91042
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 97
+}
