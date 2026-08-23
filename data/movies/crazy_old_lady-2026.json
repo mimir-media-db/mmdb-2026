@@ -9,7 +9,12 @@
     "imdb": "tt31613162",
     "tmdb": 1255674
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2026-02-27",
-  "runtime_minutes": 94
+  "runtime_minutes": 94,
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "is_adult": false
 }

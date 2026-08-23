@@ -8,6 +8,10 @@
     "wikidata": "Q139801374",
     "imdb": "tt34581136"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-01-01",
+  "genres": [
+    "Biography"
+  ],
+  "is_adult": false
 }

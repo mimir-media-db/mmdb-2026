@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q139382106"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-04-24"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-04-24",
+  "genres": [
+    "Horror",
+    "Romantic Comedy"
+  ],
+  "is_adult": false
 }

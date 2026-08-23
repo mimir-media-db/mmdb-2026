@@ -9,6 +9,12 @@
     "imdb": "tt27930497",
     "tmdb": 1586092
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-04-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-04-01",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Musical"
+  ],
+  "is_adult": false
 }

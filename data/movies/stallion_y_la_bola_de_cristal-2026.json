@@ -8,7 +8,12 @@
     "wikidata": "Q138314971",
     "imdb": "tt39386490"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2026-02-14",
-  "runtime_minutes": 19
+  "runtime_minutes": 19,
+  "genres": [
+    "Sci-Fi",
+    "Short"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,11 @@
     "wikidata": "Q140277435",
     "tmdb": 1658835
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-11-26"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-11-26",
+  "genres": [
+    "Comedy",
+    "family film"
+  ],
+  "is_adult": false
 }

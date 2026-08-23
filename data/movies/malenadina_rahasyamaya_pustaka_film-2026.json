@@ -9,6 +9,11 @@
     "imdb": "tt43663123",
     "tmdb": 1732286
   },
-  "last_updated": "2026-08-22",
-  "release_date": "2026-05-03"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-05-03",
+  "genres": [
+    "Adventure",
+    "Short"
+  ],
+  "is_adult": false
 }

@@ -8,7 +8,11 @@
     "wikidata": "Q140247054",
     "tmdb": 1662451
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2026-01-01",
-  "runtime_minutes": 90
+  "runtime_minutes": 90,
+  "genres": [
+    "romantic comedy film"
+  ],
+  "is_adult": false
 }

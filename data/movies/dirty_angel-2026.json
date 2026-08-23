@@ -8,6 +8,13 @@
     "wikidata": "Q139928660",
     "tmdb": 1608560
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-01-01",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Musical",
+    "Crime"
+  ],
+  "is_adult": false
 }

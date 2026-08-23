@@ -8,6 +8,12 @@
     "wikidata": "Q141124872",
     "imdb": "tt43705006"
   },
-  "last_updated": "2026-08-22",
-  "release_date": "2026-09-06"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-09-06",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false
 }

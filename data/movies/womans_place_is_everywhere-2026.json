@@ -8,7 +8,12 @@
     "wikidata": "Q138381470",
     "imdb": "tt39337056"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2026-01-01",
-  "runtime_minutes": 19
+  "runtime_minutes": 19,
+  "genres": [
+    "Documentary",
+    "Short"
+  ],
+  "is_adult": false
 }

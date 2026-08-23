@@ -9,6 +9,11 @@
     "imdb": "tt39216314",
     "tmdb": 1600421
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-03-05"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-03-05",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

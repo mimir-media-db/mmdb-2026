@@ -9,6 +9,10 @@
     "imdb": "tt42474804",
     "tmdb": 1711915
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-06-17"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-06-17",
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false
 }

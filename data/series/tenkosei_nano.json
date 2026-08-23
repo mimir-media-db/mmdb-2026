@@ -7,5 +7,11 @@
   "external_ids": {
     "wikidata": "Q139550328"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Noir",
+    "Romantic Comedy"
+  ],
+  "is_adult": false
 }

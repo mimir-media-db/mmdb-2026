@@ -9,6 +9,11 @@
     "imdb": "tt37163509",
     "tmdb": 1442669
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-05-12"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-05-12",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false
 }

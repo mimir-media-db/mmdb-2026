@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q139988023"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 12
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "LGBTQ-related film"
+  ],
+  "is_adult": false
 }

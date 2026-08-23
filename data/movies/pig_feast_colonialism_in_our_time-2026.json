@@ -8,6 +8,12 @@
     "wikidata": "Q139889855",
     "tmdb": 1685029
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-03-07"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-03-07",
+  "genres": [
+    "Documentary",
+    "political film",
+    "environmental film"
+  ],
+  "is_adult": false
 }

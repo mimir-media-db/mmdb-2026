@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q139860799"
   },
-  "last_updated": "2026-08-22",
-  "release_date": "2026-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-01-01",
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false
 }

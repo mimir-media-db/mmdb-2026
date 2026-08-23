@@ -8,5 +8,9 @@
     "wikidata": "Q140287992",
     "tmdb": 325874
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "crime television series"
+  ],
+  "is_adult": false
 }

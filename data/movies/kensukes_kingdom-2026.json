@@ -9,7 +9,12 @@
     "imdb": "tt5674658",
     "tmdb": 587563
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2026-05-28",
-  "runtime_minutes": 85
+  "runtime_minutes": 85,
+  "genres": [
+    "Adventure",
+    "Animation"
+  ],
+  "is_adult": false
 }
