@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_hum_bol_rahe_hain",
+  "title": "Hello! Hum Bol Rahe Hain",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140846297",
+    "imdb": "tt43710542",
+    "tmdb": 329618
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_episodes": 8
+}
