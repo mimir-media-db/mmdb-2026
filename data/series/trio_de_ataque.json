@@ -7,5 +7,9 @@
   "external_ids": {
     "wikidata": "Q137909395"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "sports program"
+  ],
+  "is_adult": false
 }

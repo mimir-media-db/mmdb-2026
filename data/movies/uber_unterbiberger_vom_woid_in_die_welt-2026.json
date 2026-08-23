@@ -8,6 +8,11 @@
     "wikidata": "Q140884600",
     "imdb": "tt43612862"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-10-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-10-01",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

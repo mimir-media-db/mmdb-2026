@@ -9,6 +9,12 @@
     "imdb": "tt14119302",
     "tmdb": 813418
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-07-24"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-07-24",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,12 @@
     "imdb": "tt34748116",
     "tmdb": 1391640
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-01-31"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-01-31",
+  "genres": [
+    "Animation",
+    "Biography",
+    "Drama"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,10 @@
     "wikidata": "Q139596020",
     "imdb": "tt42081961"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-04-03"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-04-03",
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false
 }

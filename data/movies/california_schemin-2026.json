@@ -9,6 +9,11 @@
     "imdb": "tt32306200",
     "tmdb": 1193550
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-04-10"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-04-10",
+  "genres": [
+    "biographical film",
+    "Mystery"
+  ],
+  "is_adult": false
 }

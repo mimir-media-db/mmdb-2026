@@ -7,5 +7,10 @@
   "external_ids": {
     "wikidata": "Q137425416"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series",
+    "thriller television series"
+  ],
+  "is_adult": false
 }

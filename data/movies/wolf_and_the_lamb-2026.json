@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q139525809"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-04-24"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-04-24",
+  "genres": [
+    "Western film",
+    "folk horror film"
+  ],
+  "is_adult": false
 }

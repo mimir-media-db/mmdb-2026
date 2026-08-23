@@ -8,7 +8,13 @@
     "wikidata": "Q139489124",
     "imdb": "tt38384199"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2026-01-01",
-  "runtime_minutes": 13
+  "runtime_minutes": 13,
+  "genres": [
+    "Drama",
+    "Short",
+    "Sport"
+  ],
+  "is_adult": false
 }

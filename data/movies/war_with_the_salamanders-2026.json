@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q137687465"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-11-05"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-11-05",
+  "genres": [
+    "Science Fiction"
+  ],
+  "is_adult": false
 }

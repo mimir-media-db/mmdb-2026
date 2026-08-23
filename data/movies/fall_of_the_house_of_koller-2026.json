@@ -7,7 +7,12 @@
   "external_ids": {
     "wikidata": "Q130740128"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2026-01-01",
-  "runtime_minutes": 60
+  "runtime_minutes": 60,
+  "genres": [
+    "family television series",
+    "comedy television series"
+  ],
+  "is_adult": false
 }

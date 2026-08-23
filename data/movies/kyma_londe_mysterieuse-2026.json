@@ -9,6 +9,10 @@
     "imdb": "tt34809883",
     "tmdb": 1365362
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-08-05"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-08-05",
+  "genres": [
+    "Fantasy"
+  ],
+  "is_adult": false
 }

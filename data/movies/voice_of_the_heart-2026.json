@@ -8,7 +8,12 @@
     "wikidata": "Q140315567",
     "tmdb": 1639054
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2026-09-10",
-  "runtime_minutes": 90
+  "runtime_minutes": 90,
+  "genres": [
+    "Disaster",
+    "family film"
+  ],
+  "is_adult": false
 }

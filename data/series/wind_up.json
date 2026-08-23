@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q139971066"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 50
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "Drama",
+    "sport film"
+  ],
+  "is_adult": false
 }

@@ -9,5 +9,11 @@
     "imdb": "tt39310649",
     "tmdb": 305227
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false
 }

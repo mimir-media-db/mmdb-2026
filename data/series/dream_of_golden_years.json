@@ -9,7 +9,11 @@
     "imdb": "tt34625806",
     "tmdb": 280822
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 36
+  "total_episodes": 36,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

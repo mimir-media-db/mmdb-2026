@@ -9,6 +9,10 @@
     "imdb": "tt43338336",
     "tmdb": 1686683
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2026-08-13"
+  "last_updated": "2026-08-23",
+  "release_date": "2026-08-13",
+  "genres": [
+    "Biography"
+  ],
+  "is_adult": false
 }
