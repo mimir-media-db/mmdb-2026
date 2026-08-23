@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_idola_cilik",
+  "title": "Idola Cilik",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q14956449",
+    "tmdb": 50063
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null,
+  "total_seasons": 2
+}
