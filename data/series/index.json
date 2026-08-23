@@ -1,3243 +1,3194 @@
 [
   {
-    "id": "s_100",
+    "id": "s_100_2026",
     "title": "100日後に別れる僕と彼",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/100.json"
+    "path": "data/series/100-2026.json"
   },
   {
-    "id": "s_100_days_of_deception",
+    "id": "s_100_days_of_deception_2026",
     "title": "100 Days of Deception",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/100_days_of_deception.json"
+    "path": "data/series/100_days_of_deception-2026.json"
   },
   {
-    "id": "s_16",
+    "id": "s_16_2026",
     "title": "夫婦と16歳〜狂気の隣人〜",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/16.json"
+    "path": "data/series/16-2026.json"
   },
   {
-    "id": "s_25_years_of_you",
+    "id": "s_25_years_of_you_2026",
     "title": "25 Years of You",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/25_years_of_you.json"
+    "path": "data/series/25_years_of_you-2026.json"
   },
   {
-    "id": "s_37",
+    "id": "s_37_2026",
     "title": "婚活バトルフィールド37",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/37.json"
+    "path": "data/series/37-2026.json"
   },
   {
-    "id": "s_56_days",
+    "id": "s_56_days_2026",
     "title": "56 Days",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/56_days.json"
+    "path": "data/series/56_days-2026.json"
   },
   {
-    "id": "s_6sixtones",
+    "id": "s_6sixtones_2026",
     "title": "6SixTONES",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/6sixtones.json"
+    "path": "data/series/6sixtones-2026.json"
   },
   {
-    "id": "s_absolute_value_of_romance",
+    "id": "s_absolute_value_of_romance_2026",
     "title": "Absolute Value of Romance",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/absolute_value_of_romance.json"
+    "path": "data/series/absolute_value_of_romance-2026.json"
   },
   {
-    "id": "s_accidental_influencer_love_me_if_you_dare",
+    "id": "s_accidental_influencer_love_me_if_you_dare_2026",
     "title": "The Accidental Influencer: Love Me if You Dare",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/accidental_influencer_love_me_if_you_dare.json"
+    "path": "data/series/accidental_influencer_love_me_if_you_dare-2026.json"
   },
   {
-    "id": "s_adventure_time_side_quests",
+    "id": "s_adventure_time_side_quests_2026",
     "title": "Adventure Time: Side Quests",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/adventure_time_side_quests.json"
+    "path": "data/series/adventure_time_side_quests-2026.json"
   },
   {
-    "id": "s_affair_was_just_the_beginning",
+    "id": "s_affair_was_just_the_beginning_2026",
     "title": "The Affair Was Just the Beginning",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/affair_was_just_the_beginning.json"
+    "path": "data/series/affair_was_just_the_beginning-2026.json"
   },
   {
-    "id": "s_agent_from_above",
+    "id": "s_agent_from_above_2026",
     "title": "Agent from Above",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/agent_from_above.json"
+    "path": "data/series/agent_from_above-2026.json"
   },
   {
-    "id": "s_agent_kim_reactivated",
+    "id": "s_agent_kim_reactivated_2026",
     "title": "Agent Kim Reactivated",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/agent_kim_reactivated.json"
+    "path": "data/series/agent_kim_reactivated-2026.json"
   },
   {
-    "id": "s_ai_confidential_with_hannah_fry",
+    "id": "s_ai_confidential_with_hannah_fry_2026",
     "title": "AI Confidential with Hannah Fry",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ai_confidential_with_hannah_fry.json"
+    "path": "data/series/ai_confidential_with_hannah_fry-2026.json"
   },
   {
-    "id": "s_al_hayba_ras_al_jabal",
+    "id": "s_al_hayba_ras_al_jabal_2026",
     "title": "Al Hayba: Ras Al Jabal",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/al_hayba_ras_al_jabal.json"
+    "path": "data/series/al_hayba_ras_al_jabal-2026.json"
   },
   {
-    "id": "s_algojo",
+    "id": "s_algojo_2026",
     "title": "Algojo",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/algojo.json"
+    "path": "data/series/algojo-2026.json"
   },
   {
-    "id": "s_alkhallat_the_series",
+    "id": "s_alkhallat_the_series_2026",
     "title": "Alkhallat+: The Series",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/alkhallat_the_series.json"
+    "path": "data/series/alkhallat_the_series-2026.json"
   },
   {
-    "id": "s_all_about_that_fan",
+    "id": "s_all_about_that_fan_2026",
     "title": "All about that fan",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/all_about_that_fan.json"
+    "path": "data/series/all_about_that_fan-2026.json"
   },
   {
-    "id": "s_all_mothers_lie",
+    "id": "s_all_mothers_lie_2026",
     "title": "All Mothers Lie",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/all_mothers_lie.json"
+    "path": "data/series/all_mothers_lie-2026.json"
   },
   {
-    "id": "s_alley_cats",
+    "id": "s_alley_cats_2026",
     "title": "Alley Cats",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/alley_cats.json"
+    "path": "data/series/alley_cats-2026.json"
   },
   {
-    "id": "s_ambiguity",
+    "id": "s_ambiguity_2026",
     "title": "Ambiguity",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ambiguity.json"
+    "path": "data/series/ambiguity-2026.json"
   },
   {
-    "id": "s_americas_culinary_cup",
+    "id": "s_americas_culinary_cup_2026",
     "title": "America's Culinary Cup",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/americas_culinary_cup.json"
+    "path": "data/series/americas_culinary_cup-2026.json"
   },
   {
-    "id": "s_among_us",
+    "id": "s_among_us_2026",
     "title": "Among Us",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/among_us.json"
+    "path": "data/series/among_us-2026.json"
   },
   {
-    "id": "s_amor_animal",
+    "id": "s_amor_animal_2026",
     "title": "Amor animal",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/amor_animal.json"
+    "path": "data/series/amor_animal-2026.json"
   },
   {
-    "id": "s_anh_trai_vuot_ngan_chong_gai",
-    "title": "Anh trai vượt ngàn chông gai",
-    "start_year": 2026,
-    "end_year": 2024,
-    "path": "data/series/anh_trai_vuot_ngan_chong_gai.json"
-  },
-  {
-    "id": "s_antony_and_cleopatra",
+    "id": "s_antony_and_cleopatra_2025",
     "title": "Antony and Cleopatra",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/antony_and_cleopatra.json"
+    "path": "data/series/antony_and_cleopatra-2025.json"
   },
   {
-    "id": "s_apartment_job",
+    "id": "s_apartment_job_2026",
     "title": "The Apartment Job",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/apartment_job.json"
+    "path": "data/series/apartment_job-2026.json"
   },
   {
-    "id": "s_apoy_sa_dugo",
+    "id": "s_apoy_sa_dugo_2026",
     "title": "Apoy sa Dugo",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/apoy_sa_dugo.json"
+    "path": "data/series/apoy_sa_dugo-2026.json"
   },
   {
-    "id": "s_art_of_sarah",
+    "id": "s_art_of_sarah_2026",
     "title": "The Art of Sarah",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/art_of_sarah.json"
+    "path": "data/series/art_of_sarah-2026.json"
   },
   {
-    "id": "s_ass_anti_survival_show",
+    "id": "s_ass_anti_survival_show_2026",
     "title": "A.S.S. – Anti Survival Show",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ass_anti_survival_show.json"
+    "path": "data/series/ass_anti_survival_show-2026.json"
   },
   {
-    "id": "s_atlantis_pasila",
+    "id": "s_atlantis_pasila_2026",
     "title": "Atlantis Pasila",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/atlantis_pasila.json"
+    "path": "data/series/atlantis_pasila-2026.json"
   },
   {
-    "id": "s_avvocato_ligas",
+    "id": "s_avvocato_ligas_2026",
     "title": "Avvocato Ligas",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/avvocato_ligas.json"
+    "path": "data/series/avvocato_ligas-2026.json"
   },
   {
-    "id": "s_ayers_cliff",
+    "id": "s_ayers_cliff_2026",
     "title": "Ayer's Cliff",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ayers_cliff.json"
+    "path": "data/series/ayers_cliff-2026.json"
   },
   {
-    "id": "s_ayrio",
+    "id": "s_ayrio_2026",
     "title": "Ayrio",
     "start_year": 2026,
     "end_year": 2025,
-    "path": "data/series/ayrio.json"
+    "path": "data/series/ayrio-2026.json"
   },
   {
-    "id": "s_azure_spring",
+    "id": "s_azure_spring_2026",
     "title": "Azure Spring",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/azure_spring.json"
+    "path": "data/series/azure_spring-2026.json"
   },
   {
-    "id": "s_bad_company_tv_series",
+    "id": "s_bad_company_tv_series_2026",
     "title": "Bad Company (TV series)",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/bad_company_tv_series.json"
+    "path": "data/series/bad_company_tv_series-2026.json"
   },
   {
-    "id": "s_bait",
+    "id": "s_bait_2026",
     "title": "Bait",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/bait.json"
+    "path": "data/series/bait-2026.json"
   },
   {
-    "id": "s_balamory",
-    "title": "Balamory",
-    "start_year": 2026,
-    "end_year": 2005,
-    "path": "data/series/balamory.json"
-  },
-  {
-    "id": "s_bandi",
+    "id": "s_bandi_2026",
     "title": "Bandi",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/bandi.json"
+    "path": "data/series/bandi-2026.json"
   },
   {
-    "id": "s_barrio_esperanza",
+    "id": "s_barrio_esperanza_2026",
     "title": "Barrio Esperanza",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/barrio_esperanza.json"
+    "path": "data/series/barrio_esperanza-2026.json"
   },
   {
-    "id": "s_basic_bitch_brum",
+    "id": "s_basic_bitch_brum_2026",
     "title": "Basic Bitch Bærum",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/basic_bitch_brum.json"
+    "path": "data/series/basic_bitch_brum-2026.json"
   },
   {
-    "id": "s_beauty",
+    "id": "s_beauty_2026",
     "title": "The Beauty",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/beauty.json"
+    "path": "data/series/beauty-2026.json"
   },
   {
-    "id": "s_before_us",
+    "id": "s_before_us_2026",
     "title": "Before Us",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/before_us.json"
+    "path": "data/series/before_us-2026.json"
   },
   {
-    "id": "s_berlin_and_the_lady_with_an_ermine",
+    "id": "s_berlin_and_the_lady_with_an_ermine_2026",
     "title": "Berlin and the Lady with an Ermine",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/berlin_and_the_lady_with_an_ermine.json"
+    "path": "data/series/berlin_and_the_lady_with_an_ermine-2026.json"
   },
   {
-    "id": "s_best_medicine",
+    "id": "s_best_medicine_2026",
     "title": "Best Medicine",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/best_medicine.json"
+    "path": "data/series/best_medicine-2026.json"
   },
   {
-    "id": "s_big_mistakes",
+    "id": "s_big_mistakes_2026",
     "title": "Big Mistakes",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/big_mistakes.json"
+    "path": "data/series/big_mistakes-2026.json"
   },
   {
-    "id": "s_black_gold_the_story_of_israeli_hip_hop",
+    "id": "s_black_gold_the_story_of_israeli_hip_hop_2026",
     "title": "Black Gold: The Story of Israeli Hip Hop",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/black_gold_the_story_of_israeli_hip_hop.json"
+    "path": "data/series/black_gold_the_story_of_israeli_hip_hop-2026.json"
   },
   {
-    "id": "s_blade_runner_2099",
+    "id": "s_blade_runner_2026",
     "title": "Blade Runner 2099",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/blade_runner_2099.json"
+    "path": "data/series/blade_runner-2026.json"
   },
   {
-    "id": "s_blood_sacrifice",
+    "id": "s_blood_sacrifice_2026",
     "title": "Blood Sacrifice",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/blood_sacrifice.json"
+    "path": "data/series/blood_sacrifice-2026.json"
   },
   {
-    "id": "s_blood_sweat",
+    "id": "s_blood_sweat_2025",
     "title": "Blood & Sweat",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/blood_sweat.json"
+    "path": "data/series/blood_sweat-2025.json"
   },
   {
-    "id": "s_bloody_flower",
+    "id": "s_bloody_flower_2026",
     "title": "Bloody Flower",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/bloody_flower.json"
+    "path": "data/series/bloody_flower-2026.json"
   },
   {
-    "id": "s_bloody_smart",
+    "id": "s_bloody_smart_2026",
     "title": "Bloody Smart",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/bloody_smart.json"
+    "path": "data/series/bloody_smart-2026.json"
   },
   {
-    "id": "s_blue_hours",
+    "id": "s_blue_hours_2026",
     "title": "Blue hours",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/blue_hours.json"
+    "path": "data/series/blue_hours-2026.json"
   },
   {
-    "id": "s_blue_murder_motel",
+    "id": "s_blue_murder_motel_2026",
     "title": "Blue Murder Motel",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/blue_murder_motel.json"
+    "path": "data/series/blue_murder_motel-2026.json"
   },
   {
-    "id": "s_bodas_sa",
+    "id": "s_bodas_sa_2026",
     "title": "Bodas S.A.",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/bodas_sa.json"
+    "path": "data/series/bodas_sa-2026.json"
   },
   {
-    "id": "s_bon_cop_bad_cop",
+    "id": "s_bon_cop_bad_cop_2026",
     "title": "Bon Cop, Bad Cop",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/bon_cop_bad_cop.json"
+    "path": "data/series/bon_cop_bad_cop-2026.json"
   },
   {
-    "id": "s_bona_fide_killer",
+    "id": "s_bona_fide_killer_2026",
     "title": "A Bona Fide Killer",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/bona_fide_killer.json"
+    "path": "data/series/bona_fide_killer-2026.json"
   },
   {
-    "id": "s_born_to_shine",
+    "id": "s_born_to_shine_2026",
     "title": "Born to Shine",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/born_to_shine.json"
+    "path": "data/series/born_to_shine-2026.json"
   },
   {
-    "id": "s_boroughs",
+    "id": "s_boroughs_2026",
     "title": "The Boroughs",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/boroughs.json"
+    "path": "data/series/boroughs-2026.json"
   },
   {
-    "id": "s_boyfriend_on_demand",
+    "id": "s_boyfriend_on_demand_2026",
     "title": "Boyfriend on Demand",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/boyfriend_on_demand.json"
+    "path": "data/series/boyfriend_on_demand-2026.json"
   },
   {
-    "id": "s_brewing_trouble",
+    "id": "s_brewing_trouble_2026",
     "title": "Brewing Trouble",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/brewing_trouble.json"
+    "path": "data/series/brewing_trouble-2026.json"
   },
   {
-    "id": "s_brothers",
+    "id": "s_brothers_2026",
     "title": "Brothers",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/brothers.json"
+    "path": "data/series/brothers-2026.json"
   },
   {
-    "id": "s_brothers_in_arms",
+    "id": "s_brothers_in_arms_2026",
     "title": "Brothers in Arms",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/brothers_in_arms.json"
+    "path": "data/series/brothers_in_arms-2026.json"
   },
   {
-    "id": "s_buffy_the_vampire_slayer_new_sunnydale",
+    "id": "s_buffy_the_vampire_slayer_new_sunnydale_2025",
     "title": "Buffy the Vampire Slayer: New Sunnydale",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/buffy_the_vampire_slayer_new_sunnydale.json"
+    "path": "data/series/buffy_the_vampire_slayer_new_sunnydale-2025.json"
   },
   {
-    "id": "s_buldok_z_podebrad",
+    "id": "s_buldok_z_podebrad_2026",
     "title": "Buldok z Poděbrad",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/buldok_z_podebrad.json"
+    "path": "data/series/buldok_z_podebrad-2026.json"
   },
   {
-    "id": "s_buonvino_misteri_a_villa_borghese",
+    "id": "s_buonvino_misteri_a_villa_borghese_2026",
     "title": "Buonvino - Misteri a Villa Borghese",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/buonvino_misteri_a_villa_borghese.json"
+    "path": "data/series/buonvino_misteri_a_villa_borghese-2026.json"
   },
   {
-    "id": "s_burden_of_justice",
+    "id": "s_burden_of_justice_2026",
     "title": "Burden of Justice",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/burden_of_justice.json"
+    "path": "data/series/burden_of_justice-2026.json"
   },
   {
-    "id": "s_bytet",
+    "id": "s_bytet_2025",
     "title": "Bytet",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/bytet.json"
+    "path": "data/series/bytet-2025.json"
   },
   {
-    "id": "s_cabbage_your_life",
+    "id": "s_cabbage_your_life_2026",
     "title": "Cabbage Your Life",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/cabbage_your_life.json"
+    "path": "data/series/cabbage_your_life-2026.json"
   },
   {
-    "id": "s_cage",
+    "id": "s_cage_2026",
     "title": "The Cage",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/cage.json"
+    "path": "data/series/cage-2026.json"
   },
   {
-    "id": "s_campingallos_kosmos",
+    "id": "s_campingallos_kosmos_2025",
     "title": "Camping«Állos Kósmos»",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/campingallos_kosmos.json"
+    "path": "data/series/campingallos_kosmos-2025.json"
   },
   {
-    "id": "s_can_this_love_be_translated",
+    "id": "s_can_this_love_be_translated_2026",
     "title": "Can This Love Be Translated?",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/can_this_love_be_translated.json"
+    "path": "data/series/can_this_love_be_translated-2026.json"
   },
   {
-    "id": "s_cape_fear",
+    "id": "s_cape_fear_2026",
     "title": "Cape Fear",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/cape_fear.json"
+    "path": "data/series/cape_fear-2026.json"
   },
   {
-    "id": "s_cash_queens",
+    "id": "s_cash_queens_2026",
     "title": "Cash Queens",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/cash_queens.json"
+    "path": "data/series/cash_queens-2026.json"
   },
   {
-    "id": "s_cassegueule",
+    "id": "s_cassegueule_2026",
     "title": "Casse-Gueule",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/cassegueule.json"
+    "path": "data/series/cassegueule-2026.json"
   },
   {
-    "id": "s_chudodoktor",
+    "id": "s_chudodoktor_2026",
     "title": "Chudo-doktor",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/chudodoktor.json"
+    "path": "data/series/chudodoktor-2026.json"
   },
   {
-    "id": "s_claudia_winkleman_show",
+    "id": "s_claudia_winkleman_show_2026",
     "title": "The Claudia Winkleman Show",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/claudia_winkleman_show.json"
+    "path": "data/series/claudia_winkleman_show-2026.json"
   },
   {
-    "id": "s_climax",
+    "id": "s_climax_2026",
     "title": "Climax",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/climax.json"
+    "path": "data/series/climax-2026.json"
   },
   {
-    "id": "s_clock_gallery_new_season",
+    "id": "s_clock_gallery_new_season_2025",
     "title": "Clock Gallery: New Season",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/clock_gallery_new_season.json"
+    "path": "data/series/clock_gallery_new_season-2025.json"
   },
   {
-    "id": "s_come_home_love_like_mother_like_daughter",
+    "id": "s_come_home_love_like_mother_like_daughter_2026",
     "title": "Come Home Love: Like Mother, Like Daughter",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/come_home_love_like_mother_like_daughter.json"
+    "path": "data/series/come_home_love_like_mother_like_daughter-2026.json"
   },
   {
-    "id": "s_conflict",
+    "id": "s_conflict_2025",
     "title": "Conflict",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/conflict.json"
+    "path": "data/series/conflict-2025.json"
   },
   {
-    "id": "s_controversial_entertainer",
+    "id": "s_controversial_entertainer_2026",
     "title": "A Controversial Entertainer",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/controversial_entertainer.json"
+    "path": "data/series/controversial_entertainer-2026.json"
   },
   {
-    "id": "s_coracao_acelerado",
+    "id": "s_coracao_acelerado_2026",
     "title": "Coração Acelerado",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/coracao_acelerado.json"
+    "path": "data/series/coracao_acelerado-2026.json"
   },
   {
-    "id": "s_corazon_de_oro",
+    "id": "s_corazon_de_oro_2026",
     "title": "Corazón de oro",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/corazon_de_oro.json"
+    "path": "data/series/corazon_de_oro-2026.json"
   },
   {
-    "id": "s_crystal_lake",
+    "id": "s_crystal_lake_2026",
     "title": "Crystal Lake",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/crystal_lake.json"
+    "path": "data/series/crystal_lake-2026.json"
   },
   {
-    "id": "s_dad_i_love_you",
+    "id": "s_dad_i_love_you_2026",
     "title": "Dad, I love you",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/dad_i_love_you.json"
+    "path": "data/series/dad_i_love_you-2026.json"
   },
   {
-    "id": "s_dan_z_insyaallah_cinta",
+    "id": "s_dan_z_insyaallah_cinta_2026",
     "title": "A dan Z: InsyaAllah Cinta",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/dan_z_insyaallah_cinta.json"
+    "path": "data/series/dan_z_insyaallah_cinta-2026.json"
   },
   {
-    "id": "s_daughters_of_virtue",
+    "id": "s_daughters_of_virtue_2025",
     "title": "The Daughters of Virtue",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/daughters_of_virtue.json"
+    "path": "data/series/daughters_of_virtue-2025.json"
   },
   {
-    "id": "s_de_weddingplanners_van_chaos_naar_champagne",
+    "id": "s_de_weddingplanners_van_chaos_naar_champagne_2026",
     "title": "De Weddingplanners: van chaos naar champagne",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/de_weddingplanners_van_chaos_naar_champagne.json"
+    "path": "data/series/de_weddingplanners_van_chaos_naar_champagne-2026.json"
   },
   {
-    "id": "s_deadend_job",
+    "id": "s_deadend_job_2025",
     "title": "Dead-End Job",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/deadend_job.json"
+    "path": "data/series/deadend_job-2025.json"
   },
   {
-    "id": "s_dear_killer_nannies",
+    "id": "s_dear_killer_nannies_2026",
     "title": "Dear Killer Nannies",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/dear_killer_nannies.json"
+    "path": "data/series/dear_killer_nannies-2026.json"
   },
   {
-    "id": "s_deathseishungame",
+    "id": "s_deathseishungame_2026",
     "title": "Death(Seishun)Game",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/deathseishungame.json"
+    "path": "data/series/deathseishungame-2026.json"
   },
   {
-    "id": "s_deep",
+    "id": "s_deep_2026",
     "title": "Deep",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/deep.json"
+    "path": "data/series/deep-2026.json"
   },
   {
-    "id": "s_defying_destiny",
+    "id": "s_defying_destiny_2026",
     "title": "Defying Destiny",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/defying_destiny.json"
+    "path": "data/series/defying_destiny-2026.json"
   },
   {
-    "id": "s_di_luar_nurul",
+    "id": "s_di_luar_nurul_2026",
     "title": "Di Luar Nurul",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/di_luar_nurul.json"
+    "path": "data/series/di_luar_nurul-2026.json"
   },
   {
-    "id": "s_die_maiwald",
+    "id": "s_die_maiwald_2025",
     "title": "Die Maiwald",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/die_maiwald.json"
+    "path": "data/series/die_maiwald-2025.json"
   },
   {
-    "id": "s_die_ochtend_in_ede",
+    "id": "s_die_ochtend_in_ede_2026",
     "title": "Die ochtend in Ede",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/die_ochtend_in_ede.json"
+    "path": "data/series/die_ochtend_in_ede-2026.json"
   },
   {
-    "id": "s_different_world",
+    "id": "s_different_world_2026",
     "title": "A Different World",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/different_world.json"
+    "path": "data/series/different_world-2026.json"
   },
   {
-    "id": "s_dinosaurs",
+    "id": "s_dinosaurs_2026",
     "title": "The Dinosaurs",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/dinosaurs.json"
+    "path": "data/series/dinosaurs-2026.json"
   },
   {
-    "id": "s_doc",
+    "id": "s_doc_2026",
     "title": "Doc",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/doc.json"
+    "path": "data/series/doc-2026.json"
   },
   {
-    "id": "s_doctor_on_the_edge",
+    "id": "s_doctor_on_the_edge_2026",
     "title": "Doctor on the Edge",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/doctor_on_the_edge.json"
+    "path": "data/series/doctor_on_the_edge-2026.json"
   },
   {
-    "id": "s_doctor_shin",
+    "id": "s_doctor_shin_2026",
     "title": "Doctor shin",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/doctor_shin.json"
+    "path": "data/series/doctor_shin-2026.json"
   },
   {
-    "id": "s_doctor_x_age_of_the_white_mafia",
+    "id": "s_doctor_x_age_of_the_white_mafia_2026",
     "title": "Doctor X: Age of the White Mafia",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/doctor_x_age_of_the_white_mafia.json"
+    "path": "data/series/doctor_x_age_of_the_white_mafia-2026.json"
   },
   {
-    "id": "s_dog_and_a_plane",
+    "id": "s_dog_and_a_plane_2026",
     "title": "A Dog and a Plane",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/dog_and_a_plane.json"
+    "path": "data/series/dog_and_a_plane-2026.json"
   },
   {
-    "id": "s_dogman",
+    "id": "s_dogman_2026",
     "title": "Dogman",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/dogman.json"
+    "path": "data/series/dogman-2026.json"
   },
   {
-    "id": "s_dolph_and_the_lundgrens",
+    "id": "s_dolph_and_the_lundgrens_2026",
     "title": "Dolph and the Lundgrens",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/dolph_and_the_lundgrens.json"
+    "path": "data/series/dolph_and_the_lundgrens-2026.json"
   },
   {
-    "id": "s_double_helix",
+    "id": "s_double_helix_2026",
     "title": "Double Helix",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/double_helix.json"
+    "path": "data/series/double_helix-2026.json"
   },
   {
-    "id": "s_dragon_striker",
+    "id": "s_dragon_striker_2026",
     "title": "Dragon Striker",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/dragon_striker.json"
+    "path": "data/series/dragon_striker-2026.json"
   },
   {
-    "id": "s_dream_of_golden_years",
+    "id": "s_dream_of_golden_years_2026",
     "title": "Dream of Golden Years",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/dream_of_golden_years.json"
+    "path": "data/series/dream_of_golden_years-2026.json"
   },
   {
-    "id": "s_dream_to_you",
+    "id": "s_dream_to_you_2026",
     "title": "Dream to You",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/dream_to_you.json"
+    "path": "data/series/dream_to_you-2026.json"
   },
   {
-    "id": "s_duang_with_you",
+    "id": "s_duang_with_you_2026",
     "title": "Duang with You",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/duang_with_you.json"
+    "path": "data/series/duang_with_you-2026.json"
   },
   {
-    "id": "s_dutton_ranch",
+    "id": "s_dutton_ranch_2026",
     "title": "Dutton Ranch",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/dutton_ranch.json"
+    "path": "data/series/dutton_ranch-2026.json"
   },
   {
-    "id": "s_east_palace",
+    "id": "s_east_palace_2026",
     "title": "The East Palace",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/east_palace.json"
+    "path": "data/series/east_palace-2026.json"
   },
   {
-    "id": "s_el_homenaje",
+    "id": "s_el_homenaje_2026",
     "title": "El homenaje",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/el_homenaje.json"
+    "path": "data/series/el_homenaje-2026.json"
   },
   {
-    "id": "s_eleftherios_venizelos_the_life_of_a_leader",
+    "id": "s_eleftherios_venizelos_the_life_of_a_leader_2025",
     "title": "Eleftherios Venizelos - The life of a leader",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/eleftherios_venizelos_the_life_of_a_leader.json"
+    "path": "data/series/eleftherios_venizelos_the_life_of_a_leader-2025.json"
   },
   {
-    "id": "s_elf_helden_ein_albtraum",
+    "id": "s_elf_helden_ein_albtraum_2025",
     "title": "Elf Helden – Ein Albtraum",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/elf_helden_ein_albtraum.json"
+    "path": "data/series/elf_helden_ein_albtraum-2025.json"
   },
   {
-    "id": "s_elite_force",
+    "id": "s_elite_force_2026",
     "title": "Elite Force",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/elite_force.json"
+    "path": "data/series/elite_force-2026.json"
   },
   {
-    "id": "s_elle",
+    "id": "s_elle_2026",
     "title": "Elle",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/elle.json"
+    "path": "data/series/elle-2026.json"
   },
   {
-    "id": "s_enemies_with_benefits",
+    "id": "s_enemies_with_benefits_2026",
     "title": "Enemies With Benefits",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/enemies_with_benefits.json"
+    "path": "data/series/enemies_with_benefits-2026.json"
   },
   {
-    "id": "s_epoch_of_miyu",
+    "id": "s_epoch_of_miyu_2026",
     "title": "The Epoch of Miyu",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/epoch_of_miyu.json"
+    "path": "data/series/epoch_of_miyu-2026.json"
   },
   {
-    "id": "s_espn_jeopardy",
+    "id": "s_espn_jeopardy_2026",
     "title": "ESPN Jeopardy!",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/espn_jeopardy.json"
+    "path": "data/series/espn_jeopardy-2026.json"
   },
   {
-    "id": "s_ethernel",
+    "id": "s_ethernel_2026",
     "title": "Éthernel",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/ethernel.json"
+    "path": "data/series/ethernel-2026.json"
   },
   {
-    "id": "s_etty",
+    "id": "s_etty_2025",
     "title": "Etty",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/etty.json"
+    "path": "data/series/etty-2025.json"
   },
   {
-    "id": "s_eurosong_70_nasi_ljudi_nase_pjesme",
+    "id": "s_eurosong_70_nasi_ljudi_nase_pjesme_2026",
     "title": "Eurosong 70: Naši ljudi, naše pjesme",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/eurosong_70_nasi_ljudi_nase_pjesme.json"
+    "path": "data/series/eurosong_70_nasi_ljudi_nase_pjesme-2026.json"
   },
   {
-    "id": "s_every_year_after",
+    "id": "s_every_year_after_2026",
     "title": "Every Year After",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/every_year_after.json"
+    "path": "data/series/every_year_after-2026.json"
   },
   {
-    "id": "s_face_to_face_with_ate_koring",
+    "id": "s_face_to_face_with_ate_koring_2026",
     "title": "Face to Face with Ate Koring",
     "start_year": 2026,
     "end_year": 2013,
-    "path": "data/series/face_to_face_with_ate_koring.json"
+    "path": "data/series/face_to_face_with_ate_koring-2026.json"
   },
   {
-    "id": "s_fall_and_rise_of_reggie_dinkins",
+    "id": "s_fall_and_rise_of_reggie_dinkins_2026",
     "title": "The Fall and Rise of Reggie Dinkins",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/fall_and_rise_of_reggie_dinkins.json"
+    "path": "data/series/fall_and_rise_of_reggie_dinkins-2026.json"
   },
   {
-    "id": "s_fall_of_the_house_of_koller",
+    "id": "s_fall_of_the_house_of_koller_2026",
     "title": "The Fall of the House of Koller",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/fall_of_the_house_of_koller.json"
+    "path": "data/series/fall_of_the_house_of_koller-2026.json"
   },
   {
-    "id": "s_family_resister",
+    "id": "s_family_resister_2026",
     "title": "Family Resister",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/family_resister.json"
+    "path": "data/series/family_resister-2026.json"
   },
   {
-    "id": "s_fatma",
+    "id": "s_fatma_2026",
     "title": "Fatma",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/fatma.json"
+    "path": "data/series/fatma-2026.json"
   },
   {
-    "id": "s_ferry_lost",
+    "id": "s_ferry_lost_2026",
     "title": "Ferry Lost",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ferry_lost.json"
+    "path": "data/series/ferry_lost-2026.json"
   },
   {
-    "id": "s_fifties_professionals",
+    "id": "s_fifties_professionals_2026",
     "title": "Fifties Professionals",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/fifties_professionals.json"
+    "path": "data/series/fifties_professionals-2026.json"
   },
   {
-    "id": "s_filing_for_love",
+    "id": "s_filing_for_love_2026",
     "title": "Filing for Love",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/filing_for_love.json"
+    "path": "data/series/filing_for_love-2026.json"
   },
   {
-    "id": "s_final_project",
+    "id": "s_final_project_2026",
     "title": "Final Project",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/final_project.json"
+    "path": "data/series/final_project-2026.json"
   },
   {
-    "id": "s_finding_her_edge",
+    "id": "s_finding_her_edge_2026",
     "title": "Finding Her Edge",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/finding_her_edge.json"
+    "path": "data/series/finding_her_edge-2026.json"
   },
   {
-    "id": "s_floor",
+    "id": "s_floor_2026",
     "title": "The Floor",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/floor.json"
+    "path": "data/series/floor-2026.json"
   },
   {
-    "id": "s_flowers_of_evil",
+    "id": "s_flowers_of_evil_2026",
     "title": "Flowers of Evil",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/flowers_of_evil.json"
+    "path": "data/series/flowers_of_evil-2026.json"
   },
   {
-    "id": "s_four_hands_two_sonatas",
+    "id": "s_four_hands_two_sonatas_2026",
     "title": "Four Hands, Two Sonatas",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/four_hands_two_sonatas.json"
+    "path": "data/series/four_hands_two_sonatas-2026.json"
   },
   {
-    "id": "s_from_sun_to_sun",
+    "id": "s_from_sun_to_sun_2026",
     "title": "From Sun to Sun",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/from_sun_to_sun.json"
+    "path": "data/series/from_sun_to_sun-2026.json"
   },
   {
-    "id": "s_furia",
+    "id": "s_furia_2026",
     "title": "Fúria",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/furia.json"
+    "path": "data/series/furia-2026.json"
   },
   {
-    "id": "s_furious",
+    "id": "s_furious_2026",
     "title": "Furious",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/furious.json"
+    "path": "data/series/furious-2026.json"
   },
   {
-    "id": "s_gangs_of_galicia",
-    "title": "Gangs of Galicia",
-    "start_year": 2026,
-    "end_year": null,
-    "path": "data/series/gangs_of_galicia.json"
-  },
-  {
-    "id": "s_gantengganteng_genteng_kontes_otot_paling_viral",
+    "id": "s_gantengganteng_genteng_kontes_otot_paling_viral_2026",
     "title": "Ganteng-Ganteng Genteng: Kontes Otot Paling Viral",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/gantengganteng_genteng_kontes_otot_paling_viral.json"
+    "path": "data/series/gantengganteng_genteng_kontes_otot_paling_viral-2026.json"
   },
   {
-    "id": "s_gate24the_border",
+    "id": "s_gate24the_border_2026",
     "title": "GATE24:The Border",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/gate24the_border.json"
+    "path": "data/series/gate24the_border-2026.json"
   },
   {
-    "id": "s_gimbap_and_onigiri",
+    "id": "s_gimbap_and_onigiri_2026",
     "title": "Gimbap and Onigiri",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/gimbap_and_onigiri.json"
+    "path": "data/series/gimbap_and_onigiri-2026.json"
   },
   {
-    "id": "s_girl_rules",
+    "id": "s_girl_rules_2026",
     "title": "Girl Rules",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/girl_rules.json"
+    "path": "data/series/girl_rules-2026.json"
   },
   {
-    "id": "s_glass_house",
+    "id": "s_glass_house_2026",
     "title": "The Glass House",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/glass_house.json"
+    "path": "data/series/glass_house-2026.json"
   },
   {
-    "id": "s_glory",
+    "id": "s_glory_2026",
     "title": "Glory",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/glory.json"
+    "path": "data/series/glory-2026.json"
   },
   {
-    "id": "s_gold_land",
+    "id": "s_gold_land_2026",
     "title": "Gold Land",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/gold_land.json"
+    "path": "data/series/gold_land-2026.json"
   },
   {
-    "id": "s_gomorrah_the_origins",
+    "id": "s_gomorrah_the_origins_2026",
     "title": "Gomorrah: The Origins",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/gomorrah_the_origins.json"
+    "path": "data/series/gomorrah_the_origins-2026.json"
   },
   {
-    "id": "s_gone",
+    "id": "s_gone_2026",
     "title": "Gone",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/gone.json"
+    "path": "data/series/gone-2026.json"
   },
   {
-    "id": "s_good_days",
+    "id": "s_good_days_2026",
     "title": "Good Days",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/good_days.json"
+    "path": "data/series/good_days-2026.json"
   },
   {
-    "id": "s_gray_house",
+    "id": "s_gray_house_2026",
     "title": "The Gray House",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/gray_house.json"
+    "path": "data/series/gray_house-2026.json"
   },
   {
-    "id": "s_great_chimera",
+    "id": "s_great_chimera_2025",
     "title": "The Great Chimera",
     "start_year": 2025,
     "end_year": 2025,
-    "path": "data/series/great_chimera.json"
+    "path": "data/series/great_chimera-2025.json"
   },
   {
-    "id": "s_great_king_munmu",
+    "id": "s_great_king_munmu_2026",
     "title": "Great King Munmu",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/great_king_munmu.json"
+    "path": "data/series/great_king_munmu-2026.json"
   },
   {
-    "id": "s_great_teacher_onizuka",
+    "id": "s_great_teacher_onizuka_2026",
     "title": "Great Teacher Onizuka",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/great_teacher_onizuka.json"
+    "path": "data/series/great_teacher_onizuka-2026.json"
   },
   {
-    "id": "s_groupe_de_soutien",
+    "id": "s_groupe_de_soutien_2026",
     "title": "Groupe de soutien",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/groupe_de_soutien.json"
+    "path": "data/series/groupe_de_soutien-2026.json"
   },
   {
-    "id": "s_guerrieri_la_regola_dellequilibrio",
+    "id": "s_guerrieri_la_regola_dellequilibrio_2026",
     "title": "Guerrieri - La regola dell'equilibrio",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/guerrieri_la_regola_dellequilibrio.json"
+    "path": "data/series/guerrieri_la_regola_dellequilibrio-2026.json"
   },
   {
-    "id": "s_gutierrez_is_mai_neim",
+    "id": "s_gutierrez_is_mai_neim_2026",
     "title": "Gutiérrez is mai neim",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/gutierrez_is_mai_neim.json"
+    "path": "data/series/gutierrez_is_mai_neim-2026.json"
   },
   {
-    "id": "s_half_man",
+    "id": "s_half_man_2026",
     "title": "Half Man",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/half_man.json"
+    "path": "data/series/half_man-2026.json"
   },
   {
-    "id": "s_hapshuta",
+    "id": "s_hapshuta_2026",
     "title": "Hapshuta",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/hapshuta.json"
+    "path": "data/series/hapshuta-2026.json"
   },
   {
-    "id": "s_harlan_cobens_final_twist",
+    "id": "s_harlan_cobens_final_twist_2026",
     "title": "Harlan Coben's Final Twist",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/harlan_cobens_final_twist.json"
+    "path": "data/series/harlan_cobens_final_twist-2026.json"
   },
   {
-    "id": "s_harry_potter",
+    "id": "s_harry_potter_2026",
     "title": "Harry Potter",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/harry_potter.json"
+    "path": "data/series/harry_potter-2026.json"
   },
   {
-    "id": "s_hawk",
+    "id": "s_hawk_2026",
     "title": "The Hawk",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/hawk.json"
+    "path": "data/series/hawk-2026.json"
   },
   {
-    "id": "s_hermanas_un_amor_compartido",
+    "id": "s_hermanas_un_amor_compartido_2026",
     "title": "Hermanas, un amor compartido",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/hermanas_un_amor_compartido.json"
+    "path": "data/series/hermanas_un_amor_compartido-2026.json"
   },
   {
-    "id": "s_hidden_master_taebaekho",
+    "id": "s_hidden_master_taebaekho_2026",
     "title": "The Hidden Master Taebaekho",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/hidden_master_taebaekho.json"
+    "path": "data/series/hidden_master_taebaekho-2026.json"
   },
   {
-    "id": "s_hildur",
+    "id": "s_hildur_2026",
     "title": "Hildur",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/hildur.json"
+    "path": "data/series/hildur-2026.json"
   },
   {
-    "id": "s_his_hers",
+    "id": "s_his_hers_2026",
     "title": "His & Hers",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/his_hers.json"
+    "path": "data/series/his_hers-2026.json"
   },
   {
-    "id": "s_hold_a_court_now",
+    "id": "s_hold_a_court_now_2026",
     "title": "Hold a Court Now",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/hold_a_court_now.json"
+    "path": "data/series/hold_a_court_now-2026.json"
   },
   {
-    "id": "s_hollywood_arts",
+    "id": "s_hollywood_arts_2025",
     "title": "Hollywood Arts",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/hollywood_arts.json"
+    "path": "data/series/hollywood_arts-2025.json"
   },
   {
-    "id": "s_honour",
+    "id": "s_honour_2026",
     "title": "Honour",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/honour.json"
+    "path": "data/series/honour-2026.json"
   },
   {
-    "id": "s_house_of_the_spirits",
+    "id": "s_house_of_the_spirits_2026",
     "title": "The House of the Spirits",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/house_of_the_spirits.json"
+    "path": "data/series/house_of_the_spirits-2026.json"
   },
   {
-    "id": "s_how_to_get_to_heaven_from_belfast",
+    "id": "s_how_to_get_to_heaven_from_belfast_2026",
     "title": "How to Get to Heaven from Belfast",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/how_to_get_to_heaven_from_belfast.json"
+    "path": "data/series/how_to_get_to_heaven_from_belfast-2026.json"
   },
   {
-    "id": "s_how_to_survive_my_ceo",
+    "id": "s_how_to_survive_my_ceo_2025",
     "title": "How to Survive My CEO",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/how_to_survive_my_ceo.json"
+    "path": "data/series/how_to_survive_my_ceo-2025.json"
   },
   {
-    "id": "s_human_vapor",
+    "id": "s_human_vapor_2026",
     "title": "Human Vapor",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/human_vapor.json"
+    "path": "data/series/human_vapor-2026.json"
   },
   {
-    "id": "s_hunt",
+    "id": "s_hunt_2026",
     "title": "The Hunt",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/hunt.json"
+    "path": "data/series/hunt-2026.json"
   },
   {
-    "id": "s_husband",
+    "id": "s_husband_2026",
     "title": "The Husband",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/husband.json"
+    "path": "data/series/husband-2026.json"
   },
   {
-    "id": "s_i_will_find_you",
+    "id": "s_i_will_find_you_2026",
     "title": "I Will Find You",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/i_will_find_you.json"
+    "path": "data/series/i_will_find_you-2026.json"
   },
   {
-    "id": "s_if_wishes_could_kill",
+    "id": "s_if_wishes_could_kill_2026",
     "title": "If Wishes Could Kill",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/if_wishes_could_kill.json"
+    "path": "data/series/if_wishes_could_kill-2026.json"
   },
   {
-    "id": "s_imperfect_women",
+    "id": "s_imperfect_women_2026",
     "title": "Imperfect Women",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/imperfect_women.json"
+    "path": "data/series/imperfect_women-2026.json"
   },
   {
-    "id": "s_in_geek_we_trust_2",
+    "id": "s_in_geek_we_trust_2_2026",
     "title": "In Geek We Trust 2",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/in_geek_we_trust_2.json"
+    "path": "data/series/in_geek_we_trust_2-2026.json"
   },
   {
-    "id": "s_in_your_brilliant_season",
+    "id": "s_in_your_brilliant_season_2026",
     "title": "In Your Brilliant Season",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/in_your_brilliant_season.json"
+    "path": "data/series/in_your_brilliant_season-2026.json"
   },
   {
-    "id": "s_innocents",
+    "id": "s_innocents_2026",
     "title": "The Innocents",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/innocents.json"
+    "path": "data/series/innocents-2026.json"
   },
   {
-    "id": "s_inspekce",
+    "id": "s_inspekce_2026",
     "title": "Inspekce",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/inspekce.json"
+    "path": "data/series/inspekce-2026.json"
   },
   {
-    "id": "s_iq_160",
+    "id": "s_iq_160_2026",
     "title": "IQ 160",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/iq_160.json"
+    "path": "data/series/iq_160-2026.json"
   },
   {
-    "id": "s_jakarta_undercover_members_only",
+    "id": "s_jakarta_undercover_members_only_2026",
     "title": "Jakarta Undercover: Members Only",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/jakarta_undercover_members_only.json"
+    "path": "data/series/jakarta_undercover_members_only-2026.json"
   },
   {
-    "id": "s_jo_nesbs_detective_hole",
+    "id": "s_jo_nesbs_detective_hole_2026",
     "title": "Jo Nesbø's Detective Hole",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/jo_nesbs_detective_hole.json"
+    "path": "data/series/jo_nesbs_detective_hole-2026.json"
   },
   {
-    "id": "s_judge_returns",
+    "id": "s_judge_returns_2026",
     "title": "The Judge Returns",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/judge_returns.json"
+    "path": "data/series/judge_returns-2026.json"
   },
   {
-    "id": "s_judges",
+    "id": "s_judges_2026",
     "title": "The Judges",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/judges.json"
+    "path": "data/series/judges-2026.json"
   },
   {
-    "id": "s_kakusei_hunter_omegahorn",
+    "id": "s_kakusei_hunter_omegahorn_2026",
     "title": "Kakusei Hunter Omegahorn",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/kakusei_hunter_omegahorn.json"
+    "path": "data/series/kakusei_hunter_omegahorn-2026.json"
   },
   {
-    "id": "s_kaze_kaoru",
+    "id": "s_kaze_kaoru_2026",
     "title": "Kaze, Kaoru",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/kaze_kaoru.json"
+    "path": "data/series/kaze_kaoru-2026.json"
   },
   {
-    "id": "s_kees_flodder",
+    "id": "s_kees_flodder_2025",
     "title": "Kees Flodder",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/kees_flodder.json"
+    "path": "data/series/kees_flodder-2025.json"
   },
   {
-    "id": "s_kevin",
+    "id": "s_kevin_2026",
     "title": "Kevin",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/kevin.json"
+    "path": "data/series/kevin-2026.json"
   },
   {
-    "id": "s_knight_of_the_seven_kingdoms",
+    "id": "s_knight_of_the_seven_kingdoms_2026",
     "title": "A Knight of the Seven Kingdoms",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/knight_of_the_seven_kingdoms.json"
+    "path": "data/series/knight_of_the_seven_kingdoms-2026.json"
   },
   {
-    "id": "s_kode_rd",
+    "id": "s_kode_rd_2026",
     "title": "Kode Rød",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/kode_rd.json"
+    "path": "data/series/kode_rd-2026.json"
   },
   {
-    "id": "s_kono_ai_wa_machigai_desu_ka_furin_no_shokuzai",
+    "id": "s_kono_ai_wa_machigai_desu_ka_furin_no_shokuzai_2026",
     "title": "Kono Ai wa Machigai desu ka: Furin no Shokuzai",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/kono_ai_wa_machigai_desu_ka_furin_no_shokuzai.json"
+    "path": "data/series/kono_ai_wa_machigai_desu_ka_furin_no_shokuzai-2026.json"
   },
   {
-    "id": "s_krino_and_thorn",
+    "id": "s_krino_and_thorn_2025",
     "title": "Krino and Thorn",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/krino_and_thorn.json"
+    "path": "data/series/krino_and_thorn-2025.json"
   },
   {
-    "id": "s_la_banda",
+    "id": "s_la_banda_2026",
     "title": "La Banda",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/la_banda.json"
+    "path": "data/series/la_banda-2026.json"
   },
   {
-    "id": "s_la_buona_stella",
+    "id": "s_la_buona_stella_2026",
     "title": "La buona stella",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/la_buona_stella.json"
+    "path": "data/series/la_buona_stella-2026.json"
   },
   {
-    "id": "s_la_oficina",
+    "id": "s_la_oficina_2026",
     "title": "La oficina",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/la_oficina.json"
+    "path": "data/series/la_oficina-2026.json"
   },
   {
-    "id": "s_la_preside",
+    "id": "s_la_preside_2026",
     "title": "La preside",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/la_preside.json"
+    "path": "data/series/la_preside-2026.json"
   },
   {
-    "id": "s_lady_liberty",
+    "id": "s_lady_liberty_2026",
     "title": "Lady Liberty",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/lady_liberty.json"
+    "path": "data/series/lady_liberty-2026.json"
   },
   {
-    "id": "s_laffaire_laura_stern",
+    "id": "s_laffaire_laura_stern_2026",
     "title": "L'Affaire Laura Stern",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/laffaire_laura_stern.json"
+    "path": "data/series/laffaire_laura_stern-2026.json"
   },
   {
-    "id": "s_land_of_sin",
+    "id": "s_land_of_sin_2026",
     "title": "Land of Sin",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/land_of_sin.json"
+    "path": "data/series/land_of_sin-2026.json"
   },
   {
-    "id": "s_lanterns",
+    "id": "s_lanterns_2026",
     "title": "Lanterns",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/lanterns.json"
+    "path": "data/series/lanterns-2026.json"
   },
   {
-    "id": "s_las_de_siempre",
+    "id": "s_las_de_siempre_2026",
     "title": "Las de siempre",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/las_de_siempre.json"
+    "path": "data/series/las_de_siempre-2026.json"
   },
   {
-    "id": "s_last_island",
+    "id": "s_last_island_2026",
     "title": "The Last Island",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/last_island.json"
+    "path": "data/series/last_island-2026.json"
   },
   {
-    "id": "s_last_seen",
+    "id": "s_last_seen_2026",
     "title": "Last Seen",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/last_seen.json"
+    "path": "data/series/last_seen-2026.json"
   },
   {
-    "id": "s_le_diplome",
+    "id": "s_le_diplome_2026",
     "title": "Le Diplôme",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/le_diplome.json"
+    "path": "data/series/le_diplome-2026.json"
   },
   {
-    "id": "s_le_libere_donne",
+    "id": "s_le_libere_donne_2026",
     "title": "Le libere donne",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/le_libere_donne.json"
+    "path": "data/series/le_libere_donne-2026.json"
   },
   {
-    "id": "s_le_maitre_du_jeu_junior",
+    "id": "s_le_maitre_du_jeu_junior_2026",
     "title": "Le maître du jeu Junior",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/le_maitre_du_jeu_junior.json"
+    "path": "data/series/le_maitre_du_jeu_junior-2026.json"
   },
   {
-    "id": "s_leaba_w_alabet_begad",
+    "id": "s_leaba_w_alabet_begad_2026",
     "title": "Leaba W Alabet Begad",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/leaba_w_alabet_begad.json"
+    "path": "data/series/leaba_w_alabet_begad-2026.json"
   },
   {
-    "id": "s_legend_of_kitchen_soldier",
+    "id": "s_legend_of_kitchen_soldier_2026",
     "title": "The Legend of Kitchen Soldier",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/legend_of_kitchen_soldier.json"
+    "path": "data/series/legend_of_kitchen_soldier-2026.json"
   },
   {
-    "id": "s_legends",
+    "id": "s_legends_2026",
     "title": "Legends",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/legends.json"
+    "path": "data/series/legends-2026.json"
   },
   {
-    "id": "s_les_aventures_de_nora_gil",
+    "id": "s_les_aventures_de_nora_gil_2026",
     "title": "Les Aventures de Nora & Gil",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/les_aventures_de_nora_gil.json"
+    "path": "data/series/les_aventures_de_nora_gil-2026.json"
   },
   {
-    "id": "s_life_larry_and_the_pursuit_of_unhappiness",
+    "id": "s_life_larry_and_the_pursuit_of_unhappiness_2026",
     "title": "Life, Larry and the Pursuit of Unhappiness",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/life_larry_and_the_pursuit_of_unhappiness.json"
+    "path": "data/series/life_larry_and_the_pursuit_of_unhappiness-2026.json"
   },
   {
-    "id": "s_light_to_the_night",
+    "id": "s_light_to_the_night_2026",
     "title": "Light to the Night",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/light_to_the_night.json"
+    "path": "data/series/light_to_the_night-2026.json"
   },
   {
-    "id": "s_lis",
+    "id": "s_lis_2026",
     "title": "LIS",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/lis.json"
+    "path": "data/series/lis-2026.json"
   },
   {
-    "id": "s_little_house_on_the_prairie",
+    "id": "s_little_house_on_the_prairie_2026",
     "title": "Little House on the Prairie",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/little_house_on_the_prairie.json"
+    "path": "data/series/little_house_on_the_prairie-2026.json"
   },
   {
-    "id": "s_lor_bleu",
+    "id": "s_lor_bleu_2026",
     "title": "L'Or bleu",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/lor_bleu.json"
+    "path": "data/series/lor_bleu-2026.json"
   },
   {
-    "id": "s_lord_jiaqing_and_the_journey_to_taiwan",
+    "id": "s_lord_jiaqing_and_the_journey_to_taiwan_2025",
     "title": "Lord Jiaqing and the Journey to Taiwan",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/lord_jiaqing_and_the_journey_to_taiwan.json"
+    "path": "data/series/lord_jiaqing_and_the_journey_to_taiwan-2025.json"
   },
   {
-    "id": "s_lord_of_the_flies",
+    "id": "s_lord_of_the_flies_2026",
     "title": "Lord of the Flies",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/lord_of_the_flies.json"
+    "path": "data/series/lord_of_the_flies-2026.json"
   },
   {
-    "id": "s_los_encantos_del_sinverguenza",
+    "id": "s_los_encantos_del_sinverguenza_2026",
     "title": "Los encantos del sinvergüenza",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/los_encantos_del_sinverguenza.json"
+    "path": "data/series/los_encantos_del_sinverguenza-2026.json"
   },
   {
-    "id": "s_love_like_a_bike",
+    "id": "s_love_like_a_bike_2026",
     "title": "Love Like a Bike",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/love_like_a_bike.json"
+    "path": "data/series/love_like_a_bike-2026.json"
   },
   {
-    "id": "s_love_of_silom",
+    "id": "s_love_of_silom_2026",
     "title": "Love of Silom",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/love_of_silom.json"
+    "path": "data/series/love_of_silom-2026.json"
   },
   {
-    "id": "s_love_on_the_menu",
+    "id": "s_love_on_the_menu_2026",
     "title": "Love on the Menu",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/love_on_the_menu.json"
+    "path": "data/series/love_on_the_menu-2026.json"
   },
   {
-    "id": "s_love_other_than_yours",
+    "id": "s_love_other_than_yours_2026",
     "title": "A Love Other Than Yours",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/love_other_than_yours.json"
+    "path": "data/series/love_other_than_yours-2026.json"
   },
   {
-    "id": "s_love_phobia",
+    "id": "s_love_phobia_2025",
     "title": "Love Phobia",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/love_phobia.json"
+    "path": "data/series/love_phobia-2025.json"
   },
   {
-    "id": "s_love_story",
+    "id": "s_love_story_2026",
     "title": "Love Story",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/love_story.json"
+    "path": "data/series/love_story-2026.json"
   },
   {
-    "id": "s_loved_one",
+    "id": "s_loved_one_2026",
     "title": "LOVED ONE",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/loved_one.json"
+    "path": "data/series/loved_one-2026.json"
   },
   {
-    "id": "s_lover",
+    "id": "s_lover_2026",
     "title": "L/over",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/lover.json"
+    "path": "data/series/lover-2026.json"
   },
   {
-    "id": "s_lucky_luke",
+    "id": "s_lucky_luke_2026",
     "title": "Lucky Luke",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/lucky_luke.json"
+    "path": "data/series/lucky_luke-2026.json"
   },
   {
-    "id": "s_mad_concrete_dreams",
+    "id": "s_mad_concrete_dreams_2026",
     "title": "Mad Concrete Dreams",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/mad_concrete_dreams.json"
+    "path": "data/series/mad_concrete_dreams-2026.json"
   },
   {
-    "id": "s_madam_beja",
+    "id": "s_madam_beja_2026",
     "title": "Madam Beja",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/madam_beja.json"
+    "path": "data/series/madam_beja-2026.json"
   },
   {
-    "id": "s_madison",
+    "id": "s_madison_2026",
     "title": "The Madison",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/madison.json"
+    "path": "data/series/madison-2026.json"
   },
   {
-    "id": "s_maison_prison",
+    "id": "s_maison_prison_2026",
     "title": "Maison Prison",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/maison_prison.json"
+    "path": "data/series/maison_prison-2026.json"
   },
   {
-    "id": "s_major_grom",
+    "id": "s_major_grom_2026",
     "title": "Major Grom",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/major_grom.json"
+    "path": "data/series/major_grom-2026.json"
   },
   {
-    "id": "s_make_i_no_die_for_lagos",
+    "id": "s_make_i_no_die_for_lagos_2025",
     "title": "Make I No Die For Lagos",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/make_i_no_die_for_lagos.json"
+    "path": "data/series/make_i_no_die_for_lagos-2025.json"
   },
   {
-    "id": "s_make_me_tremble",
+    "id": "s_make_me_tremble_2025",
     "title": "Make Me Tremble",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/make_me_tremble.json"
+    "path": "data/series/make_me_tremble-2025.json"
   },
   {
-    "id": "s_make_that_movie",
+    "id": "s_make_that_movie_2026",
     "title": "Make That Movie",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/make_that_movie.json"
+    "path": "data/series/make_that_movie-2026.json"
   },
   {
-    "id": "s_malcolm_in_the_middle_lifes_still_unfair",
+    "id": "s_malcolm_in_the_middle_lifes_still_unfair_2026",
     "title": "Malcolm in the Middle: Life's Still Unfair",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/malcolm_in_the_middle_lifes_still_unfair.json"
+    "path": "data/series/malcolm_in_the_middle_lifes_still_unfair-2026.json"
   },
   {
-    "id": "s_man_on_fire",
+    "id": "s_man_on_fire_2026",
     "title": "Man on Fire",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/man_on_fire.json"
+    "path": "data/series/man_on_fire-2026.json"
   },
   {
-    "id": "s_manis_di_bibir",
+    "id": "s_manis_di_bibir_2026",
     "title": "Manis di Bibir",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/manis_di_bibir.json"
+    "path": "data/series/manis_di_bibir-2026.json"
   },
   {
-    "id": "s_mannat_har_khushi_paane_ki",
-    "title": "Mannat – Har Khushi Paane Ki",
-    "start_year": 2026,
-    "end_year": null,
-    "path": "data/series/mannat_har_khushi_paane_ki.json"
-  },
-  {
-    "id": "s_many_people_need_to_die",
+    "id": "s_many_people_need_to_die_2026",
     "title": "Many People Need to Die",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/many_people_need_to_die.json"
+    "path": "data/series/many_people_need_to_die-2026.json"
   },
   {
-    "id": "s_margos_got_money_troubles",
+    "id": "s_margos_got_money_troubles_2026",
     "title": "Margo's Got Money Troubles",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/margos_got_money_troubles.json"
+    "path": "data/series/margos_got_money_troubles-2026.json"
   },
   {
-    "id": "s_match_point",
+    "id": "s_match_point_2026",
     "title": "Match Point",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/match_point.json"
+    "path": "data/series/match_point-2026.json"
   },
   {
-    "id": "s_mating_season",
+    "id": "s_mating_season_2026",
     "title": "Mating Season",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/mating_season.json"
+    "path": "data/series/mating_season-2026.json"
   },
   {
-    "id": "s_matori_to_kyoken",
+    "id": "s_matori_to_kyoken_2026",
     "title": "Matori to Kyōken",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/matori_to_kyoken.json"
+    "path": "data/series/matori_to_kyoken-2026.json"
   },
   {
-    "id": "s_mei_no_ainikitayo",
+    "id": "s_mei_no_ainikitayo_2026",
     "title": "ME:I no Ainikitayo!",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/mei_no_ainikitayo.json"
+    "path": "data/series/mei_no_ainikitayo-2026.json"
   },
   {
-    "id": "s_memory_of_a_killer",
+    "id": "s_memory_of_a_killer_2026",
     "title": "Memory of a Killer",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/memory_of_a_killer.json"
+    "path": "data/series/memory_of_a_killer-2026.json"
   },
   {
-    "id": "s_metoda_markovic_straka",
+    "id": "s_metoda_markovic_straka_2026",
     "title": "Metoda Markovič: Straka",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/metoda_markovic_straka.json"
+    "path": "data/series/metoda_markovic_straka-2026.json"
   },
   {
-    "id": "s_mi_dushi_wat_is_dan_liefde",
+    "id": "s_mi_dushi_wat_is_dan_liefde_2026",
     "title": "Mi Dushi: Wat is dan liefde?",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/mi_dushi_wat_is_dan_liefde.json"
+    "path": "data/series/mi_dushi_wat_is_dan_liefde-2026.json"
   },
   {
-    "id": "s_mi_rival",
+    "id": "s_mi_rival_2026",
     "title": "Mi rival",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/mi_rival.json"
+    "path": "data/series/mi_rival-2026.json"
   },
   {
-    "id": "s_mi_savitribai_jyotirao_phule",
+    "id": "s_mi_savitribai_jyotirao_phule_2026",
     "title": "Mi Savitribai Jyotirao Phule",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/mi_savitribai_jyotirao_phule.json"
+    "path": "data/series/mi_savitribai_jyotirao_phule-2026.json"
   },
   {
-    "id": "s_mia",
+    "id": "s_mia_2026",
     "title": "M.I.A.",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/mia.json"
+    "path": "data/series/mia-2026.json"
   },
   {
-    "id": "s_millionfollower_detective",
+    "id": "s_millionfollower_detective_2026",
     "title": "Million-follower Detective",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/millionfollower_detective.json"
+    "path": "data/series/millionfollower_detective-2026.json"
   },
   {
-    "id": "s_miniature_wife",
+    "id": "s_miniature_wife_2026",
     "title": "The Miniature Wife",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/miniature_wife.json"
+    "path": "data/series/miniature_wife-2026.json"
   },
   {
-    "id": "s_misto_zlocinu_zlin",
+    "id": "s_misto_zlocinu_zlin_2026",
     "title": "Místo zločinu Zlín",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/misto_zlocinu_zlin.json"
+    "path": "data/series/misto_zlocinu_zlin-2026.json"
   },
   {
-    "id": "s_monyova",
+    "id": "s_monyova_2026",
     "title": "Monyová",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/monyova.json"
+    "path": "data/series/monyova-2026.json"
   },
   {
-    "id": "s_moonshadow",
+    "id": "s_moonshadow_2026",
     "title": "Moonshadow",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/moonshadow.json"
+    "path": "data/series/moonshadow-2026.json"
   },
   {
-    "id": "s_moria",
+    "id": "s_moria_2026",
     "title": "Moria",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/moria.json"
+    "path": "data/series/moria-2026.json"
   },
   {
-    "id": "s_motorvalley",
+    "id": "s_motorvalley_2026",
     "title": "Motorvalley",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/motorvalley.json"
+    "path": "data/series/motorvalley-2026.json"
   },
   {
-    "id": "s_mousetrap",
+    "id": "s_mousetrap_2026",
     "title": "Mousetrap",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/mousetrap.json"
+    "path": "data/series/mousetrap-2026.json"
   },
   {
-    "id": "s_mr_kill",
+    "id": "s_mr_kill_2026",
     "title": "Mr. Kill",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/mr_kill.json"
+    "path": "data/series/mr_kill-2026.json"
   },
   {
-    "id": "s_muhtemel_ask",
+    "id": "s_muhtemel_ask_2026",
     "title": "Muhtemel Aşk",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/muhtemel_ask.json"
+    "path": "data/series/muhtemel_ask-2026.json"
   },
   {
-    "id": "s_munchen_beats",
+    "id": "s_munchen_beats_2025",
     "title": "München Beats",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/munchen_beats.json"
+    "path": "data/series/munchen_beats-2025.json"
   },
   {
-    "id": "s_musafir_cafe",
+    "id": "s_musafir_cafe_2026",
     "title": "Musafir Cafe",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/musafir_cafe.json"
+    "path": "data/series/musafir_cafe-2026.json"
   },
   {
-    "id": "s_museum_of_innocence",
+    "id": "s_museum_of_innocence_2026",
     "title": "Museum of Innocence",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/museum_of_innocence.json"
+    "path": "data/series/museum_of_innocence-2026.json"
   },
   {
-    "id": "s_my_bias_my_boss",
+    "id": "s_my_bias_my_boss_2026",
     "title": "My Bias, My Boss",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/my_bias_my_boss.json"
+    "path": "data/series/my_bias_my_boss-2026.json"
   },
   {
-    "id": "s_my_brilliant_career",
+    "id": "s_my_brilliant_career_2026",
     "title": "My Brilliant Career",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/my_brilliant_career.json"
+    "path": "data/series/my_brilliant_career-2026.json"
   },
   {
-    "id": "s_my_brother_the_minotaur",
+    "id": "s_my_brother_the_minotaur_2026",
     "title": "My Brother the Minotaur",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/my_brother_the_minotaur.json"
+    "path": "data/series/my_brother_the_minotaur-2026.json"
   },
   {
-    "id": "s_my_romance_scammer",
+    "id": "s_my_romance_scammer_2026",
     "title": "My Romance Scammer",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/my_romance_scammer.json"
+    "path": "data/series/my_romance_scammer-2026.json"
   },
   {
-    "id": "s_my_royal_nemesis",
+    "id": "s_my_royal_nemesis_2026",
     "title": "My Royal Nemesis",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/my_royal_nemesis.json"
+    "path": "data/series/my_royal_nemesis-2026.json"
   },
   {
-    "id": "s_naughty_business",
+    "id": "s_naughty_business_2026",
     "title": "Naughty Business",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/naughty_business.json"
+    "path": "data/series/naughty_business-2026.json"
   },
   {
-    "id": "s_neagley",
+    "id": "s_neagley_2026",
     "title": "Neagley",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/neagley.json"
+    "path": "data/series/neagley-2026.json"
   },
   {
-    "id": "s_neighbors",
+    "id": "s_neighbors_2026",
     "title": "Neighbors",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/neighbors.json"
+    "path": "data/series/neighbors-2026.json"
   },
   {
-    "id": "s_nemesis",
+    "id": "s_nemesis_2026",
     "title": "Nemesis",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/nemesis.json"
+    "path": "data/series/nemesis-2026.json"
   },
   {
-    "id": "s_new_recruit_4_sabotage",
+    "id": "s_new_recruit_4_sabotage_2026",
     "title": "New Recruit 4: Sabotage",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/new_recruit_4_sabotage.json"
+    "path": "data/series/new_recruit_4_sabotage-2026.json"
   },
   {
-    "id": "s_nine_to_six",
+    "id": "s_nine_to_six_2025",
     "title": "Nine to Six",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/nine_to_six.json"
+    "path": "data/series/nine_to_six-2025.json"
   },
   {
-    "id": "s_no_pain_no_gain",
+    "id": "s_no_pain_no_gain_2026",
     "title": "No Pain No Gain",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/no_pain_no_gain.json"
+    "path": "data/series/no_pain_no_gain-2026.json"
   },
   {
-    "id": "s_no_tail_to_tell",
+    "id": "s_no_tail_to_tell_2026",
     "title": "No Tail to Tell",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/no_tail_to_tell.json"
+    "path": "data/series/no_tail_to_tell-2026.json"
   },
   {
-    "id": "s_nobreza_do_amor",
+    "id": "s_nobreza_do_amor_2026",
     "title": "A Nobreza do Amor",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/nobreza_do_amor.json"
+    "path": "data/series/nobreza_do_amor-2026.json"
   },
   {
-    "id": "s_nocturne",
+    "id": "s_nocturne_2026",
     "title": "Nocturne",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/nocturne.json"
+    "path": "data/series/nocturne-2026.json"
   },
   {
-    "id": "s_notes_from_the_last_row",
+    "id": "s_notes_from_the_last_row_2026",
     "title": "Notes from the Last Row",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/notes_from_the_last_row.json"
+    "path": "data/series/notes_from_the_last_row-2026.json"
   },
   {
-    "id": "s_nterti",
+    "id": "s_nterti_2025",
     "title": "Ntérti",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/nterti.json"
+    "path": "data/series/nterti-2025.json"
   },
   {
-    "id": "s_o11ce_new_generation",
+    "id": "s_o11ce_new_generation_2026",
     "title": "O11CE: New Generation",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/o11ce_new_generation.json"
+    "path": "data/series/o11ce_new_generation-2026.json"
   },
   {
-    "id": "s_off_campus",
+    "id": "s_off_campus_2026",
     "title": "Off Campus",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/off_campus.json"
+    "path": "data/series/off_campus-2026.json"
   },
   {
-    "id": "s_oi_thalasses_mas_xorisan",
+    "id": "s_oi_thalasses_mas_xorisan_2025",
     "title": "Oi thálasses mas xorisan",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/oi_thalasses_mas_xorisan.json"
+    "path": "data/series/oi_thalasses_mas_xorisan-2025.json"
   },
   {
-    "id": "s_ok_lets_get_divorced",
+    "id": "s_ok_lets_get_divorced_2026",
     "title": "OK! Let's Get Divorced",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ok_lets_get_divorced.json"
+    "path": "data/series/ok_lets_get_divorced-2026.json"
   },
   {
-    "id": "s_one_woman",
+    "id": "s_one_woman_2025",
     "title": "One Woman",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/one_woman.json"
+    "path": "data/series/one_woman-2025.json"
   },
   {
-    "id": "s_ordinary_jackpot",
+    "id": "s_ordinary_jackpot_2026",
     "title": "The Ordinary Jackpot",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ordinary_jackpot.json"
+    "path": "data/series/ordinary_jackpot-2026.json"
   },
   {
-    "id": "s_our_happy_days",
+    "id": "s_our_happy_days_2026",
     "title": "Our Happy Days",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/our_happy_days.json"
+    "path": "data/series/our_happy_days-2026.json"
   },
   {
-    "id": "s_our_sticky_love",
+    "id": "s_our_sticky_love_2026",
     "title": "Our Sticky Love",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/our_sticky_love.json"
+    "path": "data/series/our_sticky_love-2026.json"
   },
   {
-    "id": "s_our_universe",
+    "id": "s_our_universe_2026",
     "title": "Our Universe",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/our_universe.json"
+    "path": "data/series/our_universe-2026.json"
   },
   {
-    "id": "s_payback",
+    "id": "s_payback_2026",
     "title": "Payback",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/payback.json"
+    "path": "data/series/payback-2026.json"
   },
   {
-    "id": "s_peach_and_me",
+    "id": "s_peach_and_me_2026",
     "title": "Peach and Me",
     "start_year": 2026,
     "end_year": 2016,
-    "path": "data/series/peach_and_me.json"
+    "path": "data/series/peach_and_me-2026.json"
   },
   {
-    "id": "s_pearl_in_red",
+    "id": "s_pearl_in_red_2026",
     "title": "Pearl in Red",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/pearl_in_red.json"
+    "path": "data/series/pearl_in_red-2026.json"
   },
   {
-    "id": "s_perfect_crown",
+    "id": "s_perfect_crown_2026",
     "title": "Perfect Crown",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/perfect_crown.json"
+    "path": "data/series/perfect_crown-2026.json"
   },
   {
-    "id": "s_perfect_lie",
+    "id": "s_perfect_lie_2026",
     "title": "The Perfect Lie",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/perfect_lie.json"
+    "path": "data/series/perfect_lie-2026.json"
   },
   {
-    "id": "s_phantom_lawyer",
+    "id": "s_phantom_lawyer_2026",
     "title": "Phantom Lawyer",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/phantom_lawyer.json"
+    "path": "data/series/phantom_lawyer-2026.json"
   },
   {
-    "id": "s_phoenix",
+    "id": "s_phoenix_2026",
     "title": "Phoenix",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/phoenix.json"
+    "path": "data/series/phoenix-2026.json"
   },
   {
-    "id": "s_plastic_beauty",
+    "id": "s_plastic_beauty_2026",
     "title": "Plastic Beauty",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/plastic_beauty.json"
+    "path": "data/series/plastic_beauty-2026.json"
   },
   {
-    "id": "s_polen",
+    "id": "s_polen_2026",
     "title": "Polen",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/polen.json"
+    "path": "data/series/polen-2026.json"
   },
   {
-    "id": "s_polygamist",
+    "id": "s_polygamist_2026",
     "title": "The Polygamist",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/polygamist.json"
+    "path": "data/series/polygamist-2026.json"
   },
   {
-    "id": "s_ponies",
+    "id": "s_ponies_2026",
     "title": "Ponies",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ponies.json"
+    "path": "data/series/ponies-2026.json"
   },
   {
-    "id": "s_populara_problem",
+    "id": "s_populara_problem_2026",
     "title": "Populära problem",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/populara_problem.json"
+    "path": "data/series/populara_problem-2026.json"
   },
   {
-    "id": "s_por_cien_millones",
+    "id": "s_por_cien_millones_2026",
     "title": "Por cien millones",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/por_cien_millones.json"
+    "path": "data/series/por_cien_millones-2026.json"
   },
   {
-    "id": "s_portraits_of_delusion",
+    "id": "s_portraits_of_delusion_2025",
     "title": "Portraits of Delusion",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/portraits_of_delusion.json"
+    "path": "data/series/portraits_of_delusion-2025.json"
   },
   {
-    "id": "s_positively_yours",
+    "id": "s_positively_yours_2026",
     "title": "Positively Yours",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/positively_yours.json"
+    "path": "data/series/positively_yours-2026.json"
   },
   {
-    "id": "s_practical_guide_to_love",
+    "id": "s_practical_guide_to_love_2026",
     "title": "The Practical Guide to Love",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/practical_guide_to_love.json"
+    "path": "data/series/practical_guide_to_love-2026.json"
   },
   {
-    "id": "s_president_curtis",
+    "id": "s_president_curtis_2026",
     "title": "President Curtis",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/president_curtis.json"
+    "path": "data/series/president_curtis-2026.json"
   },
   {
-    "id": "s_prisoner",
+    "id": "s_prisoner_2026",
     "title": "Prisoner",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/prisoner.json"
+    "path": "data/series/prisoner-2026.json"
   },
   {
-    "id": "s_privileges",
+    "id": "s_privileges_2026",
     "title": "Privileges",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/privileges.json"
+    "path": "data/series/privileges-2026.json"
   },
   {
-    "id": "s_proud",
+    "id": "s_proud_2026",
     "title": "Proud",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/proud.json"
+    "path": "data/series/proud-2026.json"
   },
   {
-    "id": "s_purebred",
+    "id": "s_purebred_2026",
     "title": "Pure-bred",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/purebred.json"
+    "path": "data/series/purebred-2026.json"
   },
   {
-    "id": "s_pursuit_of_jade",
+    "id": "s_pursuit_of_jade_2026",
     "title": "Pursuit of Jade",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/pursuit_of_jade.json"
+    "path": "data/series/pursuit_of_jade-2026.json"
   },
   {
-    "id": "s_queen_silvia",
+    "id": "s_queen_silvia_2026",
     "title": "Queen Silvia",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/queen_silvia.json"
+    "path": "data/series/queen_silvia-2026.json"
   },
   {
-    "id": "s_quem_ama_cuida",
+    "id": "s_quem_ama_cuida_2026",
     "title": "Quem Ama Cuida",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/quem_ama_cuida.json"
+    "path": "data/series/quem_ama_cuida-2026.json"
   },
   {
-    "id": "s_quiet_nava",
+    "id": "s_quiet_nava_2026",
     "title": "Quiet Nava",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/quiet_nava.json"
+    "path": "data/series/quiet_nava-2026.json"
   },
   {
-    "id": "s_radio_star",
+    "id": "s_radio_star_2026",
     "title": "Radio Star",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/radio_star.json"
+    "path": "data/series/radio_star-2026.json"
   },
   {
-    "id": "s_radioactive_emergency",
+    "id": "s_radioactive_emergency_2026",
     "title": "Radioactive Emergency",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/radioactive_emergency.json"
+    "path": "data/series/radioactive_emergency-2026.json"
   },
   {
-    "id": "s_raf_the_greatest_takedowns",
+    "id": "s_raf_the_greatest_takedowns_2026",
     "title": "RAF: The Greatest Takedowns",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/raf_the_greatest_takedowns.json"
+    "path": "data/series/raf_the_greatest_takedowns-2026.json"
   },
   {
-    "id": "s_rafaela_and_her_crazy_world",
+    "id": "s_rafaela_and_her_crazy_world_2026",
     "title": "Rafaela and her Crazy World",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/rafaela_and_her_crazy_world.json"
+    "path": "data/series/rafaela_and_her_crazy_world-2026.json"
   },
   {
-    "id": "s_ravalear",
+    "id": "s_ravalear_2026",
     "title": "Ravalear",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ravalear.json"
+    "path": "data/series/ravalear-2026.json"
   },
   {
-    "id": "s_rebirth",
+    "id": "s_rebirth_2026",
     "title": "Rebirth",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/rebirth.json"
+    "path": "data/series/rebirth-2026.json"
   },
   {
-    "id": "s_reborn_rookie",
+    "id": "s_reborn_rookie_2026",
     "title": "Reborn Rookie",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/reborn_rookie.json"
+    "path": "data/series/reborn_rookie-2026.json"
   },
   {
-    "id": "s_recale",
+    "id": "s_recale_2026",
     "title": "Recalé",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/recale.json"
+    "path": "data/series/recale-2026.json"
   },
   {
-    "id": "s_recipe_for_love",
+    "id": "s_recipe_for_love_2026",
     "title": "Recipe For Love",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/recipe_for_love.json"
+    "path": "data/series/recipe_for_love-2026.json"
   },
   {
-    "id": "s_remarried_empress",
+    "id": "s_remarried_empress_2025",
     "title": "The Remarried Empress",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/remarried_empress.json"
+    "path": "data/series/remarried_empress-2025.json"
   },
   {
-    "id": "s_reset_israeli_tv_series",
+    "id": "s_reset_israeli_tv_series_2026",
     "title": "Reset (Israeli TV series)",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/reset_israeli_tv_series.json"
+    "path": "data/series/reset_israeli_tv_series-2026.json"
   },
   {
-    "id": "s_reverse",
+    "id": "s_reverse_2026",
     "title": "Reverse",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/reverse.json"
+    "path": "data/series/reverse-2026.json"
   },
   {
-    "id": "s_rhythm_of_revenge",
+    "id": "s_rhythm_of_revenge_2026",
     "title": "The Rhythm of Revenge",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/rhythm_of_revenge.json"
+    "path": "data/series/rhythm_of_revenge-2026.json"
   },
   {
-    "id": "s_ride_or_die",
+    "id": "s_ride_or_die_2026",
     "title": "Ride or Die",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ride_or_die.json"
+    "path": "data/series/ride_or_die-2026.json"
   },
   {
-    "id": "s_rigo_case_the_sock_killer",
+    "id": "s_rigo_case_the_sock_killer_2026",
     "title": "The Rigo Case: The Sock Killer",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/rigo_case_the_sock_killer.json"
+    "path": "data/series/rigo_case_the_sock_killer-2026.json"
   },
   {
-    "id": "s_rippers",
+    "id": "s_rippers_2026",
     "title": "Rippers",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/rippers.json"
+    "path": "data/series/rippers-2026.json"
   },
   {
-    "id": "s_rj_decker",
+    "id": "s_rj_decker_2026",
     "title": "RJ Decker",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/rj_decker.json"
+    "path": "data/series/rj_decker-2026.json"
   },
   {
-    "id": "s_road",
+    "id": "s_road_2025",
     "title": "Road",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/road.json"
+    "path": "data/series/road-2025.json"
   },
   {
-    "id": "s_romaria",
+    "id": "s_romaria_2025",
     "title": "Romaria",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/romaria.json"
+    "path": "data/series/romaria-2025.json"
   },
   {
-    "id": "s_rooster",
+    "id": "s_rooster_2026",
     "title": "Rooster",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/rooster.json"
+    "path": "data/series/rooster-2026.json"
   },
   {
-    "id": "s_run_away",
+    "id": "s_run_away_2025",
     "title": "Run Away",
     "start_year": 2025,
     "end_year": 2025,
-    "path": "data/series/run_away.json"
+    "path": "data/series/run_away-2025.json"
   },
   {
-    "id": "s_rust_en_vreugd",
+    "id": "s_rust_en_vreugd_2026",
     "title": "Rust en Vreugd",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/rust_en_vreugd.json"
+    "path": "data/series/rust_en_vreugd-2026.json"
   },
   {
-    "id": "s_sacred_jewel",
+    "id": "s_sacred_jewel_2026",
     "title": "Sacred Jewel",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/sacred_jewel.json"
+    "path": "data/series/sacred_jewel-2026.json"
   },
   {
-    "id": "s_sahtekarlar",
-    "title": "Sahtekarlar",
-    "start_year": 2026,
-    "end_year": 2026,
-    "path": "data/series/sahtekarlar.json"
-  },
-  {
-    "id": "s_saint_love_survivors",
+    "id": "s_saint_love_survivors_2026",
     "title": "Saint Love Survivors",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/saint_love_survivors.json"
+    "path": "data/series/saint_love_survivors-2026.json"
   },
   {
-    "id": "s_salvador",
+    "id": "s_salvador_2026",
     "title": "Salvador",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/salvador.json"
+    "path": "data/series/salvador-2026.json"
   },
   {
-    "id": "s_satisfaccion_garantizada",
+    "id": "s_satisfaccion_garantizada_2026",
     "title": "Satisfacción garantizada",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/satisfaccion_garantizada.json"
+    "path": "data/series/satisfaccion_garantizada-2026.json"
   },
   {
-    "id": "s_saturday_night_live_uk",
+    "id": "s_saturday_night_live_uk_2026",
     "title": "Saturday Night Live UK",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/saturday_night_live_uk.json"
+    "path": "data/series/saturday_night_live_uk-2026.json"
   },
   {
-    "id": "s_savant",
+    "id": "s_savant_2026",
     "title": "The Savant",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/savant.json"
+    "path": "data/series/savant-2026.json"
   },
   {
-    "id": "s_scandal",
+    "id": "s_scandal_2025",
     "title": "The Scandal",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/scandal.json"
+    "path": "data/series/scandal-2025.json"
   },
   {
-    "id": "s_scarecrow",
+    "id": "s_scarecrow_2026",
     "title": "The Scarecrow",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/scarecrow.json"
+    "path": "data/series/scarecrow-2026.json"
   },
   {
-    "id": "s_scarpetta",
+    "id": "s_scarpetta_2026",
     "title": "Scarpetta",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/scarpetta.json"
-  },
-  {
-    "id": "s_scrubs",
-    "title": "Scrubs",
-    "start_year": 2026,
-    "end_year": 2010,
-    "path": "data/series/scrubs.json"
+    "path": "data/series/scarpetta-2026.json"
   },
   {
     "id": "s_scrubs_2026",
     "title": "Scrubs (2026)",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/scrubs_2026.json"
+    "path": "data/series/scrubs-2026.json"
   },
   {
-    "id": "s_secrets_of_hotel_88",
+    "id": "s_secrets_of_hotel_88_2026",
     "title": "The Secrets of Hotel 88",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/secrets_of_hotel_88.json"
+    "path": "data/series/secrets_of_hotel_88-2026.json"
   },
   {
-    "id": "s_see_you_at_work_tomorrow",
+    "id": "s_see_you_at_work_tomorrow_2026",
     "title": "See You at Work Tomorrow!",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/see_you_at_work_tomorrow.json"
+    "path": "data/series/see_you_at_work_tomorrow-2026.json"
   },
   {
-    "id": "s_selfie_family",
+    "id": "s_selfie_family_2026",
     "title": "Selfie Family",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/selfie_family.json"
+    "path": "data/series/selfie_family-2026.json"
   },
   {
-    "id": "s_senora_del_destino",
+    "id": "s_senora_del_destino_2026",
     "title": "Señora del destino",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/senora_del_destino.json"
+    "path": "data/series/senora_del_destino-2026.json"
   },
   {
-    "id": "s_seven_dials_mystery",
+    "id": "s_seven_dials_mystery_2026",
     "title": "Seven Dials Mystery",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/seven_dials_mystery.json"
+    "path": "data/series/seven_dials_mystery-2026.json"
   },
   {
-    "id": "s_shards",
+    "id": "s_shards_2026",
     "title": "The Shards",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/shards.json"
+    "path": "data/series/shards-2026.json"
   },
   {
-    "id": "s_sher",
-    "title": "Sher",
-    "start_year": 2026,
-    "end_year": 2025,
-    "path": "data/series/sher.json"
-  },
-  {
-    "id": "s_silent_truth",
+    "id": "s_silent_truth_2026",
     "title": "再会〜Silent Truth〜",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/silent_truth.json"
+    "path": "data/series/silent_truth-2026.json"
   },
   {
-    "id": "s_sins_of_kujo",
+    "id": "s_sins_of_kujo_2026",
     "title": "Sins of Kujo",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/sins_of_kujo.json"
+    "path": "data/series/sins_of_kujo-2026.json"
   },
   {
-    "id": "s_sirens_kiss",
+    "id": "s_sirens_kiss_2026",
     "title": "Siren's Kiss",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/sirens_kiss.json"
+    "path": "data/series/sirens_kiss-2026.json"
   },
   {
-    "id": "s_smart_face",
+    "id": "s_smart_face_2026",
     "title": "Smart Face",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/smart_face.json"
+    "path": "data/series/smart_face-2026.json"
   },
   {
-    "id": "s_snake_killer",
+    "id": "s_snake_killer_2026",
     "title": "Snake Killer",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/snake_killer.json"
+    "path": "data/series/snake_killer-2026.json"
   },
   {
-    "id": "s_so_far_so_good",
+    "id": "s_so_far_so_good_2026",
     "title": "So Far So Good",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/so_far_so_good.json"
+    "path": "data/series/so_far_so_good-2026.json"
   },
   {
-    "id": "s_sold_out_on_you",
+    "id": "s_sold_out_on_you_2026",
     "title": "Sold Out on You",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/sold_out_on_you.json"
+    "path": "data/series/sold_out_on_you-2026.json"
   },
   {
-    "id": "s_something_familiar",
+    "id": "s_something_familiar_2025",
     "title": "Something Familiar",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/something_familiar.json"
+    "path": "data/series/something_familiar-2025.json"
   },
   {
-    "id": "s_something_very_bad_is_going_to_happen",
+    "id": "s_something_very_bad_is_going_to_happen_2025",
     "title": "Something Very Bad Is Going to Happen",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/something_very_bad_is_going_to_happen.json"
+    "path": "data/series/something_very_bad_is_going_to_happen-2025.json"
   },
   {
-    "id": "s_sommer_36",
+    "id": "s_sommer_36_2026",
     "title": "Sommer '36",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/sommer_36.json"
+    "path": "data/series/sommer_36-2026.json"
   },
   {
-    "id": "s_sos_raztrebiteli",
+    "id": "s_sos_raztrebiteli_2026",
     "title": "SOS Raztrebiteli",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/sos_raztrebiteli.json"
+    "path": "data/series/sos_raztrebiteli-2026.json"
   },
   {
-    "id": "s_sounds_of_winter",
+    "id": "s_sounds_of_winter_2026",
     "title": "Sounds of Winter",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/sounds_of_winter.json"
+    "path": "data/series/sounds_of_winter-2026.json"
   },
   {
-    "id": "s_sous_ses_yeux",
+    "id": "s_sous_ses_yeux_2026",
     "title": "Sous ses yeux",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/sous_ses_yeux.json"
+    "path": "data/series/sous_ses_yeux-2026.json"
   },
   {
-    "id": "s_soy_luna_lets_roll_again",
+    "id": "s_soy_luna_lets_roll_again_2026",
     "title": "Soy Luna: Let's Roll Again",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/soy_luna_lets_roll_again.json"
+    "path": "data/series/soy_luna_lets_roll_again-2026.json"
   },
   {
-    "id": "s_specijalisti_zagreb",
+    "id": "s_specijalisti_zagreb_2026",
     "title": "Specijalisti Zagreb",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/specijalisti_zagreb.json"
+    "path": "data/series/specijalisti_zagreb-2026.json"
   },
   {
-    "id": "s_spidernoir",
+    "id": "s_spidernoir_2026",
     "title": "Spider-Noir",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/spidernoir.json"
+    "path": "data/series/spidernoir-2026.json"
   },
   {
-    "id": "s_spiliades",
+    "id": "s_spiliades_2025",
     "title": "Spiliádes",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/spiliades.json"
+    "path": "data/series/spiliades-2025.json"
   },
   {
-    "id": "s_spooky_in_love",
+    "id": "s_spooky_in_love_2026",
     "title": "Spooky in Love",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/spooky_in_love.json"
+    "path": "data/series/spooky_in_love-2026.json"
   },
   {
-    "id": "s_spring_fever",
+    "id": "s_spring_fever_2026",
     "title": "Spring Fever",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/spring_fever.json"
+    "path": "data/series/spring_fever-2026.json"
   },
   {
-    "id": "s_steal",
+    "id": "s_steal_2026",
     "title": "Steal",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/steal.json"
+    "path": "data/series/steal-2026.json"
   },
   {
-    "id": "s_sterling_point",
+    "id": "s_sterling_point_2026",
     "title": "Sterling Point",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/sterling_point.json"
+    "path": "data/series/sterling_point-2026.json"
   },
   {
-    "id": "s_still_shining",
+    "id": "s_still_shining_2026",
     "title": "Still Shining",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/still_shining.json"
+    "path": "data/series/still_shining-2026.json"
   },
   {
-    "id": "s_straight_to_hell",
+    "id": "s_straight_to_hell_2026",
     "title": "Straight to Hell",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/straight_to_hell.json"
+    "path": "data/series/straight_to_hell-2026.json"
   },
   {
-    "id": "s_stuart_fails_to_save_the_universe",
+    "id": "s_stuart_fails_to_save_the_universe_2026",
     "title": "Stuart Fails to Save the Universe",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/stuart_fails_to_save_the_universe.json"
+    "path": "data/series/stuart_fails_to_save_the_universe-2026.json"
   },
   {
-    "id": "s_sunim_sonim_soul_trip_in_india",
+    "id": "s_sunim_sonim_soul_trip_in_india_2026",
     "title": "Sunim & Sonim: Soul Trip in India",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/sunim_sonim_soul_trip_in_india.json"
+    "path": "data/series/sunim_sonim_soul_trip_in_india-2026.json"
   },
   {
-    "id": "s_super_iroes",
+    "id": "s_super_iroes_2026",
     "title": "Super Iroes",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/super_iroes.json"
+    "path": "data/series/super_iroes-2026.json"
   },
   {
-    "id": "s_super_space_sheriff_gavan_infinity",
+    "id": "s_super_space_sheriff_gavan_infinity_2026",
     "title": "Super Space Sheriff Gavan Infinity",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/super_space_sheriff_gavan_infinity.json"
+    "path": "data/series/super_space_sheriff_gavan_infinity-2026.json"
   },
   {
-    "id": "s_swords_into_plowshares",
+    "id": "s_swords_into_plowshares_2026",
     "title": "Swords Into Plowshares",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/swords_into_plowshares.json"
+    "path": "data/series/swords_into_plowshares-2026.json"
   },
   {
-    "id": "s_tagusari_bros",
+    "id": "s_tagusari_bros_2026",
     "title": "TAGUSARI bros.",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/tagusari_bros.json"
+    "path": "data/series/tagusari_bros-2026.json"
   },
   {
-    "id": "s_take_charge_of_my_heart",
+    "id": "s_take_charge_of_my_heart_2025",
     "title": "Take Charge of My Heart",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/take_charge_of_my_heart.json"
+    "path": "data/series/take_charge_of_my_heart-2025.json"
   },
   {
-    "id": "s_tale_of_two_cities",
+    "id": "s_tale_of_two_cities_2026",
     "title": "A Tale of Two Cities",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/tale_of_two_cities.json"
+    "path": "data/series/tale_of_two_cities-2026.json"
   },
   {
-    "id": "s_tantara",
+    "id": "s_tantara_2026",
     "title": "Tantara",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/tantara.json"
+    "path": "data/series/tantara-2026.json"
   },
   {
-    "id": "s_taskaree_the_smugglers_web",
+    "id": "s_taskaree_the_smugglers_web_2026",
     "title": "Taskaree: The Smuggler's Web",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/taskaree_the_smugglers_web.json"
+    "path": "data/series/taskaree_the_smugglers_web-2026.json"
   },
   {
-    "id": "s_tatsuki_too_kind_for_school",
+    "id": "s_tatsuki_too_kind_for_school_2026",
     "title": "Tatsuki: Too Kind for School",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/tatsuki_too_kind_for_school.json"
+    "path": "data/series/tatsuki_too_kind_for_school-2026.json"
   },
   {
-    "id": "s_teach_you_a_lesson",
+    "id": "s_teach_you_a_lesson_2026",
     "title": "Teach You a Lesson",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/teach_you_a_lesson.json"
+    "path": "data/series/teach_you_a_lesson-2026.json"
   },
   {
-    "id": "s_tenkosei_nano",
+    "id": "s_tenkosei_nano_2026",
     "title": "Tenkosei Nano",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/tenkosei_nano.json"
+    "path": "data/series/tenkosei_nano-2026.json"
   },
   {
-    "id": "s_testaments",
+    "id": "s_testaments_2026",
     "title": "The Testaments",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/testaments.json"
+    "path": "data/series/testaments-2026.json"
   },
   {
-    "id": "s_that_night",
+    "id": "s_that_night_2026",
     "title": "That Night",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/that_night.json"
+    "path": "data/series/that_night-2026.json"
   },
   {
-    "id": "s_ticket_to_heaven",
+    "id": "s_ticket_to_heaven_2026",
     "title": "Ticket To Heaven",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/ticket_to_heaven.json"
+    "path": "data/series/ticket_to_heaven-2026.json"
   },
   {
-    "id": "s_ticket_to_the_tribes_zonder_socials_naar_de_stammen",
+    "id": "s_ticket_to_the_tribes_zonder_socials_naar_de_stammen_2026",
     "title": "Ticket to the Tribes: Zonder socials naar de stammen",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ticket_to_the_tribes_zonder_socials_naar_de_stammen.json"
+    "path": "data/series/ticket_to_the_tribes_zonder_socials_naar_de_stammen-2026.json"
   },
   {
-    "id": "s_tills_doden_skiljer_oss",
+    "id": "s_tills_doden_skiljer_oss_2025",
     "title": "Tills döden skiljer oss",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/tills_doden_skiljer_oss.json"
+    "path": "data/series/tills_doden_skiljer_oss-2025.json"
   },
   {
-    "id": "s_timeless_memories",
+    "id": "s_timeless_memories_2025",
     "title": "Timeless Memories",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/timeless_memories.json"
+    "path": "data/series/timeless_memories-2025.json"
   },
   {
-    "id": "s_tip_toe",
+    "id": "s_tip_toe_2026",
     "title": "Tip Toe",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/tip_toe.json"
+    "path": "data/series/tip_toe-2026.json"
   },
   {
-    "id": "s_tko_bi_rekao",
+    "id": "s_tko_bi_rekao_2026",
     "title": "Tko bi rekao",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/tko_bi_rekao.json"
+    "path": "data/series/tko_bi_rekao-2026.json"
   },
   {
-    "id": "s_to_love_to_lose",
+    "id": "s_to_love_to_lose_2026",
     "title": "To Love, To Lose",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/to_love_to_lose.json"
+    "path": "data/series/to_love_to_lose-2026.json"
   },
   {
-    "id": "s_to_my_beloved_thief",
+    "id": "s_to_my_beloved_thief_2026",
     "title": "To My Beloved Thief",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/to_my_beloved_thief.json"
+    "path": "data/series/to_my_beloved_thief-2026.json"
   },
   {
-    "id": "s_tonight_i_have_a_date_with_a_serial_killer",
+    "id": "s_tonight_i_have_a_date_with_a_serial_killer_2026",
     "title": "Tonight, I Have a Date with a Serial Killer",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/tonight_i_have_a_date_with_a_serial_killer.json"
+    "path": "data/series/tonight_i_have_a_date_with_a_serial_killer-2026.json"
   },
   {
-    "id": "s_torn_apart",
+    "id": "s_torn_apart_2026",
     "title": "Torn Apart",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/torn_apart.json"
+    "path": "data/series/torn_apart-2026.json"
   },
   {
-    "id": "s_trap_called_desire",
+    "id": "s_trap_called_desire_2026",
     "title": "A Trap Called Desire",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/trap_called_desire.json"
+    "path": "data/series/trap_called_desire-2026.json"
   },
   {
-    "id": "s_trio_de_ataque",
+    "id": "s_trio_de_ataque_2026",
     "title": "Trio de Ataque",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/trio_de_ataque.json"
+    "path": "data/series/trio_de_ataque-2026.json"
   },
   {
-    "id": "s_trust_me_the_false_prophet",
+    "id": "s_trust_me_the_false_prophet_2026",
     "title": "Trust Me: The False Prophet",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/trust_me_the_false_prophet.json"
+    "path": "data/series/trust_me_the_false_prophet-2026.json"
   },
   {
-    "id": "s_truth",
+    "id": "s_truth_2026",
     "title": "The Truth",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/truth.json"
+    "path": "data/series/truth-2026.json"
   },
   {
-    "id": "s_tsui_no_hito",
+    "id": "s_tsui_no_hito_2026",
     "title": "Tsui no Hito",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/tsui_no_hito.json"
+    "path": "data/series/tsui_no_hito-2026.json"
   },
   {
-    "id": "s_twenty_twenty_six",
+    "id": "s_twenty_twenty_six_2026",
     "title": "Twenty Twenty Six",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/twenty_twenty_six.json"
+    "path": "data/series/twenty_twenty_six-2026.json"
   },
   {
-    "id": "s_twisted_yoga",
+    "id": "s_twisted_yoga_2026",
     "title": "Twisted Yoga",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/twisted_yoga.json"
+    "path": "data/series/twisted_yoga-2026.json"
   },
   {
-    "id": "s_two_black_shirts",
+    "id": "s_two_black_shirts_2025",
     "title": "Two black shirts",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/two_black_shirts.json"
+    "path": "data/series/two_black_shirts-2025.json"
   },
   {
-    "id": "s_uhauling_algorithmes_amoureux",
+    "id": "s_uhauling_algorithmes_amoureux_2026",
     "title": "U-Hauling : Algorithmes amoureux",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/uhauling_algorithmes_amoureux.json"
+    "path": "data/series/uhauling_algorithmes_amoureux-2026.json"
   },
   {
-    "id": "s_ultraman_teo",
+    "id": "s_ultraman_teo_2026",
     "title": "Ultraman Teo",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/ultraman_teo.json"
+    "path": "data/series/ultraman_teo-2026.json"
   },
   {
-    "id": "s_un_paso_hacia_ti",
+    "id": "s_un_paso_hacia_ti_2026",
     "title": "Un paso hacia ti",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/un_paso_hacia_ti.json"
+    "path": "data/series/un_paso_hacia_ti-2026.json"
   },
   {
-    "id": "s_unacceptable",
+    "id": "s_unacceptable_2026",
     "title": "Unacceptable",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/unacceptable.json"
+    "path": "data/series/unacceptable-2026.json"
   },
   {
-    "id": "s_unchosen",
+    "id": "s_unchosen_2026",
     "title": "Unchosen",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/unchosen.json"
+    "path": "data/series/unchosen-2026.json"
   },
   {
-    "id": "s_unconditional",
+    "id": "s_unconditional_2026",
     "title": "Unconditional",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/unconditional.json"
+    "path": "data/series/unconditional-2026.json"
   },
   {
-    "id": "s_under_salt_marsh",
+    "id": "s_under_salt_marsh_2026",
     "title": "Under Salt Marsh",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/under_salt_marsh.json"
+    "path": "data/series/under_salt_marsh-2026.json"
   },
   {
-    "id": "s_undercover_miss_hong",
+    "id": "s_undercover_miss_hong_2026",
     "title": "Undercover Miss Hong",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/undercover_miss_hong.json"
+    "path": "data/series/undercover_miss_hong-2026.json"
   },
   {
-    "id": "s_unfamiliar",
+    "id": "s_unfamiliar_2026",
     "title": "Unfamiliar",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/unfamiliar.json"
+    "path": "data/series/unfamiliar-2026.json"
   },
   {
-    "id": "s_uniform",
+    "id": "s_uniform_2026",
     "title": "The Uniform",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/uniform.json"
+    "path": "data/series/uniform-2026.json"
   },
   {
-    "id": "s_uno_sbirro_in_appennino",
+    "id": "s_uno_sbirro_in_appennino_2026",
     "title": "Uno sbirro in Appennino",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/uno_sbirro_in_appennino.json"
+    "path": "data/series/uno_sbirro_in_appennino-2026.json"
   },
   {
-    "id": "s_until_the_tshirt_dries",
+    "id": "s_until_the_tshirt_dries_2026",
     "title": "Until the T-shirt Dries",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/until_the_tshirt_dries.json"
+    "path": "data/series/until_the_tshirt_dries-2026.json"
   },
   {
-    "id": "s_until_we_meet_again",
+    "id": "s_until_we_meet_again_2026",
     "title": "Until We Meet Again",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/until_we_meet_again.json"
+    "path": "data/series/until_we_meet_again-2026.json"
   },
   {
-    "id": "s_unveiljadewind",
+    "id": "s_unveiljadewind_2026",
     "title": "Unveil:Jadewind",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/unveiljadewind.json"
+    "path": "data/series/unveiljadewind-2026.json"
   },
   {
-    "id": "s_vaka",
+    "id": "s_vaka_2026",
     "title": "Vaka",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/vaka.json"
+    "path": "data/series/vaka-2026.json"
   },
   {
-    "id": "s_valley_persian_style",
+    "id": "s_valley_persian_style_2026",
     "title": "The Valley: Persian Style",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/valley_persian_style.json"
+    "path": "data/series/valley_persian_style-2026.json"
   },
   {
-    "id": "s_vanished_name",
+    "id": "s_vanished_name_2026",
     "title": "Vanished Name",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/vanished_name.json"
+    "path": "data/series/vanished_name-2026.json"
   },
   {
-    "id": "s_veil_of_shadows",
+    "id": "s_veil_of_shadows_2026",
     "title": "Veil of Shadows",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/veil_of_shadows.json"
+    "path": "data/series/veil_of_shadows-2026.json"
   },
   {
-    "id": "s_vidas_paralelas",
+    "id": "s_vidas_paralelas_2025",
     "title": "Vidas Paralelas",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/vidas_paralelas.json"
+    "path": "data/series/vidas_paralelas-2025.json"
   },
   {
-    "id": "s_vienna_game",
+    "id": "s_vienna_game_2026",
     "title": "Vienna Game",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/vienna_game.json"
+    "path": "data/series/vienna_game-2026.json"
   },
   {
-    "id": "s_visionquest",
+    "id": "s_visionquest_2026",
     "title": "VisionQuest",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/visionquest.json"
+    "path": "data/series/visionquest-2026.json"
   },
   {
-    "id": "s_vladimir",
+    "id": "s_vladimir_2026",
     "title": "Vladimir",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/vladimir.json"
+    "path": "data/series/vladimir-2026.json"
   },
   {
-    "id": "s_way_out",
+    "id": "s_way_out_2026",
     "title": "The Way Out",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/way_out.json"
+    "path": "data/series/way_out-2026.json"
   },
   {
-    "id": "s_we_are_all_trying_here",
+    "id": "s_we_are_all_trying_here_2026",
     "title": "We Are All Trying Here",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/we_are_all_trying_here.json"
+    "path": "data/series/we_are_all_trying_here-2026.json"
   },
   {
-    "id": "s_weirdo101",
+    "id": "s_weirdo101_2026",
     "title": "Weirdo-101",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/weirdo101.json"
+    "path": "data/series/weirdo101-2026.json"
   },
   {
-    "id": "s_well_be_fine",
+    "id": "s_well_be_fine_2026",
     "title": "We'll Be Fine",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/well_be_fine.json"
+    "path": "data/series/well_be_fine-2026.json"
   },
   {
-    "id": "s_westies",
+    "id": "s_westies_2026",
     "title": "The Westies",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/westies.json"
+    "path": "data/series/westies-2026.json"
   },
   {
-    "id": "s_wheel_of_fortune_india",
+    "id": "s_wheel_of_fortune_india_2026",
     "title": "Wheel of Fortune India",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/wheel_of_fortune_india.json"
+    "path": "data/series/wheel_of_fortune_india-2026.json"
   },
   {
-    "id": "s_when_oranges_fall",
+    "id": "s_when_oranges_fall_2026",
     "title": "When Oranges Fall",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/when_oranges_fall.json"
+    "path": "data/series/when_oranges_fall-2026.json"
   },
   {
-    "id": "s_whisper_of_desire",
+    "id": "s_whisper_of_desire_2026",
     "title": "Whisper of Desire",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/whisper_of_desire.json"
+    "path": "data/series/whisper_of_desire-2026.json"
   },
   {
-    "id": "s_widows_bay",
+    "id": "s_widows_bay_2026",
     "title": "Widow's Bay",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/widows_bay.json"
+    "path": "data/series/widows_bay-2026.json"
   },
   {
-    "id": "s_wind_up",
+    "id": "s_wind_up_2026",
     "title": "WIND UP",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/wind_up.json"
+    "path": "data/series/wind_up-2026.json"
   },
   {
-    "id": "s_wishing_upon_the_shooting_stars",
+    "id": "s_wishing_upon_the_shooting_stars_2026",
     "title": "Wishing Upon the Shooting Stars",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/wishing_upon_the_shooting_stars.json"
+    "path": "data/series/wishing_upon_the_shooting_stars-2026.json"
   },
   {
-    "id": "s_woman_of_substance",
+    "id": "s_woman_of_substance_2026",
     "title": "A Woman of Substance",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/woman_of_substance.json"
+    "path": "data/series/woman_of_substance-2026.json"
   },
   {
-    "id": "s_wonder_man",
+    "id": "s_wonder_man_2026",
     "title": "Wonder Man",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/wonder_man.json"
+    "path": "data/series/wonder_man-2026.json"
   },
   {
-    "id": "s_wonderfools",
+    "id": "s_wonderfools_2026",
     "title": "The Wonderfools",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/wonderfools.json"
+    "path": "data/series/wonderfools-2026.json"
   },
   {
-    "id": "s_wonderful_times",
+    "id": "s_wonderful_times_2026",
     "title": "Wonderful Times",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/wonderful_times.json"
+    "path": "data/series/wonderful_times-2026.json"
   },
   {
-    "id": "s_wu",
+    "id": "s_wu_2026",
     "title": "Wu",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/wu.json"
+    "path": "data/series/wu-2026.json"
   },
   {
-    "id": "s_yani",
+    "id": "s_yani_2026",
     "title": "Yani",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/yani.json"
+    "path": "data/series/yani-2026.json"
   },
   {
-    "id": "s_you_are_the_one_i_love",
+    "id": "s_you_are_the_one_i_love_2026",
     "title": "You Are the One I Love",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/you_are_the_one_i_love.json"
+    "path": "data/series/you_are_the_one_i_love-2026.json"
   },
   {
-    "id": "s_you_maniac",
+    "id": "s_you_maniac_2026",
     "title": "You Maniac",
     "start_year": 2026,
     "end_year": 2026,
-    "path": "data/series/you_maniac.json"
+    "path": "data/series/you_maniac-2026.json"
   },
   {
-    "id": "s_young_sherlock",
+    "id": "s_young_sherlock_2026",
     "title": "Young Sherlock",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/young_sherlock.json"
+    "path": "data/series/young_sherlock-2026.json"
   },
   {
-    "id": "s_your_sky",
+    "id": "s_your_sky_2026",
     "title": "Your Sky ハレのち恋",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/your_sky.json"
+    "path": "data/series/your_sky-2026.json"
   },
   {
-    "id": "s_your_third",
+    "id": "s_your_third_2026",
     "title": "Your Third",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/your_third.json"
+    "path": "data/series/your_third-2026.json"
   },
   {
-    "id": "s_zeikin_de_katta_hon",
+    "id": "s_zeikin_de_katta_hon_2025",
     "title": "Zeikin de Katta Hon",
     "start_year": 2025,
     "end_year": null,
-    "path": "data/series/zeikin_de_katta_hon.json"
+    "path": "data/series/zeikin_de_katta_hon-2025.json"
   },
   {
-    "id": "s_zoo",
+    "id": "s_zoo_2026",
     "title": "The Zoo",
     "start_year": 2026,
     "end_year": null,
-    "path": "data/series/zoo.json"
+    "path": "data/series/zoo-2026.json"
   }
 ]
