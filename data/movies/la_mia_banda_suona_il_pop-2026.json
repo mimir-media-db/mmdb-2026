@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mia_banda_suona_il_pop_2026",
+  "title": "La mia banda suona il pop",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83801259",
+    "imdb": "tt10715104",
+    "tmdb": 612495
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 95
+}

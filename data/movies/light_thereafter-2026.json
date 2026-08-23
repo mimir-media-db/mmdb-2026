@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_thereafter_2026",
+  "title": "Light Thereafter",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61140002",
+    "imdb": "tt4181716",
+    "tmdb": 399185
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 101
+}

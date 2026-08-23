@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lego_star_wars_the_new_yoda_chronicles_clash_of_the_skywalkers_2026",
+  "title": "Lego Star Wars: The New Yoda Chronicles: Clash of the Skywalkers",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q75502074",
+    "imdb": "tt4283838"
+  },
+  "last_updated": "2026-08-23",
+  "runtime_minutes": 22
+}
