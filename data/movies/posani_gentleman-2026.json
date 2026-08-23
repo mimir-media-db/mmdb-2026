@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_posani_gentleman_2026",
+  "title": "Posani Gentleman",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16340934",
+    "imdb": "tt1580002",
+    "tmdb": 950654
+  },
+  "last_updated": "2026-08-23"
+}
