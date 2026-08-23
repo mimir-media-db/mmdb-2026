@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_every_year_after_2026",
+  "title": "Every Year After",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138773730",
+    "imdb": "tt33055254",
+    "tmdb": 260592
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

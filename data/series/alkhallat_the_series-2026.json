@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_alkhallat_the_series_2026",
+  "title": "Alkhallat+: The Series",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138828121",
+    "imdb": "tt39383599",
+    "tmdb": 318188
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SA"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_100_days_of_deception_2026",
+  "title": "100 Days of Deception",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138003793",
+    "imdb": "tt39201866",
+    "tmdb": 293607
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

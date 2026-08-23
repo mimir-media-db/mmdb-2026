@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_buonvino_misteri_a_villa_borghese_2026",
+  "title": "Buonvino - Misteri a Villa Borghese",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140249765",
+    "imdb": "tt42053429",
+    "tmdb": 321556
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

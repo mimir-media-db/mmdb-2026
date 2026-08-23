@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_coracao_acelerado_2026",
+  "title": "Coração Acelerado",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134081694",
+    "imdb": "tt39169218",
+    "tmdb": 301174
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Drama",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

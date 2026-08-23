@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_prisoner_2026",
+  "title": "Prisoner",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135654603",
+    "imdb": "tt34273502",
+    "tmdb": 311858
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

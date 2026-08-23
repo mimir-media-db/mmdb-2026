@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_le_libere_donne_2026",
+  "title": "Le libere donne",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138674453",
+    "imdb": "tt35314787",
+    "tmdb": 316296
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

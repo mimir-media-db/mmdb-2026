@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_controversial_entertainer_2026",
+  "title": "A Controversial Entertainer",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140170240",
+    "imdb": "tt42206024",
+    "tmdb": 278403
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

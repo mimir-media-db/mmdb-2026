@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_rhythm_of_revenge_2026",
+  "title": "The Rhythm of Revenge",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139554352",
+    "imdb": "tt39379466",
+    "tmdb": 321628
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

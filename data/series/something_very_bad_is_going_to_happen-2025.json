@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_something_very_bad_is_going_to_happen_2025",
+  "title": "Something Very Bad Is Going to Happen",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136207045",
+    "imdb": "tt32937780",
+    "tmdb": 259265
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_wonderful_times_2026",
+  "title": "Wonderful Times",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138864398",
+    "imdb": "tt34571219",
+    "tmdb": 283682
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

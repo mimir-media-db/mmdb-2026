@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cash_queens_2026",
+  "title": "Cash Queens",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131363429",
+    "imdb": "tt34139155",
+    "tmdb": 269160
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

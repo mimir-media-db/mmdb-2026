@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_etty_2025",
+  "title": "Etty",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140308354"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "DE",
+    "FR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fatma_2026",
+  "title": "Fatma",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138359601",
+    "imdb": "tt40104653",
+    "tmdb": 314889
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 23,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DZ"
+  ]
+}

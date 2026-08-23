@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_gimbap_and_onigiri_2026",
+  "title": "Gimbap and Onigiri",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137651521",
+    "imdb": "tt39297329",
+    "tmdb": 301885
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

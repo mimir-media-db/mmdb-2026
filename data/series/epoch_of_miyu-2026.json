@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_epoch_of_miyu_2026",
+  "title": "The Epoch of Miyu",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140032242",
+    "imdb": "tt35288198",
+    "tmdb": 281231
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 38,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_last_island_2026",
+  "title": "The Last Island",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138001612",
+    "imdb": "tt39371524",
+    "tmdb": 313580
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

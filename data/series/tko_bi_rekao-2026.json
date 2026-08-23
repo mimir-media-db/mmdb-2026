@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_tko_bi_rekao_2026",
+  "title": "Tko bi rekao",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138818553",
+    "imdb": "tt41054362"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HR"
+  ]
+}

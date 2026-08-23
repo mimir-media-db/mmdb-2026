@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_unacceptable_2026",
+  "title": "Unacceptable",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140380769",
+    "imdb": "tt43643879",
+    "tmdb": 323168
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

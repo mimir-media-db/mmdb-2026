@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_flowers_of_evil_2026",
+  "title": "Flowers of Evil",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137888556",
+    "imdb": "tt39048555",
+    "tmdb": 306640
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

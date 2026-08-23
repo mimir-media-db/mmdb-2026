@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_remarried_empress_2025",
+  "title": "The Remarried Empress",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135873455",
+    "imdb": "tt39325975",
+    "tmdb": 279246
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

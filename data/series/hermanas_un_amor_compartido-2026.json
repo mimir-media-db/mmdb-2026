@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hermanas_un_amor_compartido_2026",
+  "title": "Hermanas, un amor compartido",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136223047",
+    "imdb": "tt38868290",
+    "tmdb": 310198
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 80,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

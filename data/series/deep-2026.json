@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_deep_2026",
+  "title": "Deep",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124382178",
+    "imdb": "tt33093141",
+    "tmdb": 245078
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

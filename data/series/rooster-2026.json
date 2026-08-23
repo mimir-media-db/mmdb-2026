@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_rooster_2026",
+  "title": "Rooster",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137369186",
+    "imdb": "tt32420734",
+    "tmdb": 254953
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lanterns_2026",
+  "title": "Lanterns",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110556821",
+    "imdb": "tt26545992",
+    "tmdb": 95350
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

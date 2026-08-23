@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_uniform_2026",
+  "title": "The Uniform",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138331403",
+    "imdb": "tt39392898",
+    "tmdb": 310097
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

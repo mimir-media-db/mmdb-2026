@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_specijalisti_zagreb_2026",
+  "title": "Specijalisti Zagreb",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140287992",
+    "tmdb": 325874
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "crime television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_apoy_sa_dugo_2026",
+  "title": "Apoy sa Dugo",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138541876",
+    "imdb": "tt37901120",
+    "tmdb": 315262
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

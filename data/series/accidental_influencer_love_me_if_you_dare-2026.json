@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_accidental_influencer_love_me_if_you_dare_2026",
+  "title": "The Accidental Influencer: Love Me if You Dare",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137380851",
+    "imdb": "tt39299461",
+    "tmdb": 243691
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

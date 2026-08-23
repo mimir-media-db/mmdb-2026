@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_vanished_name_2026",
+  "title": "Vanished Name",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q127163076",
+    "imdb": "tt31540954",
+    "tmdb": 270857
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 31,
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

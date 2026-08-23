@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_last_seen_2026",
+  "title": "Last Seen",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133850043",
+    "imdb": "tt6037988",
+    "tmdb": 258230
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

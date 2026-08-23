@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_soy_luna_lets_roll_again_2026",
+  "title": "Soy Luna: Let's Roll Again",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140274586",
+    "imdb": "tt41515375",
+    "tmdb": 324434
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

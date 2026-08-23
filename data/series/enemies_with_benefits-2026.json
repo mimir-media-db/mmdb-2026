@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_enemies_with_benefits_2026",
+  "title": "Enemies With Benefits",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q139505893",
+    "imdb": "tt39044698",
+    "tmdb": 307432
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": []
+}

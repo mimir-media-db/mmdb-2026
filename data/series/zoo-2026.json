@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_zoo_2026",
+  "title": "The Zoo",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138047693",
+    "imdb": "tt39378786",
+    "tmdb": 300239
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

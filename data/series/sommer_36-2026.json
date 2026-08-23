@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sommer_36_2026",
+  "title": "Sommer '36",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131401924",
+    "imdb": "tt38776795",
+    "tmdb": 287976
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "History",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "FR"
+  ]
+}

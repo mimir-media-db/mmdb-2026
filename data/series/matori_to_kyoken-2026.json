@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_matori_to_kyoken_2026",
+  "title": "Matori to Kyōken",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137798815",
+    "imdb": "tt39375415",
+    "tmdb": 307923
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_buldok_z_podebrad_2026",
+  "title": "Buldok z Poděbrad",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q130739685",
+    "imdb": "tt33143897",
+    "tmdb": 274011
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ravalear_2026",
+  "title": "Ravalear",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137783890",
+    "imdb": "tt35509002",
+    "tmdb": 282696
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": []
+}

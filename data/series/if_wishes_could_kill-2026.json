@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_if_wishes_could_kill_2026",
+  "title": "If Wishes Could Kill",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137836018",
+    "imdb": "tt36104233",
+    "tmdb": 285838
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

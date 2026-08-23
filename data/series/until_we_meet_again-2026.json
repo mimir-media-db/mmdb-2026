@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_until_we_meet_again_2026",
+  "title": "Until We Meet Again",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q141085717",
+    "imdb": "tt43596887",
+    "tmdb": 321626
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

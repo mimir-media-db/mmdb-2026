@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_agent_from_above_2026",
+  "title": "Agent from Above",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q118131624",
+    "imdb": "tt23220752",
+    "tmdb": 213703
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

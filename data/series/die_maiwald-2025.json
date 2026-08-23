@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_die_maiwald_2025",
+  "title": "Die Maiwald",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138009567",
+    "imdb": "tt40001130"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

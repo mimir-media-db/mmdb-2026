@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_human_vapor_2026",
+  "title": "Human Vapor",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136735821",
+    "imdb": "tt33083249",
+    "tmdb": 253960
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP",
+    "KR"
+  ]
+}

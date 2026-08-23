@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_imperfect_women_2026",
+  "title": "Imperfect Women",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134428516",
+    "imdb": "tt31937954",
+    "tmdb": 108181
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

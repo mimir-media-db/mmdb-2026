@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_la_oficina_2026",
+  "title": "La oficina",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138682494",
+    "imdb": "tt34231110",
+    "tmdb": 275202
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

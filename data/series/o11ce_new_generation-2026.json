@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_o11ce_new_generation_2026",
+  "title": "O11CE: New Generation",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q138339318",
+    "imdb": "tt40526776",
+    "tmdb": 315939
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_miniature_wife_2026",
+  "title": "The Miniature Wife",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133808333",
+    "imdb": "tt31909098",
+    "tmdb": 250220
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

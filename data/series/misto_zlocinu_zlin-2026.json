@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_misto_zlocinu_zlin_2026",
+  "title": "Místo zločinu Zlín",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q135313460",
+    "imdb": "tt39308220",
+    "tmdb": 310108
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

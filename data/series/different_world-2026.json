@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_different_world_2026",
+  "title": "A Different World",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140685325",
+    "imdb": "tt33081352",
+    "tmdb": 305357
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

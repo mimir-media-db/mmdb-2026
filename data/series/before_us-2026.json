@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_before_us_2026",
+  "title": "Before Us",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137760215",
+    "imdb": "tt29058981",
+    "tmdb": 309997
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

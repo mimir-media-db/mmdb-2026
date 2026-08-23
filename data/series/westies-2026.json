@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_westies_2026",
+  "title": "The Westies",
+  "start_year": 2026,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135274024",
+    "imdb": "tt31849235",
+    "tmdb": 286709
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_judges_2026",
+  "title": "The Judges",
+  "start_year": 2026,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139799353",
+    "imdb": "tt42686797"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}
