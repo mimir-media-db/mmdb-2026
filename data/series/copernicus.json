@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_copernicus",
+  "title": "Copernicus",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q4232309",
+    "imdb": "tt0070278"
+  },
+  "last_updated": "2026-08-23",
+  "end_year": null
+}
