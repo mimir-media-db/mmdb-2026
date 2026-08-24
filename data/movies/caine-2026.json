@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_caine_2026",
+  "title": "Caine",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134895658",
+    "imdb": "tt32375526",
+    "tmdb": 1290912
+  },
+  "last_updated": "2026-08-24"
+}
