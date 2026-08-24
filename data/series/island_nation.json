@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_island_nation",
+  "title": "Island Nation",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q123860831",
+    "imdb": "tt11820476",
+    "tmdb": 97859
+  },
+  "last_updated": "2026-08-24",
+  "end_year": null,
+  "total_seasons": 2,
+  "total_episodes": 20
+}
