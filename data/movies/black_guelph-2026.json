@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_black_guelph_2026",
+  "title": "The Black Guelph",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140660819",
+    "imdb": "tt13502308"
+  },
+  "last_updated": "2026-08-24"
+}

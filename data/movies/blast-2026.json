@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blast_2026",
+  "title": "Blast",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139962234",
+    "imdb": "tt37971394",
+    "tmdb": 1515729
+  },
+  "last_updated": "2026-08-24",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 144
+}
