@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_object_permanence_2026",
+  "title": "Object Permanence",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134533778",
+    "imdb": "tt13346966",
+    "tmdb": 1070970
+  },
+  "last_updated": "2026-08-24"
+}
