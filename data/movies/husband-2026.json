@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_husband_2026",
+  "title": "The Husband",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132860812",
+    "imdb": "tt9024378",
+    "tmdb": 594290
+  },
+  "last_updated": "2026-08-24",
+  "runtime_minutes": 84
+}

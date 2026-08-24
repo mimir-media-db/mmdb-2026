@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_who_can_steer_mauri",
+  "title": "Who Can Steer Mauri?",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140911826",
+    "imdb": "tt43728973",
+    "tmdb": 331283
+  },
+  "last_updated": "2026-08-24",
+  "end_year": null
+}

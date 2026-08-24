@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chelot_2026",
+  "title": "Chelot",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140391764",
+    "imdb": "tt39089152"
+  },
+  "last_updated": "2026-08-24",
+  "release_date": "2026-08-27"
+}

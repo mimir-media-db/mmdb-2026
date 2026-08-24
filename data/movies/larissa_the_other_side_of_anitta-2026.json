@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_larissa_the_other_side_of_anitta_2026",
+  "title": "Larissa: The Other Side of Anitta",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133173374",
+    "imdb": "tt35630679",
+    "tmdb": 1426408
+  },
+  "last_updated": "2026-08-24",
+  "runtime_minutes": 100
+}

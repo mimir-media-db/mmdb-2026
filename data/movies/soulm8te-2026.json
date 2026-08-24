@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soulm8te_2026",
+  "title": "SOULM8TE",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131144615",
+    "imdb": "tt32654916",
+    "tmdb": 1307118
+  },
+  "last_updated": "2026-08-24",
+  "release_date": "2026-08-01",
+  "runtime_minutes": 99
+}

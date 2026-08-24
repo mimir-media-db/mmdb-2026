@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_theatre_of_thought_2026",
+  "title": "Theatre of Thought",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131456637",
+    "imdb": "tt21998502",
+    "tmdb": 977339
+  },
+  "last_updated": "2026-08-24",
+  "runtime_minutes": 107
+}

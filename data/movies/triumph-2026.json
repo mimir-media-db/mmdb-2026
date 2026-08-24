@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_triumph_2026",
+  "title": "Triumph",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113859404",
+    "imdb": "tt21905244",
+    "tmdb": 1016896
+  },
+  "last_updated": "2026-08-24",
+  "runtime_minutes": 97
+}

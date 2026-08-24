@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_popeyes_revenge_2026",
+  "title": "Popeye's Revenge",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132852898",
+    "imdb": "tt33362807",
+    "tmdb": 1393382
+  },
+  "last_updated": "2026-08-24",
+  "runtime_minutes": 79
+}

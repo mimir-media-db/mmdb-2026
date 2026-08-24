@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_armor_2026",
+  "title": "Armor",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124098393",
+    "imdb": "tt29252358",
+    "tmdb": 1182387
+  },
+  "last_updated": "2026-08-24",
+  "runtime_minutes": 89
+}

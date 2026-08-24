@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_7_dogs_2026",
+  "title": "7 Dogs",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136006050",
+    "imdb": "tt35512499",
+    "tmdb": 1316427
+  },
+  "last_updated": "2026-08-24"
+}
