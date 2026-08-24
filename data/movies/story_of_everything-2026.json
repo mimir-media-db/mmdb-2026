@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_everything_2026",
+  "title": "The Story of Everything",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139848068",
+    "imdb": "tt13374694",
+    "tmdb": 1650789
+  },
+  "last_updated": "2026-08-24"
+}
