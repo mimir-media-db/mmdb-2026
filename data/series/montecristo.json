@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_montecristo",
+  "title": "Montecristo",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116730405",
+    "imdb": "tt17042618",
+    "tmdb": 223035
+  },
+  "last_updated": "2026-08-24",
+  "end_year": null
+}
