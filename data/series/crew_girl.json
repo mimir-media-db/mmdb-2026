@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crew_girl",
+  "title": "Crew Girl",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141155312",
+    "imdb": "tt38218082",
+    "tmdb": 300507
+  },
+  "last_updated": "2026-08-24",
+  "end_year": null
+}
