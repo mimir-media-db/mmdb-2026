@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_outrageous",
+  "title": "Outrageous",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q129677701",
+    "imdb": "tt23856916",
+    "tmdb": 261668
+  },
+  "last_updated": "2026-08-24",
+  "end_year": null,
+  "total_episodes": 6
+}
