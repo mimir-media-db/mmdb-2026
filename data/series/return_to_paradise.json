@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_return_to_paradise",
+  "title": "Return to Paradise",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q125662462",
+    "imdb": "tt32059608",
+    "tmdb": 244978
+  },
+  "last_updated": "2026-08-24",
+  "end_year": null,
+  "total_seasons": 2,
+  "total_episodes": 7
+}
