@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_io_e_te_dobbiamo_parlare_2026",
+  "title": "Io e te dobbiamo parlare",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131543111",
+    "imdb": "tt33460024"
+  },
+  "last_updated": "2026-08-24",
+  "runtime_minutes": 95
+}
