@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lembi_leima_2026",
+  "title": "Lembi Leima",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121858161",
+    "imdb": "tt20420400",
+    "tmdb": 1168020
+  },
+  "last_updated": "2026-08-24"
+}
