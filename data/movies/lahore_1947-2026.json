@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lahore_1947_2026",
+  "title": "Lahore 1947",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130409656",
+    "imdb": "tt29330744",
+    "tmdb": 1169537
+  },
+  "last_updated": "2026-08-25"
+}

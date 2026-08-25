@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "m_london_2026",
+  "title": "London",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141162717"
+  },
+  "last_updated": "2026-08-25"
+}
