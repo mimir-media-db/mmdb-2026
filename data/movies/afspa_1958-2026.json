@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_afspa_1958_2026",
+  "title": "AFSPA, 1958",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128228552",
+    "imdb": "tt0832848",
+    "tmdb": 1754428
+  },
+  "last_updated": "2026-08-25",
+  "runtime_minutes": 52
+}
