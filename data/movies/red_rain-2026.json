@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_rain_2026",
+  "title": "Red Rain",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131543083",
+    "imdb": "tt0251187",
+    "tmdb": 363097
+  },
+  "last_updated": "2026-08-25",
+  "runtime_minutes": 97
+}
