@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_soul_2026",
+  "title": "Mr. Soul!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104425537",
+    "imdb": "tt2355880",
+    "tmdb": 517019
+  },
+  "last_updated": "2026-08-25"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_adorable_savage_2026",
+  "title": "My Adorable Savage",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130390390",
+    "imdb": "tt0265319",
+    "tmdb": 550459
+  },
+  "last_updated": "2026-08-25"
+}

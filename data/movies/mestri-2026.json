@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mestri_2026",
+  "title": "Mestri",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97357589",
+    "imdb": "tt1432956",
+    "tmdb": 1754521
+  },
+  "last_updated": "2026-08-25",
+  "runtime_minutes": 137
+}
