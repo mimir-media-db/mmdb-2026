@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gold_land",
+  "title": "Gold Land",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q134848097",
+    "imdb": "tt37253311",
+    "tmdb": 278113
+  },
+  "last_updated": "2026-08-25",
+  "end_year": 2026,
+  "total_seasons": 1,
+  "total_episodes": 10
+}

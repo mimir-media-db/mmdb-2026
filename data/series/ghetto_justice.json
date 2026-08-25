@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ghetto_justice",
+  "title": "Ghetto Justice",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q5556547",
+    "tmdb": 39595
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null,
+  "total_episodes": 20
+}
