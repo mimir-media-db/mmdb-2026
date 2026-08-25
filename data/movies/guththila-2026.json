@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_guththila_2026",
+  "title": "Guththila",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122200511",
+    "imdb": "tt10845302",
+    "tmdb": 1754094
+  },
+  "last_updated": "2026-08-25"
+}
