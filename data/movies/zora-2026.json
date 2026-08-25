@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_zora_2026",
+  "title": "Zora",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141150717",
+    "imdb": "tt33396471",
+    "tmdb": 1527619
+  },
+  "last_updated": "2026-08-25"
+}
