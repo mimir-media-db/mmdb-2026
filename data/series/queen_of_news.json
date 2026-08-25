@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_of_news",
+  "title": "The Queen of News",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q123278341",
+    "imdb": "tt29198100",
+    "tmdb": 226197
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null,
+  "total_episodes": 26
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mastiii_4_2026",
+  "title": "Mastiii 4",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136558780",
+    "imdb": "tt30818815",
+    "tmdb": 1228827
+  },
+  "last_updated": "2026-08-25"
+}

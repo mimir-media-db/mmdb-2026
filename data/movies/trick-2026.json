@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_trick_2026",
+  "title": "Trick",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141164382",
+    "imdb": "tt35326815"
+  },
+  "last_updated": "2026-08-25"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_radio_patrol_2026",
+  "title": "Radio Patrol",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131154645",
+    "imdb": "tt0244745",
+    "tmdb": 675186
+  },
+  "last_updated": "2026-08-25",
+  "runtime_minutes": 80
+}

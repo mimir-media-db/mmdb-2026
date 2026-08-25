@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_rien_de_suspect",
+  "title": "Rien de suspect",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q113519322"
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null
+}

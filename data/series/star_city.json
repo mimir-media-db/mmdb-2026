@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_star_city",
+  "title": "Star City",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q133567755",
+    "imdb": "tt32140872",
+    "tmdb": 252107
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null
+}

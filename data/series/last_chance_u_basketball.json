@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_last_chance_u_basketball",
+  "title": "Last Chance U: Basketball",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137426862",
+    "imdb": "tt13087512",
+    "tmdb": 118876
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null
+}

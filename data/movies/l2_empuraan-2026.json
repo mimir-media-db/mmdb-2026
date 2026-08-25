@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_l2_empuraan_2026",
+  "title": "L2: Empuraan",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114585733",
+    "imdb": "tt10505918",
+    "tmdb": 627336
+  },
+  "last_updated": "2026-08-25"
+}

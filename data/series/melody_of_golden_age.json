@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_melody_of_golden_age",
+  "title": "Melody Of Golden Age",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q129978966",
+    "imdb": "tt32138492",
+    "tmdb": 252318
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null,
+  "total_episodes": 40
+}

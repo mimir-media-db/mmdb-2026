@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_popnroll",
+  "title": "Pop'n'Roll",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q20252625",
+    "imdb": "tt4505868",
+    "tmdb": 229374
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null
+}

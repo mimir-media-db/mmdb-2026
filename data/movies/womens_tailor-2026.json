@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_womens_tailor_2026",
+  "title": "Women's Tailor",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12210990",
+    "imdb": "tt17158496"
+  },
+  "last_updated": "2026-08-25"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_faith_2026",
+  "title": "Bad Faith",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127406473",
+    "imdb": "tt21247172",
+    "tmdb": 1259329
+  },
+  "last_updated": "2026-08-25",
+  "runtime_minutes": 89
+}

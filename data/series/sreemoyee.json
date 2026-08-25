@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sreemoyee",
+  "title": "Sreemoyee",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q65045489",
+    "imdb": "tt10876286",
+    "tmdb": 116482
+  },
+  "last_updated": "2026-08-25",
+  "end_year": 2021,
+  "total_seasons": 1,
+  "total_episodes": 834
+}

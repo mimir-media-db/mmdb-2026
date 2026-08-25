@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tower_of_strength_2026",
+  "title": "The Tower of Strength",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136323894",
+    "imdb": "tt13983826",
+    "tmdb": 1353581
+  },
+  "last_updated": "2026-08-25"
+}

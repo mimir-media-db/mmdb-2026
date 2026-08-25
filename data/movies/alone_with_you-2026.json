@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alone_with_you_2026",
+  "title": "Alone with You",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122703688",
+    "imdb": "tt15040634",
+    "tmdb": 858824
+  },
+  "last_updated": "2026-08-25",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_devils_are_here_2026",
+  "title": "All the Devils Are Here",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135906912",
+    "imdb": "tt26896414",
+    "tmdb": 1530875
+  },
+  "last_updated": "2026-08-25",
+  "runtime_minutes": 91
+}
