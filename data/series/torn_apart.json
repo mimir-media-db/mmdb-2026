@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_torn_apart",
+  "title": "Torn Apart",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140004956",
+    "imdb": "tt42764103",
+    "tmdb": 317883
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 13
+}

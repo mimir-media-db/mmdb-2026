@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_three_musketeers",
+  "title": "The Three Musketeers",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q85808647",
+    "imdb": "tt0240301",
+    "tmdb": 28913
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null
+}
