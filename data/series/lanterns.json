@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lanterns",
+  "title": "Lanterns",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q110556821",
+    "imdb": "tt26545992",
+    "tmdb": 95350
+  },
+  "last_updated": "2026-08-25",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 2
+}
