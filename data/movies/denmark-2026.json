@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_denmark_2026",
+  "title": "Denmark",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139665844",
+    "imdb": "tt7037712"
+  },
+  "last_updated": "2026-08-26"
+}
