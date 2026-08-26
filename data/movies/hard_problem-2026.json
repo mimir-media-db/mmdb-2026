@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_problem_2026",
+  "title": "A Hard Problem",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124173143",
+    "imdb": "tt11080042",
+    "tmdb": 805686
+  },
+  "last_updated": "2026-08-26",
+  "runtime_minutes": 109
+}
