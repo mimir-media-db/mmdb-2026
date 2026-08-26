@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_corpo_santo",
+  "title": "Corpo Santo",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q10260706",
+    "imdb": "tt0149435",
+    "tmdb": 283977
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}

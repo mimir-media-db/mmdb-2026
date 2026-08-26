@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cops_una_banda_di_poliziotti",
+  "title": "Cops - Una banda di poliziotti",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124571023",
+    "imdb": "tt10699542",
+    "tmdb": 114954
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null,
+  "total_seasons": 2,
+  "total_episodes": 4
+}

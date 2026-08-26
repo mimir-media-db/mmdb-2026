@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_court_of_final_determination",
+  "title": "Court Of Final Determination",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q97348055",
+    "imdb": "tt11569558",
+    "tmdb": 99804
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null,
+  "total_episodes": 40
+}
