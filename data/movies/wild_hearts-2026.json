@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_hearts_2026",
+  "title": "Wild Hearts",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141051791",
+    "imdb": "tt43657324",
+    "tmdb": 1728113
+  },
+  "last_updated": "2026-08-26"
+}
