@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_heroes",
+  "title": "Heroes",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138567370"
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}

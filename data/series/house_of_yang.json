@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_yang",
+  "title": "House Of Yang",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141176599",
+    "imdb": "tt39168577",
+    "tmdb": 283439
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}
