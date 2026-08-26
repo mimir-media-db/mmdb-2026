@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_super_market",
+  "title": "Super Market",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141174656",
+    "imdb": "tt43639205",
+    "tmdb": 327712
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}
