@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_superpower_2026",
+  "title": "Superpower",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116824514",
+    "imdb": "tt18327788",
+    "tmdb": 943330
+  },
+  "last_updated": "2026-08-26",
+  "runtime_minutes": 115
+}
