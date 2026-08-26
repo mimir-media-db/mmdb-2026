@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_time_2026",
+  "title": "Chasing Time",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137478304",
+    "imdb": "tt32261288",
+    "tmdb": 1266049
+  },
+  "last_updated": "2026-08-26"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_7_miles_out_2026",
+  "title": "7 Miles Out",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141112209",
+    "imdb": "tt14770736",
+    "tmdb": 1541150
+  },
+  "last_updated": "2026-08-26"
+}

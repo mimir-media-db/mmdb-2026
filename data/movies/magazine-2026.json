@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_magazine_2026",
+  "title": "Magazine",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141015676",
+    "imdb": "tt43702189"
+  },
+  "last_updated": "2026-08-26"
+}

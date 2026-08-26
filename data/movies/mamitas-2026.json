@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mamitas_2026",
+  "title": "Mamitas",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135618158",
+    "imdb": "tt1863323",
+    "tmdb": 85652
+  },
+  "last_updated": "2026-08-26"
+}

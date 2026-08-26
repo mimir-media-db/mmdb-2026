@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_silenced_nights_2026",
+  "title": "Silenced Nights",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140996280",
+    "imdb": "tt43699618",
+    "tmdb": 1735910
+  },
+  "last_updated": "2026-08-26"
+}

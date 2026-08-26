@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_forrder_ukendt_grund",
+  "title": "Forræder - Ukendt Grund",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q130974663",
+    "imdb": "tt34651911",
+    "tmdb": 274040
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_correspondent_2026",
+  "title": "War Correspondent",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130739748",
+    "imdb": "tt33484524",
+    "tmdb": 1354397
+  },
+  "last_updated": "2026-08-26",
+  "runtime_minutes": 78
+}

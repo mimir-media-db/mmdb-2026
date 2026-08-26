@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_eclats_de_vie",
+  "title": "Éclats de vie",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q119167545",
+    "imdb": "tt15231136",
+    "tmdb": 131814
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}

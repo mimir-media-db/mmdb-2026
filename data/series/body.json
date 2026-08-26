@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_body",
+  "title": "The Body",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137794773",
+    "imdb": "tt8014982",
+    "tmdb": 291507
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}

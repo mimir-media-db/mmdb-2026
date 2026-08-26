@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_violent_ends_2026",
+  "title": "Violent Ends",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136673339",
+    "imdb": "tt6902560",
+    "tmdb": 1211776
+  },
+  "last_updated": "2026-08-26"
+}

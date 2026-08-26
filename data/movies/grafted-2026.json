@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_grafted_2026",
+  "title": "Grafted",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131904445",
+    "imdb": "tt11162260",
+    "tmdb": 1201262
+  },
+  "last_updated": "2026-08-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_familiar_2026",
+  "title": "Familiar",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133646613",
+    "imdb": "tt27618736",
+    "tmdb": 1046875
+  },
+  "last_updated": "2026-08-26",
+  "runtime_minutes": 106
+}

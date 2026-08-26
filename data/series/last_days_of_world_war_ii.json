@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_last_days_of_world_war_ii",
+  "title": "The Last Days of World War II",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136408211",
+    "imdb": "tt1545455",
+    "tmdb": 223124
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}

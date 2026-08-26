@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_furies_2026",
+  "title": "Furies",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140966125",
+    "imdb": "tt36985382",
+    "tmdb": 1484090
+  },
+  "last_updated": "2026-08-26"
+}
