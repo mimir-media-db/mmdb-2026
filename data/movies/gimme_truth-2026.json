@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gimme_truth_2026",
+  "title": "Gimme Truth",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141142564",
+    "imdb": "tt28611345",
+    "tmdb": 1657452
+  },
+  "last_updated": "2026-08-26"
+}

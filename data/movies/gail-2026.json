@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gail_2026",
+  "title": "Gail",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140921111",
+    "imdb": "tt43684931",
+    "tmdb": 1744056
+  },
+  "last_updated": "2026-08-26"
+}
