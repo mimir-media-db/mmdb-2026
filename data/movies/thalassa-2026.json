@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_thalassa_2026",
+  "title": "Thálassa",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140961085",
+    "tmdb": 681608
+  },
+  "last_updated": "2026-08-26"
+}

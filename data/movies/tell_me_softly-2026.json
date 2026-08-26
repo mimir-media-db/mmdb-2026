@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tell_me_softly_2026",
+  "title": "Tell Me Softly",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137374882",
+    "imdb": "tt34434461",
+    "tmdb": 1379963
+  },
+  "last_updated": "2026-08-26",
+  "runtime_minutes": 119
+}
