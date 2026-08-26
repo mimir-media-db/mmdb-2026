@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_objet_a_2026",
+  "title": "Objet a",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141108429",
+    "imdb": "tt29355619",
+    "tmdb": 1228841
+  },
+  "last_updated": "2026-08-26"
+}
