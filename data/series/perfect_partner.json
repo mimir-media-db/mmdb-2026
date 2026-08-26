@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_partner",
+  "title": "Perfect Partner",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q85878843",
+    "imdb": "tt11827228",
+    "tmdb": 26059
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null,
+  "total_episodes": 51
+}
