@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quezon_2026",
+  "title": "Quezon",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133808815",
+    "imdb": "tt35819637",
+    "tmdb": 645560
+  },
+  "last_updated": "2026-08-26",
+  "runtime_minutes": 135
+}
