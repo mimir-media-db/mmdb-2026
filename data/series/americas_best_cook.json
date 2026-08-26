@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_best_cook",
+  "title": "America's Best Cook",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q16987606"
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}
