@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_gnomes",
+  "title": "Gnomes",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140694823"
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}

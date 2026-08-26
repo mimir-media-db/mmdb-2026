@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_glory_back",
+  "title": "Glory Back",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140731527",
+    "imdb": "tt40552151",
+    "tmdb": 316113
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null,
+  "total_episodes": 32
+}

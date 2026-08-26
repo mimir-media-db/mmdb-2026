@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_great_american_traffic_jam",
+  "title": "The Great American Traffic Jam",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q109236288",
+    "imdb": "tt0080817"
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}
