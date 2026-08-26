@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ludwig",
+  "title": "Ludwig",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124251270",
+    "imdb": "tt27846061",
+    "tmdb": 243360
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null,
+  "total_episodes": 6
+}
