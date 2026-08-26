@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_banned_together_2026",
+  "title": "Banned Together",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139962230",
+    "imdb": "tt32375450",
+    "tmdb": 1436406
+  },
+  "last_updated": "2026-08-26"
+}

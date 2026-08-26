@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_batgirl_2026",
+  "title": "Batgirl",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109860581",
+    "imdb": "tt6718412",
+    "tmdb": 1605808
+  },
+  "last_updated": "2026-08-26"
+}

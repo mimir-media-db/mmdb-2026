@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bunker_heights_2026",
+  "title": "Bunker Heights",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124128618",
+    "imdb": "tt30671809",
+    "tmdb": 1226230
+  },
+  "last_updated": "2026-08-26",
+  "release_date": "2026-10-13",
+  "runtime_minutes": 106
+}

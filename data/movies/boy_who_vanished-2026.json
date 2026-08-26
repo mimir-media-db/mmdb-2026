@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_who_vanished_2026",
+  "title": "The Boy Who Vanished",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140888635",
+    "imdb": "tt35624283",
+    "tmdb": 1500005
+  },
+  "last_updated": "2026-08-26"
+}
