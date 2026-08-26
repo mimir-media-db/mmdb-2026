@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_rules_of_zoovenia",
+  "title": "Rules of Zoovenia",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q67932209",
+    "tmdb": 91265
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}
