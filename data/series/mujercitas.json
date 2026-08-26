@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mujercitas",
+  "title": "Mujercitas",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q28517298",
+    "imdb": "tt0312176"
+  },
+  "last_updated": "2026-08-26",
+  "end_year": 1999,
+  "total_episodes": 110
+}

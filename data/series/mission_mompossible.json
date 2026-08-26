@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mission_mompossible",
+  "title": "Mission: Mompossible",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141132031"
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 120
+}

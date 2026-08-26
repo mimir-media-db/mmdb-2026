@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mia",
+  "title": "M.I.A.",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139715835",
+    "imdb": "tt33253070",
+    "tmdb": 262388
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 9
+}
