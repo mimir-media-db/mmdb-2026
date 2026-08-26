@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_le_cauchemar_2026",
+  "title": "Le Cauchemar",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140335817",
+    "imdb": "tt0222946"
+  },
+  "last_updated": "2026-08-26"
+}
