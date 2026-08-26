@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_feud_of_two_brothers",
+  "title": "The Feud of Two Brothers",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q11147772",
+    "imdb": "tt0843201",
+    "tmdb": 88076
+  },
+  "last_updated": "2026-08-26",
+  "end_year": null
+}
