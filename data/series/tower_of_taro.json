@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tower_of_taro",
+  "title": "Tower of TARO",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q11248169",
+    "imdb": "tt1791335",
+    "tmdb": 215466
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}
