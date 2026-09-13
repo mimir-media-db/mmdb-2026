@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_engineer_child",
+  "title": "The Engineer Child",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q56365761",
+    "imdb": "tt27165356"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}
