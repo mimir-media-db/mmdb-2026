@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bar_giuseppe_2026",
+  "title": "Bar Giuseppe",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q95967054",
+    "imdb": "tt8171406",
+    "tmdb": 706513
+  },
+  "last_updated": "2026-09-13"
+}

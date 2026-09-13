@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_badland_2026",
+  "title": "Badland",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96372965",
+    "imdb": "tt10253466",
+    "tmdb": 634524
+  },
+  "last_updated": "2026-09-13"
+}

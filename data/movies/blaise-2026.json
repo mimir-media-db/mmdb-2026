@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blaise_2026",
+  "title": "Blaise",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140401176",
+    "imdb": "tt40424260",
+    "tmdb": 1003489
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-05-14"
+}
