@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_dan",
+  "title": "Doctor Dan",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q16629555",
+    "imdb": "tt0456379"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}
