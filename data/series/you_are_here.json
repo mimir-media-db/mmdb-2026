@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_you_are_here",
+  "title": "You Are Here",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141436815",
+    "imdb": "tt42053555",
+    "tmdb": 330284
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null,
+  "total_episodes": 8
+}
