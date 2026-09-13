@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_lonesome_joe_2026",
+  "title": "Lonesome Joe",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110654933",
+    "imdb": "tt0359616"
+  },
+  "last_updated": "2026-09-13"
+}

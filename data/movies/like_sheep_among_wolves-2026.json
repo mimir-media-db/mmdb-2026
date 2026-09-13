@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_like_sheep_among_wolves_2026",
+  "title": "Like Sheep Among Wolves",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120667946",
+    "imdb": "tt18351790",
+    "tmdb": 1064365
+  },
+  "last_updated": "2026-09-13",
+  "runtime_minutes": 100
+}
