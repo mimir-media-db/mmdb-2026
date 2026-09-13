@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_hit_parade",
+  "title": "The Hit Parade",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q11306668"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

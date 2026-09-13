@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_headcases",
+  "title": "Headcases",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q86832514",
+    "imdb": "tt10165422"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}
