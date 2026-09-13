@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_monster",
+  "title": "Monster",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q130325444",
+    "imdb": "tt13207736",
+    "tmdb": 329491
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null,
+  "total_seasons": 3,
+  "total_episodes": 27
+}
