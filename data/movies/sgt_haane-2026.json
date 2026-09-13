@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sgt_haane_2026",
+  "title": "Sgt. Haane",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140726496",
+    "imdb": "tt39026948",
+    "tmdb": 1638741
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-04-23"
+}

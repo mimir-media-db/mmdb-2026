@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_saoirse_2026",
+  "title": "Saoirse?",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100507056",
+    "imdb": "tt1311086",
+    "tmdb": 843499
+  },
+  "last_updated": "2026-09-13"
+}
