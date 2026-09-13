@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_archie_2026",
+  "title": "A.R.C.H.I.E.",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104841297",
+    "imdb": "tt3823672",
+    "tmdb": 393877
+  },
+  "last_updated": "2026-09-13"
+}

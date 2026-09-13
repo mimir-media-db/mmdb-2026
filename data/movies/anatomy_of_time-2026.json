@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anatomy_of_time_2026",
+  "title": "Anatomy of Time",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128258668",
+    "imdb": "tt13153782",
+    "tmdb": 796150
+  },
+  "last_updated": "2026-09-13",
+  "runtime_minutes": 118
+}
