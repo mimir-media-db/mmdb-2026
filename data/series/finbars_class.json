@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_finbars_class",
+  "title": "Finbar's Class",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q97085495",
+    "imdb": "tt0296341"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null,
+  "total_seasons": 2,
+  "total_episodes": 24
+}
