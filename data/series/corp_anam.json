@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_corp_anam",
+  "title": "Corp + Anam",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q20604262",
+    "imdb": "tt1749056"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null,
+  "total_seasons": 2,
+  "total_episodes": 8
+}
