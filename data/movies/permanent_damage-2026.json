@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_permanent_damage_2026",
+  "title": "Permanent Damage",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141435445",
+    "imdb": "tt27666779",
+    "tmdb": 1722545
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-07-21"
+}

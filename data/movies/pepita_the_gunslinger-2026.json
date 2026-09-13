@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pepita_the_gunslinger_2026",
+  "title": "Pepita the Gunslinger",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141104955",
+    "imdb": "tt29943166",
+    "tmdb": 1634739
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 106
+}
