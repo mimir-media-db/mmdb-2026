@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_in_alaska_2026",
+  "title": "In Alaska",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140643849",
+    "imdb": "tt13153946",
+    "tmdb": 1734769
+  },
+  "last_updated": "2026-09-13"
+}
