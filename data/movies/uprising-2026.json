@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uprising_2026",
+  "title": "The Uprising",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135103999",
+    "imdb": "tt36983905",
+    "tmdb": 977942
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-09-10"
+}
