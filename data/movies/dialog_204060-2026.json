@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dialog_204060_2026",
+  "title": "Dialóg 20-40-60",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12764592",
+    "imdb": "tt0169762",
+    "tmdb": 218955
+  },
+  "last_updated": "2026-09-13",
+  "runtime_minutes": 78
+}

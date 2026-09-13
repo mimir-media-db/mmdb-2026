@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dici_la_2026",
+  "title": "D'ici là",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141436211"
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 105
+}

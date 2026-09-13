@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_regenbogenfisch_2026",
+  "title": "Der Regenbogenfisch",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141442382",
+    "imdb": "tt43632661",
+    "tmdb": 1625344
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-11-19"
+}

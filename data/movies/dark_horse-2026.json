@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_horse_2026",
+  "title": "Dark Horse",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137324956",
+    "imdb": "tt16390372",
+    "tmdb": 1523553
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-07-15",
+  "runtime_minutes": 100
+}
