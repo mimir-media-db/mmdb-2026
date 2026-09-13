@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_smother",
+  "title": "Smother",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q105847125",
+    "imdb": "tt11719808",
+    "tmdb": 120835
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

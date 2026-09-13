@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_split_up",
+  "title": "The Split Up",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136707794",
+    "imdb": "tt31709918",
+    "tmdb": 334653
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}
