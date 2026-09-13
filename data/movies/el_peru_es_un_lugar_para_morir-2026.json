@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_peru_es_un_lugar_para_morir_2026",
+  "title": "El Perú es un lugar para morir",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141295318",
+    "imdb": "tt37577348",
+    "tmdb": 1608544
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 13
+}
