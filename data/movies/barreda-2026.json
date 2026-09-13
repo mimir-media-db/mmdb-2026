@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barreda_2026",
+  "title": "Barreda",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141206090",
+    "imdb": "tt43706402",
+    "tmdb": 1471168
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 111
+}

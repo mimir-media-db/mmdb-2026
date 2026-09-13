@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_privilege_2026",
+  "title": "The Privilege",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110887249",
+    "imdb": "tt14637290",
+    "tmdb": 926980
+  },
+  "last_updated": "2026-09-13"
+}

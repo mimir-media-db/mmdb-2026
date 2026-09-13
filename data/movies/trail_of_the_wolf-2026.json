@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trail_of_the_wolf_2026",
+  "title": "The Trail of the Wolf",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139997575",
+    "imdb": "tt39367776",
+    "tmdb": 1623210
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-02-06"
+}

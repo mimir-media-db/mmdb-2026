@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_le_monde_et_sa_propriete",
+  "title": "Le Monde et sa propriété",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q125176410",
+    "imdb": "tt24326564",
+    "tmdb": 216434
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

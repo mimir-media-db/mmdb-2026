@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phantom_youth_2026",
+  "title": "Phantom Youth",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126873015",
+    "imdb": "tt28495781",
+    "tmdb": 1156116
+  },
+  "last_updated": "2026-09-13",
+  "runtime_minutes": 94
+}

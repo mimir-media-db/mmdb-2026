@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_oldfashioned_cupcake",
+  "title": "Old-Fashioned Cupcake",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116148577",
+    "imdb": "tt21054980",
+    "tmdb": 203990
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

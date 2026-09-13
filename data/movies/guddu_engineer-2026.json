@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_guddu_engineer_2026",
+  "title": "Guddu Engineer",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24882735",
+    "imdb": "tt5472196"
+  },
+  "last_updated": "2026-09-13"
+}

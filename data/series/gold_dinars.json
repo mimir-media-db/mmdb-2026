@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_gold_dinars",
+  "title": "Gold dinars",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q106650652"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

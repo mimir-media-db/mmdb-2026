@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_scandinavia",
+  "title": "Wild Scandinavia",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q51370948",
+    "imdb": "tt1840877",
+    "tmdb": 70335
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null,
+  "total_episodes": 6
+}

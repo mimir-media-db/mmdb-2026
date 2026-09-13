@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_captured_hospital",
+  "title": "Captured Hospital",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q115587938"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

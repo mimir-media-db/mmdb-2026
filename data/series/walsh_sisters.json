@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_walsh_sisters",
+  "title": "The Walsh Sisters",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q134412036",
+    "imdb": "tt34613809",
+    "tmdb": 278717
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

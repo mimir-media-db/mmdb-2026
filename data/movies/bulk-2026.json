@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bulk_2026",
+  "title": "Bulk",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135193259",
+    "imdb": "tt36873832",
+    "tmdb": 1478289
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-01-31",
+  "runtime_minutes": 95
+}

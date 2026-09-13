@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_banduan_2026",
+  "title": "Banduan",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136700297",
+    "imdb": "tt38047685",
+    "tmdb": 1537715
+  },
+  "last_updated": "2026-09-13"
+}

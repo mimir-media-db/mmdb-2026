@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rachel_incident",
+  "title": "The Rachel Incident",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138411820",
+    "imdb": "tt28230421",
+    "tmdb": 327049
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

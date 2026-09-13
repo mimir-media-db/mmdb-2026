@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_blackshore",
+  "title": "Blackshore",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q126279277",
+    "imdb": "tt29402557",
+    "tmdb": 245547
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

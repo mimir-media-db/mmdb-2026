@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_physical_100_italy",
+  "title": "Physical 100: Italy",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136842075",
+    "imdb": "tt37694172",
+    "tmdb": 324111
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

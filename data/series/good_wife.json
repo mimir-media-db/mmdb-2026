@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_good_wife",
+  "title": "The Good Wife",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q60987219"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

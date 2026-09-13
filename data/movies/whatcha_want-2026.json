@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_whatcha_want_2026",
+  "title": "Whatcha Want",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140643845",
+    "imdb": "tt39832540"
+  },
+  "last_updated": "2026-09-13"
+}

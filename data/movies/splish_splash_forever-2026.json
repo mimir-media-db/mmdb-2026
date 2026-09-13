@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_splish_splash_forever_2026",
+  "title": "Splish Splash Forever!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141181795",
+    "imdb": "tt39382508",
+    "tmdb": 1499783
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-01-01"
+}

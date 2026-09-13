@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sunburn_2026",
+  "title": "Sunburn",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140930827",
+    "imdb": "tt37898876",
+    "tmdb": 1743994
+  },
+  "last_updated": "2026-09-13"
+}

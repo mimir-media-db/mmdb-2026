@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_beretta_tv_series",
+  "title": "Beretta (TV series)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137163782",
+    "imdb": "tt38755328",
+    "tmdb": 304500
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

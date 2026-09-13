@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ricky_gervais_alley_cats",
+  "title": "Ricky Gervais' Alley Cats",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136839005",
+    "imdb": "tt38264832",
+    "tmdb": 300480
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dinasari_2026",
+  "title": "Dinasari",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132197249",
+    "imdb": "tt34986558",
+    "tmdb": 1432145
+  },
+  "last_updated": "2026-09-13"
+}

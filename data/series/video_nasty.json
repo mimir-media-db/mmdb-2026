@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_video_nasty",
+  "title": "Video Nasty",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q131926987",
+    "imdb": "tt32083349",
+    "tmdb": 256949
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null
+}

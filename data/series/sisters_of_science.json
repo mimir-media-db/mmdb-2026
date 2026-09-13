@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sisters_of_science",
+  "title": "Sisters of Science",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q20619718",
+    "imdb": "tt3992510"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 4
+}

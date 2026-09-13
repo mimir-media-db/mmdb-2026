@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_filter",
+  "title": "Filter",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141250204",
+    "imdb": "tt38267578"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": 2026,
+  "total_seasons": 1,
+  "total_episodes": 6
+}
