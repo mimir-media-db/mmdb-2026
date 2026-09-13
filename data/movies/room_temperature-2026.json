@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_room_temperature_2026",
+  "title": "Room Temperature",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136654816",
+    "imdb": "tt36461726",
+    "tmdb": 1409423
+  },
+  "last_updated": "2026-09-13",
+  "runtime_minutes": 93
+}

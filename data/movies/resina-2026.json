@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_resina_2026",
+  "title": "Resina",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99690249",
+    "imdb": "tt5926730",
+    "tmdb": 522319
+  },
+  "last_updated": "2026-09-13",
+  "runtime_minutes": 90
+}
