@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_viduthalai_part_2_2026",
+  "title": "Viduthalai Part 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120983618",
+    "imdb": "tt25434834",
+    "tmdb": 1020354
+  },
+  "last_updated": "2026-09-13"
+}
