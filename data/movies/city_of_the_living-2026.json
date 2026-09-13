@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_of_the_living_2026",
+  "title": "The City of the Living",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141191689",
+    "imdb": "tt40071725",
+    "tmdb": 1632103
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-01-01"
+}

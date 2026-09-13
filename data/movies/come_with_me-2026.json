@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_come_with_me_2026",
+  "title": "Come With Me",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130639338",
+    "imdb": "tt32500181",
+    "tmdb": 1364401
+  },
+  "last_updated": "2026-09-13",
+  "release_date": "2026-04-26"
+}
