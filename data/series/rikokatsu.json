@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_rikokatsu",
+  "title": "Rikokatsu",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q105499042"
+  },
+  "last_updated": "2026-09-13",
+  "end_year": null,
+  "total_episodes": 10
+}
