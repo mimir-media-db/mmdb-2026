@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_angels_2026",
+  "title": "Land of Angels",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138298876",
+    "imdb": "tt39969551"
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-02-03",
+  "runtime_minutes": 121
+}
