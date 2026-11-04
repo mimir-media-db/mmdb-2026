@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_die_geschichte_mitteldeutschlands",
+  "title": "Die Geschichte Mitteldeutschlands",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141961864",
+    "imdb": "tt0880585",
+    "tmdb": 55315
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}

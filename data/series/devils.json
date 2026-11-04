@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_devils",
+  "title": "Devils",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q56277874",
+    "imdb": "tt7939218",
+    "tmdb": 99741
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null,
+  "total_seasons": 2,
+  "total_episodes": 18
+}
