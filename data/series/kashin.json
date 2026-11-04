@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kashin",
+  "title": "Kashin",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q11615613",
+    "imdb": "tt1161665",
+    "tmdb": 117901
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}
