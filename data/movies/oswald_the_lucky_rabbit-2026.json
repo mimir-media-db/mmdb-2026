@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_oswald_the_lucky_rabbit_2026",
+  "title": "Oswald the Lucky Rabbit",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131549891",
+    "imdb": "tt23901664",
+    "tmdb": 1055806
+  },
+  "last_updated": "2026-11-04"
+}
