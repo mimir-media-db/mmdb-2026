@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fishy_affair_2026",
+  "title": "A Fishy Affair",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141867955",
+    "imdb": "tt0002867",
+    "tmdb": 132533
+  },
+  "last_updated": "2026-11-04"
+}

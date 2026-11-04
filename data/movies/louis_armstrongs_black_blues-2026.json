@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_louis_armstrongs_black_blues_2026",
+  "title": "Louis Armstrong's Black & Blues",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125716890",
+    "imdb": "tt14447458",
+    "tmdb": 1014890
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 104
+}

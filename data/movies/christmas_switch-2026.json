@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_switch_2026",
+  "title": "The Christmas Switch",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137722520",
+    "imdb": "tt39313557",
+    "tmdb": 1757174
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-01-01"
+}

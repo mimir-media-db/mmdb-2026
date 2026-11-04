@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_point_defiance_2026",
+  "title": "Point Defiance",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130472728",
+    "imdb": "tt6028556",
+    "tmdb": 637743
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 100
+}

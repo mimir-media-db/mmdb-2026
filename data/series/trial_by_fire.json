@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_trial_by_fire",
+  "title": "Trial By Fire",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116470924",
+    "imdb": "tt11611698",
+    "tmdb": 217699
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vortex",
+  "title": "Vortex",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q111212160",
+    "imdb": "tt15850486",
+    "tmdb": 206344
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}

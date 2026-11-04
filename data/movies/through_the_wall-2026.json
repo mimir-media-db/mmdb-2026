@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_through_the_wall_2026",
+  "title": "Through the Wall",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141751615",
+    "imdb": "tt33265399",
+    "tmdb": 1325963
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-01-01"
+}

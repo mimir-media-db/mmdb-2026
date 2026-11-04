@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cocaine_shark_2026",
+  "title": "Cocaine Shark",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121028398",
+    "imdb": "tt27036391",
+    "tmdb": 1097322
+  },
+  "last_updated": "2026-11-04"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_h4z4rd_2026",
+  "title": "H4Z4RD",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114200644",
+    "imdb": "tt14683284",
+    "tmdb": 869855
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 88
+}

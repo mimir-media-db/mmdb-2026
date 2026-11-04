@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horse_on_a_stick_2026",
+  "title": "Horse on a Stick",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138751903",
+    "imdb": "tt40135324",
+    "tmdb": 1430655
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-04-23"
+}

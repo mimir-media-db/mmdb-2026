@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_el_gallo_movie_2026",
+  "title": "El Gallo Movie",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26158103",
+    "imdb": "tt4484636",
+    "tmdb": 499046
+  },
+  "last_updated": "2026-11-04"
+}

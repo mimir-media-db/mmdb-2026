@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_last_narc",
+  "title": "The Last Narc",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q104855827",
+    "imdb": "tt12163674",
+    "tmdb": 102831
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andre_is_an_idiot_2026",
+  "title": "André Is an Idiot",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131893926",
+    "imdb": "tt34963034",
+    "tmdb": 1400731
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-03-06",
+  "runtime_minutes": 88
+}

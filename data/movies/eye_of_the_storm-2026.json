@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_eye_of_the_storm_2026",
+  "title": "Eye of the Storm",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106762667",
+    "imdb": "tt14088136",
+    "tmdb": 785958
+  },
+  "last_updated": "2026-11-04"
+}

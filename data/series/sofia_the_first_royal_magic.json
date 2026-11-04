@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sofia_the_first_royal_magic",
+  "title": "Sofia the First: Royal Magic",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139898190",
+    "imdb": "tt23731346",
+    "tmdb": 261647
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 11
+}

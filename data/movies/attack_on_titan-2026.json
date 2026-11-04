@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_on_titan_2026",
+  "title": "Attack on Titan",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187296",
+    "imdb": "tt22408766",
+    "tmdb": 1033219
+  },
+  "last_updated": "2026-11-04"
+}

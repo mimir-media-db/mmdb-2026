@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_last_light",
+  "title": "Last Light",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q120028739",
+    "imdb": "tt9845070",
+    "tmdb": 195821
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}

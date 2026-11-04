@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_who_were_we_running_from",
+  "title": "Who Were We Running From?",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q123923482",
+    "imdb": "tt16163746",
+    "tmdb": 219064
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}

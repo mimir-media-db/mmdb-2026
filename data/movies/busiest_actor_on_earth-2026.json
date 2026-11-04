@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_busiest_actor_on_earth_2026",
+  "title": "The Busiest Actor On Earth",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141667995",
+    "tmdb": 1669573
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-03-28",
+  "runtime_minutes": 114
+}

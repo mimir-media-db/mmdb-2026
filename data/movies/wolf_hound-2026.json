@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_hound_2026",
+  "title": "Wolf Hound",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597990",
+    "imdb": "tt7319486",
+    "tmdb": 542196
+  },
+  "last_updated": "2026-11-04"
+}

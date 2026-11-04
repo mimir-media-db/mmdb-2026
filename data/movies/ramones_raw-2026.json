@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ramones_raw_2026",
+  "title": "Ramones: Raw",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3511869",
+    "imdb": "tt0425388",
+    "tmdb": 71539
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 105
+}

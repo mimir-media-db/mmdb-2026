@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_doll_factory",
+  "title": "The Doll Factory",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116776998",
+    "imdb": "tt21338936",
+    "tmdb": 214191
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}

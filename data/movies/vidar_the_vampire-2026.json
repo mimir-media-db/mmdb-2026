@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vidar_the_vampire_2026",
+  "title": "Vidar the Vampire",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113827465",
+    "imdb": "tt6147514",
+    "tmdb": 469036
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 82
+}

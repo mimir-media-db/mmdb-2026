@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_palestine_comedy_club_2026",
+  "title": "Palestine Comedy Club",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141893799",
+    "imdb": "tt35665999",
+    "tmdb": 1474514
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-01-01"
+}

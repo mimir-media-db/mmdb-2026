@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shark_waters_2026",
+  "title": "Shark Waters",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187480",
+    "imdb": "tt21816892",
+    "tmdb": 1011604
+  },
+  "last_updated": "2026-11-04"
+}

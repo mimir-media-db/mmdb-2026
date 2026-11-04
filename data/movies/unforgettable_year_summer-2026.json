@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unforgettable_year_summer_2026",
+  "title": "An Unforgettable Year – Summer",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115841372",
+    "imdb": "tt27579804",
+    "tmdb": 962682
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 101
+}

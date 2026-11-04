@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_transatlantic",
+  "title": "Transatlantic",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116749984",
+    "imdb": "tt15441266",
+    "tmdb": 195359
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null,
+  "total_episodes": 7
+}

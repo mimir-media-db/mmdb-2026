@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_women_2026",
+  "title": "Women",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121362630",
+    "imdb": "tt4600982",
+    "tmdb": 719164
+  },
+  "last_updated": "2026-11-04"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rise_of_the_footsoldier_origins_2026",
+  "title": "Rise of the Footsoldier: Origins",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111599935",
+    "imdb": "tt12982370",
+    "tmdb": 854732
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 107
+}
