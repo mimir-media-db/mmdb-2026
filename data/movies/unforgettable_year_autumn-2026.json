@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unforgettable_year_autumn_2026",
+  "title": "An Unforgettable Year - Autumn",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115841830",
+    "imdb": "tt27856735",
+    "tmdb": 884535
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 102
+}

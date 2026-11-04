@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_us_day_by_day_2026",
+  "title": "Us, Day by Day",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109464527",
+    "tmdb": 627410
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-03-04"
+}
