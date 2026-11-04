@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_place_called_dignity_2026",
+  "title": "A Place Called Dignity",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120913880",
+    "imdb": "tt16113056",
+    "tmdb": 859474
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 99
+}
