@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_treasure_island",
+  "title": "Treasure Island",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141424423",
+    "imdb": "tt40385667",
+    "tmdb": 333101
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}

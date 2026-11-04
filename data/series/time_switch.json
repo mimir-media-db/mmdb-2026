@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_time_switch",
+  "title": "Time Switch",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q112606390",
+    "imdb": "tt15523440",
+    "tmdb": 154114
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 8
+}

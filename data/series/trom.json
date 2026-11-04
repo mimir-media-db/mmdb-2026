@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_trom",
+  "title": "Trom",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q113372081",
+    "imdb": "tt11856246",
+    "tmdb": 157525
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}
