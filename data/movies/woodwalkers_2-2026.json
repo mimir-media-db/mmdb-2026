@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woodwalkers_2_2026",
+  "title": "Woodwalkers 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141808646",
+    "imdb": "tt35708159",
+    "tmdb": 1278853
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 102
+}

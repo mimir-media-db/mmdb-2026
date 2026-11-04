@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wire_room_2026",
+  "title": "Wire Room",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112083337",
+    "imdb": "tt16527290",
+    "tmdb": 921360
+  },
+  "last_updated": "2026-11-04"
+}
