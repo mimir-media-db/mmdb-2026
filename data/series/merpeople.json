@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_merpeople",
+  "title": "MerPeople",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q120798885",
+    "imdb": "tt27613233",
+    "tmdb": 225732
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null,
+  "total_episodes": 4
+}
