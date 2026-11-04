@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dracula_a_love_tale_2026",
+  "title": "Dracula: A Love Tale",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125187519",
+    "imdb": "tt31434030",
+    "tmdb": 1246049
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-02-06",
+  "runtime_minutes": 129
+}

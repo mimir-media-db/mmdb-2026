@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_she_returns_2026",
+  "title": "The Day She Returns",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138012468",
+    "imdb": "tt39368030",
+    "tmdb": 1498915
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-02-18",
+  "runtime_minutes": 84
+}

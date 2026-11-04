@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dolphin_island_2026",
+  "title": "Dolphin Island",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106311111",
+    "imdb": "tt11692070",
+    "tmdb": 800993
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 91
+}
