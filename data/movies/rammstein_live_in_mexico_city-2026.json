@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rammstein_live_in_mexico_city_2026",
+  "title": "Rammstein - Live in Mexico City",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141893801",
+    "imdb": "tt46000907",
+    "tmdb": 1753205
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-01-01"
+}
