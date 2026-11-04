@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naza_the_real_story_2026",
+  "title": "NAZA: The Real Story",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141672423",
+    "imdb": "tt48395858",
+    "tmdb": 1787920
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 49
+}

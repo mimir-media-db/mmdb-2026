@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_non_e_la_fine_del_mondo_2026",
+  "title": "Non è la fine del mondo",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141445710",
+    "imdb": "tt36161641",
+    "tmdb": 1512007
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-03-26",
+  "runtime_minutes": 100
+}
