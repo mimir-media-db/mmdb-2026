@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_qab_news",
+  "title": "QAB News",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q11240159"
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}
