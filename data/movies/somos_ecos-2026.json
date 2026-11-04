@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_somos_ecos_2026",
+  "title": "Somos ecos",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123255043",
+    "imdb": "tt11963622",
+    "tmdb": 1019246
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 83
+}

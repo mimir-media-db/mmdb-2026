@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seventeen_world_tour_new_2026",
+  "title": "Seventeen World Tour 'New_'",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141893823",
+    "imdb": "tt46658626",
+    "tmdb": 1797200
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-01-01"
+}
