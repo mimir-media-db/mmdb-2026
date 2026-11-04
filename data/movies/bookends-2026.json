@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bookends_2026",
+  "title": "Bookends",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134878940",
+    "imdb": "tt14674972",
+    "tmdb": 1417575
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-02-09",
+  "runtime_minutes": 99
+}
