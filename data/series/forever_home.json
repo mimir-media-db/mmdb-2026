@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_forever_home",
+  "title": "Forever Home",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141914495",
+    "imdb": "tt39319550",
+    "tmdb": 334268
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}
