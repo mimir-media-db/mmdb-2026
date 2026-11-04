@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_thats_wrong_with_you_2026",
+  "title": "Everything that's Wrong with You",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140694629",
+    "imdb": "tt37775832",
+    "tmdb": 1249167
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-01-01"
+}

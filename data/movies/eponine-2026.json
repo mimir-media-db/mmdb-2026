@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_eponine_2026",
+  "title": "Éponine",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120720837",
+    "imdb": "tt0198456"
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 13
+}
