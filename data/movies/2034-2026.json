@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_2034_2026",
+  "title": "2034",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139715049",
+    "imdb": "tt38641692",
+    "tmdb": 1398508
+  },
+  "last_updated": "2026-11-04"
+}
