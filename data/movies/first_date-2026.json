@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_first_date_2026",
+  "title": "First Date",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105274105",
+    "imdb": "tt8897874",
+    "tmdb": 776583
+  },
+  "last_updated": "2026-11-04"
+}
