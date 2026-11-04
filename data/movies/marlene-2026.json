@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marlene_2026",
+  "title": "Marlene",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123241576",
+    "imdb": "tt4479696",
+    "tmdb": 484664
+  },
+  "last_updated": "2026-11-04",
+  "runtime_minutes": 95
+}

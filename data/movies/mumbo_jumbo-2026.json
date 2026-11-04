@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mumbo_jumbo_2026",
+  "title": "Mumbo Jumbo",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139100608",
+    "imdb": "tt28942997",
+    "tmdb": 1218067
+  },
+  "last_updated": "2026-11-04",
+  "release_date": "2026-01-29"
+}
