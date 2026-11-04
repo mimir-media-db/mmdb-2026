@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_slumberkins",
+  "title": "Slumberkins",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124322966",
+    "imdb": "tt21942724",
+    "tmdb": 209130
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null
+}

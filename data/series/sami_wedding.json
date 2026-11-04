@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sami_wedding",
+  "title": "A Sámi Wedding",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136679514",
+    "imdb": "tt35488501",
+    "tmdb": 306944
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 8
+}

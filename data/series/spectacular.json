@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spectacular",
+  "title": "The Spectacular",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q110477285",
+    "imdb": "tt13606512",
+    "tmdb": 155086
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 4
+}
