@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_vitro",
+  "title": "In vitro",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136536745",
+    "imdb": "tt38674523",
+    "tmdb": 302915
+  },
+  "last_updated": "2026-11-04",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 6
+}
