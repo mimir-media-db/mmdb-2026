@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sante_la_vie",
+  "title": "Santé la vie",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142058273"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null,
+  "total_seasons": 3,
+  "total_episodes": 30
+}

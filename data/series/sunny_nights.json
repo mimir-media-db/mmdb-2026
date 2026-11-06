@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sunny_nights",
+  "title": "Sunny Nights",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q132290452",
+    "imdb": "tt32881046",
+    "tmdb": 258918
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}
