@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_human_body_2026",
+  "title": "The Human Body",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96409040",
+    "imdb": "tt0270419",
+    "tmdb": 109656
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 40
+}

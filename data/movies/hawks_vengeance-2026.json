@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hawks_vengeance_2026",
+  "title": "Hawk's Vengeance",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124414991",
+    "imdb": "tt0116500",
+    "tmdb": 142927
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 92
+}

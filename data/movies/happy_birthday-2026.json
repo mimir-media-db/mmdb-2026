@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_birthday_2026",
+  "title": "Happy Birthday",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113071121",
+    "imdb": "tt21149558",
+    "tmdb": 920736
+  },
+  "last_updated": "2026-11-06"
+}
