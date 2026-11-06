@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_damaged_care_2026",
+  "title": "Damaged Care",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130710041",
+    "imdb": "tt0317310",
+    "tmdb": 423287
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 106
+}

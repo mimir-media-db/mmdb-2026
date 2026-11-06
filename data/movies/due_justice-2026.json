@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_due_justice_2026",
+  "title": "Due Justice",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132830420",
+    "imdb": "tt14791590",
+    "tmdb": 982940
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 97
+}
