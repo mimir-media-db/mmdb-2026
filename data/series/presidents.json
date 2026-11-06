@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_presidents",
+  "title": "The Presidents",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142065967",
+    "imdb": "tt0447374"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

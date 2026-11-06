@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_another_page",
+  "title": "Another Page",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q134984857",
+    "imdb": "tt3663864",
+    "tmdb": 158394
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

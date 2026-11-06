@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_o_preco_de_um_homem",
+  "title": "O Preço de um Homem",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q10339615"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null,
+  "total_episodes": 192
+}

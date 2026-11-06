@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_april_x_2026",
+  "title": "April X",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141575644",
+    "imdb": "tt30850718",
+    "tmdb": 1403676
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-12-10"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_sabados_musicales",
+  "title": "Sábados musicales",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142022865"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

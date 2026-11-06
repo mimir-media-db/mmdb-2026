@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mookuthi_amman_2_2026",
+  "title": "Mookuthi Amman 2",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133126053",
+    "imdb": "tt32909364",
+    "tmdb": 1327835
+  },
+  "last_updated": "2026-11-06"
+}

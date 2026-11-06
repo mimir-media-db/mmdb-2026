@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_g_who_iz_i_2026",
+  "title": "Ali G: Who Iz I?",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140673920",
+    "imdb": "tt43655467",
+    "tmdb": 1727734
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-10-23"
+}

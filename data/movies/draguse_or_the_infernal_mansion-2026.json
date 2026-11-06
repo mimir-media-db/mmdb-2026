@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_draguse_or_the_infernal_mansion_2026",
+  "title": "Draguse or the Infernal Mansion",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109021004",
+    "imdb": "tt0230160",
+    "tmdb": 459455
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 85
+}

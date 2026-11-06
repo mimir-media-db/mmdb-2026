@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_benefits_with_friends",
+  "title": "Benefits with Friends",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q123965511",
+    "imdb": "tt27517632",
+    "tmdb": 224505
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

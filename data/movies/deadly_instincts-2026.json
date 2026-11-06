@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadly_instincts_2026",
+  "title": "Deadly Instincts",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129185221",
+    "imdb": "tt0162211",
+    "tmdb": 65252
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 90
+}

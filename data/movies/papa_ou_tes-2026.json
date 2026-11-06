@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_ou_tes_2026",
+  "title": "Papa où t'es ?",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141237885",
+    "imdb": "tt8784060",
+    "tmdb": 1758886
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-10-28"
+}

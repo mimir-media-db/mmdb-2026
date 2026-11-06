@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_midcentury_2026",
+  "title": "Mid-Century",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112339222",
+    "imdb": "tt6821198",
+    "tmdb": 916735
+  },
+  "last_updated": "2026-11-06"
+}

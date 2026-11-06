@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_music_industry_tv_show",
+  "title": "Music industry (TV show)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q126517586"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

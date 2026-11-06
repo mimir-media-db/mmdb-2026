@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sideshow_2026",
+  "title": "Sideshow",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105559385",
+    "imdb": "tt0253700",
+    "tmdb": 28127
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 90
+}

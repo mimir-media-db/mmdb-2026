@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_creek_3_2026",
+  "title": "Wolf Creek 3",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83475425",
+    "imdb": "tt4776944",
+    "tmdb": 347196
+  },
+  "last_updated": "2026-11-06"
+}

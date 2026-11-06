@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tv_de_noche",
+  "title": "TV de noche",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142022856",
+    "imdb": "tt1024172"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

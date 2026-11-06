@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_seventy_thirty_2026",
+  "title": "Seventy Thirty",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124606498",
+    "imdb": "tt30761784",
+    "tmdb": 1354498
+  },
+  "last_updated": "2026-11-06"
+}

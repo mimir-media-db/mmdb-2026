@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_alaska_triangle",
+  "title": "The Alaska Triangle",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q96408379",
+    "imdb": "tt11011652",
+    "tmdb": 110104
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

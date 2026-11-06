@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_indycar_series_on_fox",
+  "title": "IndyCar Series on Fox",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q132797994"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_intervention_2026",
+  "title": "Alien Intervention",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140472492",
+    "imdb": "tt15076688",
+    "tmdb": 1079236
+  },
+  "last_updated": "2026-11-06"
+}

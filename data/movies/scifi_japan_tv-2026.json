@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_scifi_japan_tv_2026",
+  "title": "SciFi JAPAN TV",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7433393",
+    "imdb": "tt3913616"
+  },
+  "last_updated": "2026-11-06"
+}

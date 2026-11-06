@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_criminal",
+  "title": "Criminal",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q126584129",
+    "imdb": "tt27493572",
+    "tmdb": 243214
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

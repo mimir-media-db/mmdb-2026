@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_two_for_the_money",
+  "title": "Two for the Money",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q7859379",
+    "imdb": "tt0044299",
+    "tmdb": 11910
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null,
+  "total_seasons": 5
+}

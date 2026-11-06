@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_royaume_des_rapiats_2026",
+  "title": "Le Royaume des rapiats",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141656822",
+    "imdb": "tt0281140",
+    "tmdb": 339321
+  },
+  "last_updated": "2026-11-06"
+}

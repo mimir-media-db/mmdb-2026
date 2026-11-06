@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_vidatv",
+  "title": "VidaTv",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142022853",
+    "imdb": "tt0305136"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

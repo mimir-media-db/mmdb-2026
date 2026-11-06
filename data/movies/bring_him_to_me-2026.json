@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bring_him_to_me_2026",
+  "title": "Bring Him to Me",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122945024",
+    "imdb": "tt24131660",
+    "tmdb": 1059126
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 90
+}

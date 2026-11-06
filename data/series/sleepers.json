@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sleepers",
+  "title": "Sleepers",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q115733678",
+    "imdb": "tt23739022",
+    "tmdb": 214546
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

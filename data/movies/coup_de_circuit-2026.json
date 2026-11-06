@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coup_de_circuit_2026",
+  "title": "Coup de circuit",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128340981",
+    "imdb": "tt0117742",
+    "tmdb": 292044
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 95
+}

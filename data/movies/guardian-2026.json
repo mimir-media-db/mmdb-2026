@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_guardian_2026",
+  "title": "The Guardian",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125361170",
+    "tmdb": 1265948
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-06-17"
+}

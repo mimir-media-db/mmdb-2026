@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_impact",
+  "title": "Impact",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q54999892",
+    "imdb": "tt0386940"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 2
+}

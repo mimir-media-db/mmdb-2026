@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_matriarch_2026",
+  "title": "The Matriarch",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139622586",
+    "imdb": "tt42204690",
+    "tmdb": 1427915
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-01-01"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_premios_de_la_radio",
+  "title": "Premios de la Radio",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142022862"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

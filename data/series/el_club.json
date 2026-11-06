@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_el_club",
+  "title": "El club",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142022854",
+    "imdb": "tt0355074"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}

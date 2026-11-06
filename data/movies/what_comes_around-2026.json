@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_what_comes_around_2026",
+  "title": "What Comes Around",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114608104",
+    "imdb": "tt21389338",
+    "tmdb": 1005731
+  },
+  "last_updated": "2026-11-06"
+}
