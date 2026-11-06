@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_in_the_machine_2026",
+  "title": "Ghost in the Machine",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137427426",
+    "imdb": "tt39150080",
+    "tmdb": 1596315
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 110
+}
