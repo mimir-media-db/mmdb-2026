@@ -547,6 +547,13 @@
     "path": "data/movies/aldeas_a_new_story-2026.json"
   },
   {
+    "id": "m_ali_g_who_iz_i_2026",
+    "title": "Ali G: Who Iz I?",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/ali_g_who_iz_i-2026.json"
+  },
+  {
     "id": "m_alias_the_deacon_2026",
     "title": "Alias the Deacon",
     "year": 2026,
@@ -560,6 +567,13 @@
     "type": "movie",
     "runtime_minutes": 105,
     "path": "data/movies/alice_au_pays_des_colons-2026.json"
+  },
+  {
+    "id": "m_alien_intervention_2026",
+    "title": "Alien Intervention",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/alien_intervention-2026.json"
   },
   {
     "id": "m_alive_2026",
@@ -741,6 +755,13 @@
     "path": "data/movies/amara_sahabat_langit-2026.json"
   },
   {
+    "id": "m_amaran_2026",
+    "title": "Amaran",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/amaran-2026.json"
+  },
+  {
     "id": "m_amazomania_2026",
     "title": "Amazomania",
     "year": 2026,
@@ -917,6 +938,13 @@
     "path": "data/movies/anna_et_les_enfants-2026.json"
   },
   {
+    "id": "m_anna_kiri_2026",
+    "title": "Anna Kiri",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/anna_kiri-2026.json"
+  },
+  {
     "id": "m_annaismissing_2026",
     "title": "Annaismissing",
     "year": 2026,
@@ -1017,6 +1045,13 @@
     "path": "data/movies/apples_pears-2026.json"
   },
   {
+    "id": "m_april_x_2026",
+    "title": "April X",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/april_x-2026.json"
+  },
+  {
     "id": "m_aquele_casal_2026",
     "title": "Aquele Casal",
     "year": 2026,
@@ -1097,6 +1132,14 @@
     "path": "data/movies/aronba_wari-2026.json"
   },
   {
+    "id": "m_arrangement_2026",
+    "title": "The Arrangement",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 103,
+    "path": "data/movies/arrangement-2026.json"
+  },
+  {
     "id": "m_arrested_memory_2026",
     "title": "Arrested Memory",
     "year": 2026,
@@ -1117,6 +1160,20 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/art_patron-2026.json"
+  },
+  {
+    "id": "m_artificial_2026",
+    "title": "Artificial",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/artificial-2026.json"
+  },
+  {
+    "id": "m_as_dez_vantagens_de_morrer_depois_de_voce_2026",
+    "title": "As Dez Vantagens de Morrer Depois de Você",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/as_dez_vantagens_de_morrer_depois_de_voce-2026.json"
   },
   {
     "id": "m_as_the_devil_commands_2026",
@@ -1477,6 +1534,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/bara_badhu-2026.json"
+  },
+  {
+    "id": "m_barbara_forever_2026",
+    "title": "Barbara Forever",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 101,
+    "path": "data/movies/barbara_forever-2026.json"
   },
   {
     "id": "m_barbel_bohley_tagebuch_einer_auflehnung_2026",
@@ -2056,6 +2121,13 @@
     "path": "data/movies/blind_ants-2026.json"
   },
   {
+    "id": "m_blind_runner_2026",
+    "title": "Blind Runner",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/blind_runner-2026.json"
+  },
+  {
     "id": "m_blind_waters_2026",
     "title": "Blind Waters",
     "year": 2026,
@@ -2070,6 +2142,13 @@
     "type": "movie",
     "runtime_minutes": 108,
     "path": "data/movies/block_10-2026.json"
+  },
+  {
+    "id": "m_blood_and_honey_3_the_lost_years_2026",
+    "title": "Blood and Honey 3 – The Lost Years",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/blood_and_honey_3_the_lost_years-2026.json"
   },
   {
     "id": "m_blood_countess_2026",
@@ -2280,6 +2359,13 @@
     "path": "data/movies/boomers-2026.json"
   },
   {
+    "id": "m_boonie_bears_the_hidden_protector_2026",
+    "title": "Boonie Bears: The Hidden Protector",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/boonie_bears_the_hidden_protector-2026.json"
+  },
+  {
     "id": "m_border_2_2026",
     "title": "Border 2",
     "year": 2026,
@@ -2383,6 +2469,13 @@
     "path": "data/movies/bride_for_the_quarterback-2026.json"
   },
   {
+    "id": "m_brides_chamber_2026",
+    "title": "The Bride's Chamber",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/brides_chamber-2026.json"
+  },
+  {
     "id": "m_bridge_at_the_end_of_the_world_2026",
     "title": "The Bridge at the End of the World",
     "year": 2026,
@@ -2412,6 +2505,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/brightwood-2026.json"
+  },
+  {
+    "id": "m_bring_him_to_me_2026",
+    "title": "Bring Him to Me",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 90,
+    "path": "data/movies/bring_him_to_me-2026.json"
   },
   {
     "id": "m_brink_of_war_2026",
@@ -2463,6 +2564,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/bts_world_tour_arirang_in_sao_paulo_live_viewing-2026.json"
+  },
+  {
+    "id": "m_buckingham_murders_2026",
+    "title": "The Buckingham Murders",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/buckingham_murders-2026.json"
   },
   {
     "id": "m_buddy_2026",
@@ -3036,6 +3144,13 @@
     "path": "data/movies/chopin_a_sonata_in_paris-2026.json"
   },
   {
+    "id": "m_chor_bazar_2026",
+    "title": "Chor Bazar",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/chor_bazar-2026.json"
+  },
+  {
     "id": "m_choral_2026",
     "title": "The Choral",
     "year": 2026,
@@ -3151,6 +3266,14 @@
     "type": "movie",
     "runtime_minutes": 94,
     "path": "data/movies/class_reunion-2026.json"
+  },
+  {
+    "id": "m_clayface_2026",
+    "title": "Clayface",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 108,
+    "path": "data/movies/clayface-2026.json"
   },
   {
     "id": "m_clika_2026",
@@ -3330,6 +3453,13 @@
     "path": "data/movies/concealed-2026.json"
   },
   {
+    "id": "m_concert_heroes_2026",
+    "title": "Concert Heroes",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/concert_heroes-2026.json"
+  },
+  {
     "id": "m_confession_2026",
     "title": "Confession",
     "year": 2026,
@@ -3460,6 +3590,14 @@
     "type": "movie",
     "runtime_minutes": 89,
     "path": "data/movies/cotton_fever-2026.json"
+  },
+  {
+    "id": "m_coup_de_circuit_2026",
+    "title": "Coup de circuit",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 95,
+    "path": "data/movies/coup_de_circuit-2026.json"
   },
   {
     "id": "m_couples_weekend_2026",
@@ -3669,6 +3807,14 @@
     "type": "movie",
     "runtime_minutes": 98,
     "path": "data/movies/daddy-2026.json"
+  },
+  {
+    "id": "m_damaged_care_2026",
+    "title": "Damaged Care",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 106,
+    "path": "data/movies/damaged_care-2026.json"
   },
   {
     "id": "m_dances_with_weights_2026",
@@ -3920,6 +4066,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/deadline-2026.json"
+  },
+  {
+    "id": "m_deadly_instincts_2026",
+    "title": "Deadly Instincts",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 90,
+    "path": "data/movies/deadly_instincts-2026.json"
   },
   {
     "id": "m_deadly_legend_2026",
@@ -4410,6 +4564,13 @@
     "path": "data/movies/do_not_enter-2026.json"
   },
   {
+    "id": "m_do_not_hesitate_2026",
+    "title": "Do Not Hesitate",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/do_not_hesitate-2026.json"
+  },
+  {
     "id": "m_do_you_love_me_2026",
     "title": "Do You Love Me",
     "year": 2026,
@@ -4651,6 +4812,14 @@
     "path": "data/movies/drag-2026.json"
   },
   {
+    "id": "m_draguse_or_the_infernal_mansion_2026",
+    "title": "Draguse or the Infernal Mansion",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 85,
+    "path": "data/movies/draguse_or_the_infernal_mansion-2026.json"
+  },
+  {
     "id": "m_drama_2026",
     "title": "The Drama",
     "year": 2026,
@@ -4805,6 +4974,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/dudesons_homecoming-2026.json"
+  },
+  {
+    "id": "m_due_justice_2026",
+    "title": "Due Justice",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 97,
+    "path": "data/movies/due_justice-2026.json"
   },
   {
     "id": "m_dug_dug_2026",
@@ -5050,6 +5227,14 @@
     "path": "data/movies/el_color_y_el_paisaxe-2026.json"
   },
   {
+    "id": "m_el_dia_de_la_revelacion_2026",
+    "title": "El día de la revelación",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 145,
+    "path": "data/movies/el_dia_de_la_revelacion-2026.json"
+  },
+  {
     "id": "m_el_gallo_movie_2026",
     "title": "El Gallo Movie",
     "year": 2026,
@@ -5174,6 +5359,13 @@
     "path": "data/movies/en_esta_tarde_de_retorno-2026.json"
   },
   {
+    "id": "m_en_ljuvlighet_fran_ingenstans_2026",
+    "title": "En ljuvlighet från ingenstans",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/en_ljuvlighet_fran_ingenstans-2026.json"
+  },
+  {
     "id": "m_en_ten_tyky_2026",
     "title": "En, ten, týky!",
     "year": 2026,
@@ -5285,6 +5477,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/ernie_and_emma-2026.json"
+  },
+  {
+    "id": "m_erotica_a_journey_into_female_sexuality_2026",
+    "title": "Erotica: A Journey Into Female Sexuality",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/erotica_a_journey_into_female_sexuality-2026.json"
   },
   {
     "id": "m_erzahlung_eines_kinogehers_werner_dutsch_2026",
@@ -5559,6 +5758,13 @@
     "path": "data/movies/familiar-2026.json"
   },
   {
+    "id": "m_families_stone_2026",
+    "title": "The Families Stone",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/families_stone-2026.json"
+  },
+  {
     "id": "m_family_2026",
     "title": "A Family",
     "year": 2026,
@@ -5580,6 +5786,14 @@
     "type": "movie",
     "runtime_minutes": 96,
     "path": "data/movies/family_of_bastards-2026.json"
+  },
+  {
+    "id": "m_family_star_2026",
+    "title": "The Family Star",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 122,
+    "path": "data/movies/family_star-2026.json"
   },
   {
     "id": "m_fantasy_life_2026",
@@ -5868,6 +6082,13 @@
     "type": "movie",
     "runtime_minutes": 84,
     "path": "data/movies/flor_de_qantuta-2026.json"
+  },
+  {
+    "id": "m_florid_2026",
+    "title": "Florid",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/florid-2026.json"
   },
   {
     "id": "m_flush_2026",
@@ -6224,6 +6445,13 @@
     "path": "data/movies/funeral_casino_blues-2026.json"
   },
   {
+    "id": "m_funny_valentines_2026",
+    "title": "Funny Valentines",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/funny_valentines-2026.json"
+  },
+  {
     "id": "m_furies_2026",
     "title": "Furies",
     "year": 2026,
@@ -6333,6 +6561,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/gasoline_alley-2026.json"
+  },
+  {
+    "id": "m_gassed_up_2026",
+    "title": "Gassed Up",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/gassed_up-2026.json"
   },
   {
     "id": "m_gates_2026",
@@ -6463,6 +6698,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/ghost_in_the_cell-2026.json"
+  },
+  {
+    "id": "m_ghost_in_the_machine_2026",
+    "title": "Ghost in the Machine",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 110,
+    "path": "data/movies/ghost_in_the_machine-2026.json"
   },
   {
     "id": "m_ghost_of_a_chance_2026",
@@ -6814,6 +7057,13 @@
     "path": "data/movies/growth_of_the_soil-2026.json"
   },
   {
+    "id": "m_guardian_2026",
+    "title": "The Guardian",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/guardian-2026.json"
+  },
+  {
     "id": "m_guddu_engineer_2026",
     "title": "Guddu Engineer",
     "year": 2026,
@@ -6930,6 +7180,13 @@
     "path": "data/movies/hallowarrior-2026.json"
   },
   {
+    "id": "m_hamlet_for_the_love_of_ophelia_2026",
+    "title": "Hamlet: For the Love of Ophelia",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/hamlet_for_the_love_of_ophelia-2026.json"
+  },
+  {
     "id": "m_hamnet_2026",
     "title": "Hamnet",
     "year": 2026,
@@ -6958,6 +7215,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/hanya_kamu_2-2026.json"
+  },
+  {
+    "id": "m_happy_birthday_2026",
+    "title": "Happy Birthday",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/happy_birthday-2026.json"
   },
   {
     "id": "m_happy_patel_khatarnak_jasoos_2026",
@@ -7002,6 +7266,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/hawa-2026.json"
+  },
+  {
+    "id": "m_hawks_vengeance_2026",
+    "title": "Hawk's Vengeance",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 92,
+    "path": "data/movies/hawks_vengeance-2026.json"
   },
   {
     "id": "m_he_bled_neon_2026",
@@ -7110,6 +7382,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/hells_island-2026.json"
+  },
+  {
+    "id": "m_hemingway_a_portrait_2026",
+    "title": "Hemingway: A Portrait",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 18,
+    "path": "data/movies/hemingway_a_portrait-2026.json"
   },
   {
     "id": "m_hen_2026",
@@ -7527,6 +7807,14 @@
     "path": "data/movies/hugo_24-2026.json"
   },
   {
+    "id": "m_human_body_2026",
+    "title": "The Human Body",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 40,
+    "path": "data/movies/human_body-2026.json"
+  },
+  {
     "id": "m_human_resource_2026",
     "title": "Human Resource",
     "year": 2026,
@@ -7703,6 +7991,14 @@
     "path": "data/movies/i_plant_my_hand_in_the_garden-2026.json"
   },
   {
+    "id": "m_i_play_rocky_2026",
+    "title": "I Play Rocky",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 128,
+    "path": "data/movies/i_play_rocky-2026.json"
+  },
+  {
     "id": "m_i_rarely_wake_up_dreaming_2026",
     "title": "I Rarely Wake Up Dreaming",
     "year": 2026,
@@ -7861,6 +8157,13 @@
     "path": "data/movies/il_dio_dellamore-2026.json"
   },
   {
+    "id": "m_il_faut_bruler_maman_2026",
+    "title": "Il faut brûler Maman",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/il_faut_bruler_maman-2026.json"
+  },
+  {
     "id": "m_il_figlio_piu_bello_2026",
     "title": "Il figlio più bello",
     "year": 2026,
@@ -7890,6 +8193,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/ill_be_gone_in_june-2026.json"
+  },
+  {
+    "id": "m_ill_be_right_there_2026",
+    "title": "I'll Be Right There",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 97,
+    "path": "data/movies/ill_be_right_there-2026.json"
   },
   {
     "id": "m_illusion_2026",
@@ -7987,6 +8298,13 @@
     "path": "data/movies/imperfect_strangers-2026.json"
   },
   {
+    "id": "m_in_a_holidaze_2026",
+    "title": "In a Holidaze",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/in_a_holidaze-2026.json"
+  },
+  {
     "id": "m_in_a_whisper_2026",
     "title": "In a Whisper",
     "year": 2026,
@@ -8058,6 +8376,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/in_the_sub_for_love-2026.json"
+  },
+  {
+    "id": "m_in_transit_2026",
+    "title": "In transit",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/in_transit-2026.json"
   },
   {
     "id": "m_inamma_2026",
@@ -8462,6 +8787,14 @@
     "path": "data/movies/joes_college_road_trip-2026.json"
   },
   {
+    "id": "m_joes_wedding_2026",
+    "title": "Joe's Wedding",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 99,
+    "path": "data/movies/joes_wedding-2026.json"
+  },
+  {
     "id": "m_john_lennon_the_last_interview_2026",
     "title": "John Lennon: The Last Interview",
     "year": 2026,
@@ -8830,6 +9163,13 @@
     "type": "movie",
     "runtime_minutes": 275,
     "path": "data/movies/kill_bill_the_whole_bloody_affair-2026.json"
+  },
+  {
+    "id": "m_killer_thriller_2026",
+    "title": "Killer Thriller",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/killer_thriller-2026.json"
   },
   {
     "id": "m_killer_whale_2026",
@@ -9202,6 +9542,14 @@
     "path": "data/movies/la_noche_de_la_infancia-2026.json"
   },
   {
+    "id": "m_la_odisea_2026",
+    "title": "La Odisea",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 172,
+    "path": "data/movies/la_odisea-2026.json"
+  },
+  {
     "id": "m_la_perra_2026",
     "title": "La Perra",
     "year": 2026,
@@ -9473,6 +9821,14 @@
     "path": "data/movies/last_seen-2026.json"
   },
   {
+    "id": "m_last_shadow_at_first_light_2026",
+    "title": "Last Shadow at First Light",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 107,
+    "path": "data/movies/last_shadow_at_first_light-2026.json"
+  },
+  {
     "id": "m_last_shot_2026",
     "title": "The Last Shot",
     "year": 2026,
@@ -9569,6 +9925,14 @@
     "path": "data/movies/le_faux_soir-2026.json"
   },
   {
+    "id": "m_le_jour_ou_segolene_a_gagne_2026",
+    "title": "Le Jour où Ségolène a gagné",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 14,
+    "path": "data/movies/le_jour_ou_segolene_a_gagne-2026.json"
+  },
+  {
     "id": "m_le_million_2026",
     "title": "Le Million",
     "year": 2026,
@@ -9582,6 +9946,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/le_pays_des_mirages-2026.json"
+  },
+  {
+    "id": "m_le_royaume_des_rapiats_2026",
+    "title": "Le Royaume des rapiats",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/le_royaume_des_rapiats-2026.json"
   },
   {
     "id": "m_le_triangle_dor_2026",
@@ -9964,11 +10335,26 @@
     "path": "data/movies/london-2026.json"
   },
   {
+    "id": "m_london_nahi_jaunga_2026",
+    "title": "London Nahi Jaunga",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/london_nahi_jaunga-2026.json"
+  },
+  {
     "id": "m_lone_star_bull_2026",
     "title": "Lone Star Bull",
     "year": 2026,
     "type": "movie",
     "path": "data/movies/lone_star_bull-2026.json"
+  },
+  {
+    "id": "m_lone_star_state_of_mind_2026",
+    "title": "Lone Star State of Mind",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 88,
+    "path": "data/movies/lone_star_state_of_mind-2026.json"
   },
   {
     "id": "m_lone_wolf_2026",
@@ -10279,6 +10665,13 @@
     "path": "data/movies/luv_di_saun-2026.json"
   },
   {
+    "id": "m_maan_2026",
+    "title": "Maan",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/maan-2026.json"
+  },
+  {
     "id": "m_maaran_2026",
     "title": "Maaran",
     "year": 2026,
@@ -10306,6 +10699,14 @@
     "type": "movie",
     "runtime_minutes": 110,
     "path": "data/movies/maborosi-2026.json"
+  },
+  {
+    "id": "m_mad_2026",
+    "title": "Mad",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 127,
+    "path": "data/movies/mad-2026.json"
   },
   {
     "id": "m_mad_bills_to_pay_2026",
@@ -10336,6 +10737,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/mad_square-2026.json"
+  },
+  {
+    "id": "m_madcap_musician_2026",
+    "title": "The Madcap Musician",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/madcap_musician-2026.json"
   },
   {
     "id": "m_maddies_secret_2026",
@@ -10652,6 +11060,14 @@
     "path": "data/movies/marianas_room-2026.json"
   },
   {
+    "id": "m_marido_de_aluguel_2026",
+    "title": "Marido de Aluguel",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 85,
+    "path": "data/movies/marido_de_aluguel-2026.json"
+  },
+  {
     "id": "m_marilyn_monroe_the_rise_of_an_icon_2026",
     "title": "Marilyn Monroe: The Rise of an Icon",
     "year": 2026,
@@ -10811,6 +11227,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/maternity_leave-2026.json"
+  },
+  {
+    "id": "m_matriarch_2026",
+    "title": "The Matriarch",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/matriarch-2026.json"
   },
   {
     "id": "m_matter_of_time_2026",
@@ -11068,6 +11491,13 @@
     "path": "data/movies/midas_man-2026.json"
   },
   {
+    "id": "m_midcentury_2026",
+    "title": "Mid-Century",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/midcentury-2026.json"
+  },
+  {
     "id": "m_midwinter_break_2026",
     "title": "Midwinter Break",
     "year": 2026,
@@ -11273,6 +11703,13 @@
     "path": "data/movies/money_maker-2026.json"
   },
   {
+    "id": "m_mongoose_2026",
+    "title": "The Mongoose",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/mongoose-2026.json"
+  },
+  {
     "id": "m_monochromatic_2026",
     "title": "Monochromatic",
     "year": 2026,
@@ -11316,6 +11753,13 @@
     "type": "movie",
     "runtime_minutes": 60,
     "path": "data/movies/monyova-2026.json"
+  },
+  {
+    "id": "m_mookuthi_amman_2_2026",
+    "title": "Mookuthi Amman 2",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/mookuthi_amman_2-2026.json"
   },
   {
     "id": "m_moon_4_2026",
@@ -11520,6 +11964,13 @@
     "path": "data/movies/mr_soul-2026.json"
   },
   {
+    "id": "m_mr_x_2026",
+    "title": "Mr. X",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/mr_x-2026.json"
+  },
+  {
     "id": "m_mrithyunjay_2026",
     "title": "Mrithyunjay",
     "year": 2026,
@@ -11578,6 +12029,14 @@
     "path": "data/movies/murabi-2026.json"
   },
   {
+    "id": "m_murder_in_the_mirror_2026",
+    "title": "Murder in the Mirror",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 84,
+    "path": "data/movies/murder_in_the_mirror-2026.json"
+  },
+  {
     "id": "m_murder_on_the_snow_2026",
     "title": "Murder on the snow",
     "year": 2026,
@@ -11626,6 +12085,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/my_best_enemy-2026.json"
+  },
+  {
+    "id": "m_my_best_friend_2026",
+    "title": "My Best Friend",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/my_best_friend-2026.json"
   },
   {
     "id": "m_my_best_friend_his_girlfriend_me_2026",
@@ -12410,6 +12876,13 @@
     "path": "data/movies/nous_lorchestre-2026.json"
   },
   {
+    "id": "m_nouvel_ordre_mondial_quelque_part_en_afrique_2026",
+    "title": "Nouvel Ordre mondial (Quelque part en Afrique)",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/nouvel_ordre_mondial_quelque_part_en_afrique-2026.json"
+  },
+  {
     "id": "m_nouvelle_vague_2026",
     "title": "Nouvelle Vague",
     "year": 2026,
@@ -12430,6 +12903,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/nowhere_to_lay_my_eyes-2026.json"
+  },
+  {
+    "id": "m_nuit_blanche_2026",
+    "title": "Nuit blanche",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/nuit_blanche-2026.json"
   },
   {
     "id": "m_nul_is_nie_niks_nie_2026",
@@ -12525,6 +13005,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/ocd-2026.json"
+  },
+  {
+    "id": "m_octavia_loves_girls_dreamscape_2026",
+    "title": "Octavia Loves Girls: Dreamscape",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/octavia_loves_girls_dreamscape-2026.json"
   },
   {
     "id": "m_oddil_b_2026",
@@ -12701,6 +13188,14 @@
     "path": "data/movies/one_eye_open-2026.json"
   },
   {
+    "id": "m_one_in_a_million_2026",
+    "title": "One in a Million",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 102,
+    "path": "data/movies/one_in_a_million-2026.json"
+  },
+  {
     "id": "m_one_man_justice_2026",
     "title": "One Man Justice",
     "year": 2026,
@@ -12721,6 +13216,14 @@
     "type": "movie",
     "runtime_minutes": 102,
     "path": "data/movies/one_night_only-2026.json"
+  },
+  {
+    "id": "m_one_night_stand_2026",
+    "title": "One Night Stand",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 88,
+    "path": "data/movies/one_night_stand-2026.json"
   },
   {
     "id": "m_one_spoon_of_chocolate_2026",
@@ -12948,6 +13451,13 @@
     "path": "data/movies/over_your_dead_body-2026.json"
   },
   {
+    "id": "m_paach_futacha_bachchan_2026",
+    "title": "Paach Futacha Bachchan",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/paach_futacha_bachchan-2026.json"
+  },
+  {
     "id": "m_paaz_2026",
     "title": "PAAZ",
     "year": 2026,
@@ -13005,6 +13515,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/panga_neichhi_mun_jama_sathire-2026.json"
+  },
+  {
+    "id": "m_papa_ou_tes_2026",
+    "title": "Papa où t'es ?",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/papa_ou_tes-2026.json"
   },
   {
     "id": "m_papagaios_2026",
@@ -13071,6 +13588,13 @@
     "type": "movie",
     "runtime_minutes": 94,
     "path": "data/movies/passenger-2026.json"
+  },
+  {
+    "id": "m_passion_according_to_ghb_2026",
+    "title": "The Passion According to G.H.B.",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/passion_according_to_ghb-2026.json"
   },
   {
     "id": "m_pastoris_2026",
@@ -13152,6 +13676,14 @@
     "type": "movie",
     "runtime_minutes": 112,
     "path": "data/movies/pelangi_di_mars-2026.json"
+  },
+  {
+    "id": "m_penitenziario_femminile_2026",
+    "title": "Penitenziario femminile",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 100,
+    "path": "data/movies/penitenziario_femminile-2026.json"
   },
   {
     "id": "m_people_we_meet_on_vacation_2026",
@@ -13244,6 +13776,13 @@
     "path": "data/movies/perverts_guide_to_utopias-2026.json"
   },
   {
+    "id": "m_peter_asher_everywhere_man_2026",
+    "title": "Peter Asher: Everywhere Man",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/peter_asher_everywhere_man-2026.json"
+  },
+  {
     "id": "m_petofi_73_2026",
     "title": "Petőfi '73",
     "year": 2026,
@@ -13264,6 +13803,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/pferd_am_stiel_ein_hobbyhorsingabenteuer-2026.json"
+  },
+  {
+    "id": "m_phantom_of_the_opera_2026",
+    "title": "The Phantom of the Opera",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 134,
+    "path": "data/movies/phantom_of_the_opera-2026.json"
   },
   {
     "id": "m_phantom_youth_2026",
@@ -13534,6 +14081,13 @@
     "path": "data/movies/poutpout_fish-2026.json"
   },
   {
+    "id": "m_power_and_beauty_2026",
+    "title": "Power and Beauty",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/power_and_beauty-2026.json"
+  },
+  {
     "id": "m_power_ballad_2026",
     "title": "Power Ballad",
     "year": 2026,
@@ -13635,6 +14189,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/pretty_lethal-2026.json"
+  },
+  {
+    "id": "m_price_to_pay_2026",
+    "title": "The Price to Pay",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 96,
+    "path": "data/movies/price_to_pay-2026.json"
   },
   {
     "id": "m_primate_2026",
@@ -14167,6 +14729,13 @@
     "path": "data/movies/rehmat-2026.json"
   },
   {
+    "id": "m_rejected_2026",
+    "title": "Rejected",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/rejected-2026.json"
+  },
+  {
     "id": "m_rekordwoman_2026",
     "title": "Rekordwoman",
     "year": 2026,
@@ -14196,6 +14765,13 @@
     "type": "movie",
     "runtime_minutes": 111,
     "path": "data/movies/remarkably_bright_creatures-2026.json"
+  },
+  {
+    "id": "m_remember_2026",
+    "title": "Remember",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/remember-2026.json"
   },
   {
     "id": "m_remembering_saddam_2026",
@@ -14241,6 +14817,21 @@
     "type": "movie",
     "runtime_minutes": 110,
     "path": "data/movies/rental_family-2026.json"
+  },
+  {
+    "id": "m_reporter_raju_2026",
+    "title": "Reporter Raju",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/reporter_raju-2026.json"
+  },
+  {
+    "id": "m_rescuers_stories_of_courage_two_women_2026",
+    "title": "Rescuers: Stories of Courage: Two Women",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 106,
+    "path": "data/movies/rescuers_stories_of_courage_two_women-2026.json"
   },
   {
     "id": "m_reserve_2026",
@@ -14322,6 +14913,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/reytacs_2_rounds-2026.json"
+  },
+  {
+    "id": "m_rhino_skin_2026",
+    "title": "The Rhino Skin",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/rhino_skin-2026.json"
   },
   {
     "id": "m_richest_woman_in_the_world_2026",
@@ -14903,6 +15501,13 @@
     "path": "data/movies/schwarzers_kosmos-2026.json"
   },
   {
+    "id": "m_scifi_japan_tv_2026",
+    "title": "SciFi JAPAN TV",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/scifi_japan_tv-2026.json"
+  },
+  {
     "id": "m_scorching_2026",
     "title": "Scorching",
     "year": 2026,
@@ -14930,6 +15535,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/scurvy_film-2026.json"
+  },
+  {
+    "id": "m_se_domani_non_torno_2026",
+    "title": "Se domani non torno",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 107,
+    "path": "data/movies/se_domani_non_torno-2026.json"
   },
   {
     "id": "m_sebelum_dijemput_nenek_2026",
@@ -14968,6 +15581,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/secret_floor-2026.json"
+  },
+  {
+    "id": "m_secret_heart_2026",
+    "title": "A Secret Heart",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/secret_heart-2026.json"
   },
   {
     "id": "m_secret_of_karma_2026",
@@ -15135,6 +15755,13 @@
     "path": "data/movies/seventeen_world_tour_new-2026.json"
   },
   {
+    "id": "m_seventy_thirty_2026",
+    "title": "Seventy Thirty",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/seventy_thirty-2026.json"
+  },
+  {
     "id": "m_sgt_haane_2026",
     "title": "Sgt. Haane",
     "year": 2026,
@@ -15295,6 +15922,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/si_yoyo-2026.json"
+  },
+  {
+    "id": "m_sideshow_2026",
+    "title": "Sideshow",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 90,
+    "path": "data/movies/sideshow-2026.json"
   },
   {
     "id": "m_sidney_lumets_day_of_birth_2026",
@@ -15541,6 +16176,13 @@
     "path": "data/movies/smell_of_apples-2026.json"
   },
   {
+    "id": "m_smuggler_2026",
+    "title": "The Smuggler",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/smuggler-2026.json"
+  },
+  {
     "id": "m_smykolay_and_a_lost_letter_2026",
     "title": "S.Mykolay and a lost letter",
     "year": 2026,
@@ -15598,6 +16240,14 @@
     "path": "data/movies/soccer_fans-2026.json"
   },
   {
+    "id": "m_social_reckoning_2026",
+    "title": "The Social Reckoning",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 112,
+    "path": "data/movies/social_reckoning-2026.json"
+  },
+  {
     "id": "m_solo_mio_2026",
     "title": "Solo Mio",
     "year": 2026,
@@ -15631,6 +16281,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/something_real-2026.json"
+  },
+  {
+    "id": "m_something_you_should_know_about_me_2026",
+    "title": "Something You Should Know About Me",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/something_you_should_know_about_me-2026.json"
   },
   {
     "id": "m_somewhere_between_2026",
@@ -15768,6 +16425,13 @@
     "path": "data/movies/sound_of_falling-2026.json"
   },
   {
+    "id": "m_souvent_lhiver_se_mutine_2026",
+    "title": "Souvent l'hiver se mutine",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/souvent_lhiver_se_mutine-2026.json"
+  },
+  {
     "id": "m_spa_weekend_2026",
     "title": "Spa Weekend",
     "year": 2026,
@@ -15833,6 +16497,13 @@
     "type": "movie",
     "runtime_minutes": 145,
     "path": "data/movies/spiderman_brand_new_day-2026.json"
+  },
+  {
+    "id": "m_spiders_web_2026",
+    "title": "Spider's Web",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/spiders_web-2026.json"
   },
   {
     "id": "m_spin_me_2026",
@@ -16189,6 +16860,20 @@
     "type": "movie",
     "runtime_minutes": 8,
     "path": "data/movies/succession_film_2026-2026.json"
+  },
+  {
+    "id": "m_succubus_2026",
+    "title": "Succubus",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/succubus-2026.json"
+  },
+  {
+    "id": "m_sueno_pelvico_2026",
+    "title": "Sueño pélvico",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/sueno_pelvico-2026.json"
   },
   {
     "id": "m_suitors_2026",
@@ -16770,6 +17455,13 @@
     "path": "data/movies/this_tempting_madness-2026.json"
   },
   {
+    "id": "m_thomas_ades_music_for_the_21st_century_2026",
+    "title": "Thomas Ades: Music for the 21st Century",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/thomas_ades_music_for_the_21st_century-2026.json"
+  },
+  {
     "id": "m_thrash_2026",
     "title": "Thrash",
     "year": 2026,
@@ -16879,6 +17571,14 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/tiket_sehala-2026.json"
+  },
+  {
+    "id": "m_time_and_water_2026",
+    "title": "Time and Water",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 90,
+    "path": "data/movies/time_and_water-2026.json"
   },
   {
     "id": "m_time_trackers_2026",
@@ -17428,6 +18128,14 @@
     "path": "data/movies/un_hiver_russe-2026.json"
   },
   {
+    "id": "m_un_tranquillo_funerale_di_famiglia_2026",
+    "title": "Un tranquillo funerale di famiglia",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 98,
+    "path": "data/movies/un_tranquillo_funerale_di_famiglia-2026.json"
+  },
+  {
     "id": "m_una_isla_de_ti_2026",
     "title": "A una isla de ti",
     "year": 2026,
@@ -17864,6 +18572,13 @@
     "path": "data/movies/viduthalai_part_2-2026.json"
   },
   {
+    "id": "m_viel_passiert_der_bapfilm_2026",
+    "title": "Viel passiert - Der BAP-Film",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/viel_passiert_der_bapfilm-2026.json"
+  },
+  {
     "id": "m_viendra_la_revolution_2026",
     "title": "Viendra la révolution",
     "year": 2026,
@@ -18074,6 +18789,13 @@
     "path": "data/movies/wardriver-2026.json"
   },
   {
+    "id": "m_warla_2026",
+    "title": "Warla",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/warla-2026.json"
+  },
+  {
     "id": "m_warlord_2026",
     "title": "Warlord",
     "year": 2026,
@@ -18133,6 +18855,13 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/way_elsewhere-2026.json"
+  },
+  {
+    "id": "m_waylon_2026",
+    "title": "Waylon",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/waylon-2026.json"
   },
   {
     "id": "m_we_are_aliens_2026",
@@ -18277,6 +19006,13 @@
     "path": "data/movies/what_are_you_talking_about-2026.json"
   },
   {
+    "id": "m_what_comes_around_2026",
+    "title": "What Comes Around",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/what_comes_around-2026.json"
+  },
+  {
     "id": "m_what_does_this_mean_2026",
     "title": "What Does This Mean?",
     "year": 2026,
@@ -18356,6 +19092,13 @@
     "path": "data/movies/when_the_sea_was_calm-2026.json"
   },
   {
+    "id": "m_when_we_pick_apples_2026",
+    "title": "When We Pick Apples",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/when_we_pick_apples-2026.json"
+  },
+  {
     "id": "m_when_will_you_get_divorced_2026",
     "title": "When will you get divorced?",
     "year": 2026,
@@ -18400,6 +19143,13 @@
     "type": "movie",
     "runtime_minutes": 99,
     "path": "data/movies/where_the_wind_comes_from-2026.json"
+  },
+  {
+    "id": "m_where_to_2026",
+    "title": "Where to?",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/where_to-2026.json"
   },
   {
     "id": "m_which_food_is_killing_you_2026",
@@ -18711,6 +19461,13 @@
     "path": "data/movies/wolf_and_the_lamb-2026.json"
   },
   {
+    "id": "m_wolf_creek_3_2026",
+    "title": "Wolf Creek 3",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/wolf_creek_3-2026.json"
+  },
+  {
     "id": "m_wolf_hound_2026",
     "title": "Wolf Hound",
     "year": 2026,
@@ -18932,6 +19689,21 @@
     "year": 2026,
     "type": "movie",
     "path": "data/movies/you_me_tuscany-2026.json"
+  },
+  {
+    "id": "m_you_me_us_2026",
+    "title": "You, Me, Us",
+    "year": 2026,
+    "type": "movie",
+    "path": "data/movies/you_me_us-2026.json"
+  },
+  {
+    "id": "m_you_speak_of_paris_maspero_words_have_meaning_2026",
+    "title": "You Speak of Paris: Maspero. Words Have Meaning",
+    "year": 2026,
+    "type": "movie",
+    "runtime_minutes": 20,
+    "path": "data/movies/you_speak_of_paris_maspero_words_have_meaning-2026.json"
   },
   {
     "id": "m_you_will_be_free_2026",
