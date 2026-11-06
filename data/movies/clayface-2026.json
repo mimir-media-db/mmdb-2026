@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clayface_2026",
+  "title": "Clayface",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131460936",
+    "imdb": "tt34890576",
+    "tmdb": 1400940
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-10-13",
+  "runtime_minutes": 108
+}
