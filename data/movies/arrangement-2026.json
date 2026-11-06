@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arrangement_2026",
+  "title": "The Arrangement",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136276535",
+    "imdb": "tt35465655",
+    "tmdb": 1119548
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-10-29",
+  "runtime_minutes": 103
+}

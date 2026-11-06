@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_amaran_2026",
+  "title": "Amaran",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123119123",
+    "imdb": "tt27118357",
+    "tmdb": 927342
+  },
+  "last_updated": "2026-11-06"
+}
