@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_in_a_million_2026",
+  "title": "One in a Million",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137592941",
+    "imdb": "tt38983842",
+    "tmdb": 1596295
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 102
+}
