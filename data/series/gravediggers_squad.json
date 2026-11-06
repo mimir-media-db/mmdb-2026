@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gravediggers_squad",
+  "title": "The Gravediggers Squad",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q115473057",
+    "imdb": "tt2158646",
+    "tmdb": 132646
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}
