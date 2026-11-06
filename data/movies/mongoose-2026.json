@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mongoose_2026",
+  "title": "The Mongoose",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132240256",
+    "imdb": "tt13611778",
+    "tmdb": 1294189
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-10-30"
+}
