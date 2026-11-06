@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mlbs_20_greatest_games",
+  "title": "MLB's 20 Greatest Games",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q131412216",
+    "imdb": "tt2712002",
+    "tmdb": 132295
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}
