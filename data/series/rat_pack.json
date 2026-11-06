@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rat_pack",
+  "title": "The Rat Pack",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q10695763",
+    "imdb": "tt0348991",
+    "tmdb": 262659
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}
