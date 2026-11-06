@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_contacto_deportivo",
+  "title": "Contacto Deportivo",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q5164859"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null
+}
