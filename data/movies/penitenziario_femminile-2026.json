@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_penitenziario_femminile_2026",
+  "title": "Penitenziario femminile",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107529471",
+    "imdb": "tt0127850",
+    "tmdb": 594954
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 100
+}

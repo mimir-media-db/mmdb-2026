@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_price_to_pay_2026",
+  "title": "The Price to Pay",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138621582",
+    "imdb": "tt34890499",
+    "tmdb": 1376412
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-03-18",
+  "runtime_minutes": 96
+}
