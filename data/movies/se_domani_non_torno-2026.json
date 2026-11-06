@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_se_domani_non_torno_2026",
+  "title": "Se domani non torno",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141514483",
+    "imdb": "tt38984314",
+    "tmdb": 1583853
+  },
+  "last_updated": "2026-11-06",
+  "release_date": "2026-10-23",
+  "runtime_minutes": 107
+}

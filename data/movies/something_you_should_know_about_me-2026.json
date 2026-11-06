@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_something_you_should_know_about_me_2026",
+  "title": "Something You Should Know About Me",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142044756",
+    "imdb": "tt34599705",
+    "tmdb": 1656571
+  },
+  "last_updated": "2026-11-06"
+}

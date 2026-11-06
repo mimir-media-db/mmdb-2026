@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_spiders_web_2026",
+  "title": "Spider's Web",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105883444",
+    "imdb": "tt0316653",
+    "tmdb": 53095
+  },
+  "last_updated": "2026-11-06"
+}
