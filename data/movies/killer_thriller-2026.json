@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_thriller_2026",
+  "title": "Killer Thriller",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139976608",
+    "imdb": "tt27286213",
+    "tmdb": 1274205
+  },
+  "last_updated": "2026-11-06"
+}
