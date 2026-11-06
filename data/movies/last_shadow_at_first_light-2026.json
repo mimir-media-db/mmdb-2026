@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_shadow_at_first_light_2026",
+  "title": "Last Shadow at First Light",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123036997",
+    "imdb": "tt20565932",
+    "tmdb": 1069174
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 107
+}

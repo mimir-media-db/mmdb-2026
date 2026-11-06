@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_jour_ou_segolene_a_gagne_2026",
+  "title": "Le Jour où Ségolène a gagné",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121819906",
+    "imdb": "tt1426327",
+    "tmdb": 723117
+  },
+  "last_updated": "2026-11-06",
+  "runtime_minutes": 14
+}
