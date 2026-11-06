@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bomber",
+  "title": "Bomber",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q48699782",
+    "imdb": "tt0231284"
+  },
+  "last_updated": "2026-11-06",
+  "end_year": null,
+  "total_episodes": 2
+}
