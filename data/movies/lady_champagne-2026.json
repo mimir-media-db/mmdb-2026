@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_champagne_2026",
+  "title": "Lady Champagne",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141994340",
+    "imdb": "tt40015122",
+    "tmdb": 1640329
+  },
+  "last_updated": "2026-11-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fate_2026",
+  "title": "Fate",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141830483",
+    "imdb": "tt50622599",
+    "tmdb": 1559418
+  },
+  "last_updated": "2026-11-07",
+  "release_date": "2026-10-28"
+}

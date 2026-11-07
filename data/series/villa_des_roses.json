@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_villa_des_roses",
+  "title": "Villa Des Roses",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140599935"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null
+}

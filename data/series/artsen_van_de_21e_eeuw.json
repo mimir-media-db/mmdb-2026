@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_artsen_van_de_21e_eeuw",
+  "title": "Artsen Van De 21e Eeuw",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140331488"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null,
+  "total_episodes": 13
+}

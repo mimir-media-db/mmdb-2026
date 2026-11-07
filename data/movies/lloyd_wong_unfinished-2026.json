@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lloyd_wong_unfinished_2026",
+  "title": "Lloyd Wong, Unfinished",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132014155",
+    "imdb": "tt35407055",
+    "tmdb": 1416922
+  },
+  "last_updated": "2026-11-07",
+  "runtime_minutes": 29
+}

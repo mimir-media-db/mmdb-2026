@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tros_sport_extra",
+  "title": "Tros Sport Extra",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140331460"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null,
+  "total_episodes": 14
+}

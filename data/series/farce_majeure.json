@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_farce_majeure",
+  "title": "Farce Majeure",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q3108350",
+    "imdb": "tt1521823"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null,
+  "total_episodes": 198
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_quelques_jours_avant_la_nuit_2026",
+  "title": "Quelques jours avant la nuit",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109042470",
+    "imdb": "tt1493824"
+  },
+  "last_updated": "2026-11-07",
+  "runtime_minutes": 100
+}

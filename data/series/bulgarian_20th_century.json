@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_bulgarian_20th_century",
+  "title": "Bulgarian 20th Century",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141961619",
+    "imdb": "tt11904340"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null
+}

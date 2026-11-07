@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_can_see_everything_2026",
+  "title": "You Can See Everything",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141336617",
+    "imdb": "tt45368240",
+    "tmdb": 1765072
+  },
+  "last_updated": "2026-11-07",
+  "release_date": "2026-09-06",
+  "runtime_minutes": 174
+}

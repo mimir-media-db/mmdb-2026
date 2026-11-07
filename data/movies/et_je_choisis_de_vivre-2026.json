@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_et_je_choisis_de_vivre_2026",
+  "title": "Et je choisis de vivre",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122609465",
+    "imdb": "tt10076440",
+    "tmdb": 603142
+  },
+  "last_updated": "2026-11-07",
+  "runtime_minutes": 70
+}

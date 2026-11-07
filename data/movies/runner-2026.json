@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_runner_2026",
+  "title": "Runner",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133809675",
+    "imdb": "tt31349844",
+    "tmdb": 1377237
+  },
+  "last_updated": "2026-11-07",
+  "release_date": "2026-09-10"
+}

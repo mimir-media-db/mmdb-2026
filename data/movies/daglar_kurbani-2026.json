@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_daglar_kurbani_2026",
+  "title": "Daglar Kurbani",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109254302",
+    "imdb": "tt10315230",
+    "tmdb": 593703
+  },
+  "last_updated": "2026-11-07"
+}

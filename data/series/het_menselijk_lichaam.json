@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_het_menselijk_lichaam",
+  "title": "Het Menselijk Lichaam",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140331537"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null,
+  "total_episodes": 13
+}
