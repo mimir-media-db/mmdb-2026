@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_oskars_amerika_2026",
+  "title": "Oskars Amerika",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56409239",
+    "imdb": "tt5723028",
+    "tmdb": 438264
+  },
+  "last_updated": "2026-11-07"
+}
