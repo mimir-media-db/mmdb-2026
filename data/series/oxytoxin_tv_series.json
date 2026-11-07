@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_oxytoxin_tv_series",
+  "title": "Oxytoxin (TV series)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138657924",
+    "imdb": "tt39044730",
+    "tmdb": 306936
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null
+}
