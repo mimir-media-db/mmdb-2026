@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_heroes_of_soca_2026",
+  "title": "Heroes of Soča",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142066779",
+    "imdb": "tt49771439"
+  },
+  "last_updated": "2026-11-07"
+}
