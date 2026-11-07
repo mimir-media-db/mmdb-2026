@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voila_cest_fini_2026",
+  "title": "Voilà c'est fini",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141727113",
+    "imdb": "tt36957940",
+    "tmdb": 1410702
+  },
+  "last_updated": "2026-11-07",
+  "release_date": "2026-08-24"
+}
