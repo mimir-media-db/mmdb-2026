@@ -126,6 +126,13 @@
     "path": "data/series/accidental_influencer_love_me_if_you_dare-2026.json"
   },
   {
+    "id": "s_achter_het_nieuws_special",
+    "title": "Achter Het Nieuws Special",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/achter_het_nieuws_special.json"
+  },
+  {
     "id": "s_adventure_time_side_quests_2026",
     "title": "Adventure Time: Side Quests",
     "start_year": 2026,
@@ -287,6 +294,13 @@
     "path": "data/series/ambiguity-2026.json"
   },
   {
+    "id": "s_ambulance",
+    "title": "Ambulance",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ambulance.json"
+  },
+  {
     "id": "s_american_football_league_on_nbc",
     "title": "American Football League on NBC",
     "start_year": 2026,
@@ -329,6 +343,13 @@
     "path": "data/series/amor_animal-2026.json"
   },
   {
+    "id": "s_anders_tv_kijken",
+    "title": "Anders Tv Kijken",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/anders_tv_kijken.json"
+  },
+  {
     "id": "s_another_page",
     "title": "Another Page",
     "start_year": 2026,
@@ -341,6 +362,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/anten.json"
+  },
+  {
+    "id": "s_antenna",
+    "title": "Antenna",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/antenna.json"
   },
   {
     "id": "s_antony_and_cleopatra",
@@ -406,6 +434,13 @@
     "path": "data/series/art_of_sarah-2026.json"
   },
   {
+    "id": "s_artsen_van_de_21e_eeuw",
+    "title": "Artsen Van De 21e Eeuw",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/artsen_van_de_21e_eeuw.json"
+  },
+  {
     "id": "s_ash_chinese_tv_series",
     "title": "Ash 煙灰 (Chinese TV series)",
     "start_year": 2026,
@@ -460,6 +495,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/atlantis_pasila-2026.json"
+  },
+  {
+    "id": "s_avro_kunstuur",
+    "title": "Avro Kunstuur",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/avro_kunstuur.json"
   },
   {
     "id": "s_avvocato_ligas_2026",
@@ -574,6 +616,20 @@
     "path": "data/series/before_us-2026.json"
   },
   {
+    "id": "s_begane_grond",
+    "title": "Begane Grond",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/begane_grond.json"
+  },
+  {
+    "id": "s_bejaarden_zangconcours",
+    "title": "Bejaarden Zangconcours",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/bejaarden_zangconcours.json"
+  },
+  {
     "id": "s_below",
     "title": "Below",
     "start_year": 2026,
@@ -628,6 +684,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/big_mistakes-2026.json"
+  },
+  {
+    "id": "s_bij_ons_thuis",
+    "title": "Bij Ons Thuis",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/bij_ons_thuis.json"
   },
   {
     "id": "s_bin_roye",
@@ -756,6 +819,13 @@
     "path": "data/series/blue_murder_motel-2026.json"
   },
   {
+    "id": "s_bnn_docu",
+    "title": "Bnn Docu",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/bnn_docu.json"
+  },
+  {
     "id": "s_bobaga",
     "title": "Bobaga",
     "start_year": 2026,
@@ -775,6 +845,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/body.json"
+  },
+  {
+    "id": "s_boekenbuis",
+    "title": "Boekenbuis",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/boekenbuis.json"
   },
   {
     "id": "s_bola_koki",
@@ -845,6 +922,13 @@
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/boyfriend_on_demand-2026.json"
+  },
+  {
+    "id": "s_brandpunt_verkiezingen",
+    "title": "Brandpunt Verkiezingen",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/brandpunt_verkiezingen.json"
   },
   {
     "id": "s_breathe",
@@ -922,6 +1006,13 @@
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/buldok_z_podebrad-2026.json"
+  },
+  {
+    "id": "s_bulgarian_20th_century",
+    "title": "Bulgarian 20th Century",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/bulgarian_20th_century.json"
   },
   {
     "id": "s_buonvino_misteri_a_villa_borghese_2026",
@@ -1344,6 +1435,20 @@
     "path": "data/series/daughters_of_virtue-2025.json"
   },
   {
+    "id": "s_de_grote_verwarring",
+    "title": "De Grote Verwarring",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/de_grote_verwarring.json"
+  },
+  {
+    "id": "s_de_nacht",
+    "title": "De Nacht",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/de_nacht.json"
+  },
+  {
     "id": "s_de_weddingplanners_van_chaos_naar_champagne_2026",
     "title": "De Weddingplanners: van chaos naar champagne",
     "start_year": 2026,
@@ -1596,11 +1701,32 @@
     "path": "data/series/dolph_and_the_lundgrens-2026.json"
   },
   {
+    "id": "s_door_het_oog_van_de_naald",
+    "title": "Door Het Oog Van De Naald",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/door_het_oog_van_de_naald.json"
+  },
+  {
     "id": "s_doozies_doghouse",
     "title": "Doozie's Doghouse",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/doozies_doghouse.json"
+  },
+  {
+    "id": "s_dossier_geschiedenis",
+    "title": "Dossier Geschiedenis",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/dossier_geschiedenis.json"
+  },
+  {
+    "id": "s_dossiers_noirs",
+    "title": "Dossiers Noirs",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/dossiers_noirs.json"
   },
   {
     "id": "s_double_helix",
@@ -1652,11 +1778,25 @@
     "path": "data/series/dream_to_you-2026.json"
   },
   {
+    "id": "s_drieluik",
+    "title": "Drieluik",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/drieluik.json"
+  },
+  {
     "id": "s_duang_with_you_2026",
     "title": "Duang with You",
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/duang_with_you-2026.json"
+  },
+  {
+    "id": "s_duivelse_dilemmas",
+    "title": "Duivelse Dilemma's",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/duivelse_dilemmas.json"
   },
   {
     "id": "s_dunia_kiara",
@@ -1720,6 +1860,13 @@
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/el_homenaje-2026.json"
+  },
+  {
+    "id": "s_eldorado",
+    "title": "Eldorado",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/eldorado.json"
   },
   {
     "id": "s_eleftherios_venizelos_the_life_of_a_leader_2025",
@@ -1888,6 +2035,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/family_resister-2026.json"
+  },
+  {
+    "id": "s_farce_majeure",
+    "title": "Farce Majeure",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/farce_majeure.json"
   },
   {
     "id": "s_fatma_2026",
@@ -2070,6 +2224,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/gate24the_border-2026.json"
+  },
+  {
+    "id": "s_gedragstherapie",
+    "title": "Gedragstherapie",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/gedragstherapie.json"
   },
   {
     "id": "s_generasi_dbijis",
@@ -2338,6 +2499,13 @@
     "path": "data/series/harry_potter-2026.json"
   },
   {
+    "id": "s_harten_vijf",
+    "title": "Harten Vijf",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/harten_vijf.json"
+  },
+  {
     "id": "s_hawa_baghdad",
     "title": "Hawa Baghdad",
     "start_year": 2026,
@@ -2408,11 +2576,53 @@
     "path": "data/series/heroes.json"
   },
   {
+    "id": "s_het_familiebedrijf",
+    "title": "Het Familiebedrijf",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/het_familiebedrijf.json"
+  },
+  {
+    "id": "s_het_geheim_van_de_meester",
+    "title": "Het Geheim Van De Meester",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/het_geheim_van_de_meester.json"
+  },
+  {
+    "id": "s_het_internaat",
+    "title": "Het Internaat",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/het_internaat.json"
+  },
+  {
+    "id": "s_het_menselijk_lichaam",
+    "title": "Het Menselijk Lichaam",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/het_menselijk_lichaam.json"
+  },
+  {
+    "id": "s_het_wonder_van_isenheim",
+    "title": "Het Wonder Van Isenheim",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/het_wonder_van_isenheim.json"
+  },
+  {
     "id": "s_hidden_master_taebaekho_2026",
     "title": "The Hidden Master Taebaekho",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/hidden_master_taebaekho-2026.json"
+  },
+  {
+    "id": "s_hier_en_nu_special",
+    "title": "Hier En Nu Special",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/hier_en_nu_special.json"
   },
   {
     "id": "s_high_noon",
@@ -2448,6 +2658,20 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/hockeyvaders.json"
+  },
+  {
+    "id": "s_hoe_laat_begint_het_schilderij",
+    "title": "Hoe Laat Begint Het Schilderij?",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/hoe_laat_begint_het_schilderij.json"
+  },
+  {
+    "id": "s_hoe_weeg_je_een_olifant",
+    "title": "Hoe Weeg Je Een Olifant",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/hoe_weeg_je_een_olifant.json"
   },
   {
     "id": "s_hold_a_court_now_2026",
@@ -2555,6 +2779,20 @@
     "path": "data/series/idola_cilik.json"
   },
   {
+    "id": "s_iedereen_verlicht",
+    "title": "Iedereen Verlicht",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/iedereen_verlicht.json"
+  },
+  {
+    "id": "s_iemand_zoals_jij",
+    "title": "Iemand Zoals Jij",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/iemand_zoals_jij.json"
+  },
+  {
     "id": "s_if_only_you_werent_the_one",
     "title": "if Only You Weren't the One",
     "start_year": 2026,
@@ -2581,6 +2819,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/ijabah_cinta.json"
+  },
+  {
+    "id": "s_ik_hou_van_hollands",
+    "title": "Ik hou van Hollands",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ik_hou_van_hollands.json"
   },
   {
     "id": "s_ikhlas_paling_serius",
@@ -2744,6 +2989,13 @@
     "path": "data/series/jejak_duka_diandra.json"
   },
   {
+    "id": "s_jij_ik",
+    "title": "Jij & Ik",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/jij_ik.json"
+  },
+  {
     "id": "s_jo_nesbs_detective_hole_2026",
     "title": "Jo Nesbø's Detective Hole",
     "start_year": 2026,
@@ -2763,6 +3015,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/jona_sanpo.json"
+  },
+  {
+    "id": "s_journaal_voor_de_scholen",
+    "title": "Journaal Voor De Scholen",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/journaal_voor_de_scholen.json"
   },
   {
     "id": "s_judge_returns_2026",
@@ -2828,6 +3087,13 @@
     "path": "data/series/kashin.json"
   },
   {
+    "id": "s_katholiek_nederland_tv",
+    "title": "Katholiek Nederland Tv",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/katholiek_nederland_tv.json"
+  },
+  {
     "id": "s_kaze_kaoru_2026",
     "title": "Kaze, Kaoru",
     "start_year": 2026,
@@ -2884,6 +3150,20 @@
     "path": "data/series/kogane_no_inu.json"
   },
   {
+    "id": "s_kom_over_de_brug",
+    "title": "Kom Over De Brug",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/kom_over_de_brug.json"
+  },
+  {
+    "id": "s_komt_dat_zien",
+    "title": "Komt Dat Zien",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/komt_dat_zien.json"
+  },
+  {
     "id": "s_kono_ai_wa_machigai_desu_ka_furin_no_shokuzai_2026",
     "title": "Kono Ai wa Machigai desu ka: Furin no Shokuzai",
     "start_year": 2026,
@@ -2924,6 +3204,41 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/kunimitsu_no_matsuri.json"
+  },
+  {
+    "id": "s_kunstgrepen",
+    "title": "Kunstgrepen",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/kunstgrepen.json"
+  },
+  {
+    "id": "s_kunstlicht_next",
+    "title": "Kunstlicht Next",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/kunstlicht_next.json"
+  },
+  {
+    "id": "s_kunstprogramma",
+    "title": "Kunstprogramma",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/kunstprogramma.json"
+  },
+  {
+    "id": "s_kwaliteitsmanagement",
+    "title": "Kwaliteitsmanagement",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/kwaliteitsmanagement.json"
+  },
+  {
+    "id": "s_kyin_phaw",
+    "title": "Kyin Phaw",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/kyin_phaw.json"
   },
   {
     "id": "s_la_banda_2026",
@@ -2980,6 +3295,13 @@
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/laffaire_laura_stern-2026.json"
+  },
+  {
+    "id": "s_land_inzicht",
+    "title": "Land Inzicht",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/land_inzicht.json"
   },
   {
     "id": "s_land_of_sin_2026",
@@ -3071,6 +3393,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/last_seen-2026.json"
+  },
+  {
+    "id": "s_late_nite_concert",
+    "title": "Late Nite Concert",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/late_nite_concert.json"
   },
   {
     "id": "s_laugh_and_pon",
@@ -3171,11 +3500,25 @@
     "path": "data/series/les_aventures_de_nora_gil-2026.json"
   },
   {
+    "id": "s_let_twel_phaw",
+    "title": "Let Twel Phaw",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/let_twel_phaw.json"
+  },
+  {
     "id": "s_levels",
     "title": "Levels",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/levels.json"
+  },
+  {
+    "id": "s_liedmachien",
+    "title": "Liedmachien",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/liedmachien.json"
   },
   {
     "id": "s_lieve_mama",
@@ -3204,6 +3547,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/light_to_the_night-2026.json"
+  },
+  {
+    "id": "s_linkk",
+    "title": "Linkk",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/linkk.json"
   },
   {
     "id": "s_lis_2026",
@@ -3353,11 +3703,25 @@
     "path": "data/series/lover-2026.json"
   },
   {
+    "id": "s_lovers_gangsters",
+    "title": "Lovers & Gangsters",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/lovers_gangsters.json"
+  },
+  {
     "id": "s_lovex3",
     "title": "LOVEx3",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/lovex3.json"
+  },
+  {
+    "id": "s_lowlands",
+    "title": "Lowlands",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/lowlands.json"
   },
   {
     "id": "s_ltd",
@@ -3379,6 +3743,20 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/ludwig.json"
+  },
+  {
+    "id": "s_luipaard_op_schoot",
+    "title": "Luipaard Op Schoot",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/luipaard_op_schoot.json"
+  },
+  {
+    "id": "s_ma_joe_ko_bal_lo_pyaw_ya_pa",
+    "title": "Ma Joe Ko Bal Lo Pyaw Ya Pa",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ma_joe_ko_bal_lo_pyaw_ya_pa.json"
   },
   {
     "id": "s_mad_concrete_dreams_2026",
@@ -3486,6 +3864,13 @@
     "path": "data/series/malcolm_in_the_middle_lifes_still_unfair-2026.json"
   },
   {
+    "id": "s_man_en_kunst",
+    "title": "Man En Kunst",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/man_en_kunst.json"
+  },
+  {
     "id": "s_man_on_fire_2026",
     "title": "Man on Fire",
     "start_year": 2026,
@@ -3521,6 +3906,13 @@
     "path": "data/series/margos_got_money_troubles-2026.json"
   },
   {
+    "id": "s_marketing",
+    "title": "Marketing",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/marketing.json"
+  },
+  {
     "id": "s_match_point_2026",
     "title": "Match Point",
     "start_year": 2026,
@@ -3542,11 +3934,32 @@
     "path": "data/series/matori_to_kyoken-2026.json"
   },
   {
+    "id": "s_matthaus_passion",
+    "title": "Matthäus Passion",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/matthaus_passion.json"
+  },
+  {
     "id": "s_mazhathorum_munpe",
     "title": "Mazhathorum Munpe",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/mazhathorum_munpe.json"
+  },
+  {
+    "id": "s_me_vs_u",
+    "title": "ME vs. U",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/me_vs_u.json"
+  },
+  {
+    "id": "s_medaillon",
+    "title": "Medaillon",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/medaillon.json"
   },
   {
     "id": "s_mei_no_ainikitayo",
@@ -3647,6 +4060,13 @@
     "path": "data/series/mia-2026.json"
   },
   {
+    "id": "s_mijn_vader_woont_in_rio",
+    "title": "Mijn vader woont in Rio",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/mijn_vader_woont_in_rio.json"
+  },
+  {
     "id": "s_millionfollower_detective_2026",
     "title": "Million-follower Detective",
     "start_year": 2026,
@@ -3659,6 +4079,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/miniature_wife-2026.json"
+  },
+  {
+    "id": "s_minikui_ahiru_no_ko",
+    "title": "Minikui Ahiru no Ko",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/minikui_ahiru_no_ko.json"
   },
   {
     "id": "s_miracles_of_the_er",
@@ -3885,6 +4312,13 @@
     "path": "data/series/nagy_attallah_squad.json"
   },
   {
+    "id": "s_namen_die_je_nooit_vergeet",
+    "title": "Namen Die Je Nooit Vergeet",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/namen_die_je_nooit_vergeet.json"
+  },
+  {
     "id": "s_naughty_business_2026",
     "title": "Naughty Business",
     "start_year": 2026,
@@ -3897,6 +4331,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/neagley-2026.json"
+  },
+  {
+    "id": "s_nederland_kiest",
+    "title": "Nederland Kiest",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nederland_kiest.json"
   },
   {
     "id": "s_neighbors_2026",
@@ -3925,6 +4366,20 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/new_recruit_4_sabotage-2026.json"
+  },
+  {
+    "id": "s_nieuws_uit_de_ruimte",
+    "title": "Nieuws Uit De Ruimte",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nieuws_uit_de_ruimte.json"
+  },
+  {
+    "id": "s_nieuwslicht",
+    "title": "Nieuwslicht",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nieuwslicht.json"
   },
   {
     "id": "s_night_dream_2023_thai_tv_series",
@@ -3995,6 +4450,13 @@
     "start_year": 2025,
     "end_year": null,
     "path": "data/series/nterti-2025.json"
+  },
+  {
+    "id": "s_ntr_podium",
+    "title": "Ntr Podium",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ntr_podium.json"
   },
   {
     "id": "s_nyi_roro_kidul",
@@ -4137,6 +4599,13 @@
     "path": "data/series/outrageous.json"
   },
   {
+    "id": "s_oxytoxin_tv_series",
+    "title": "Oxytoxin (TV series)",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/oxytoxin_tv_series.json"
+  },
+  {
     "id": "s_pablo_luisao",
     "title": "Pablo & Luisão",
     "start_year": 2026,
@@ -4249,6 +4718,20 @@
     "path": "data/series/physical_100_italy.json"
   },
   {
+    "id": "s_pinkpop",
+    "title": "Pinkpop",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/pinkpop.json"
+  },
+  {
+    "id": "s_pirullista_piirtoa",
+    "title": "Pirullista piirtoa",
+    "start_year": 2026,
+    "end_year": 2026,
+    "path": "data/series/pirullista_piirtoa.json"
+  },
+  {
     "id": "s_plastic_beauty_2026",
     "title": "Plastic Beauty",
     "start_year": 2026,
@@ -4317,6 +4800,13 @@
     "start_year": 2025,
     "end_year": null,
     "path": "data/series/portraits_of_delusion-2025.json"
+  },
+  {
+    "id": "s_portret_tekenen_en_schilderen",
+    "title": "Portret Tekenen En Schilderen",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/portret_tekenen_en_schilderen.json"
   },
   {
     "id": "s_positively_yours_2026",
@@ -4830,6 +5320,13 @@
     "path": "data/series/rooster-2026.json"
   },
   {
+    "id": "s_rotonde",
+    "title": "Rotonde",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/rotonde.json"
+  },
+  {
     "id": "s_ruang_waktu",
     "title": "Ruang Waktu",
     "start_year": 2026,
@@ -4877,6 +5374,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/sacred_jewel-2026.json"
+  },
+  {
+    "id": "s_saint_germain_des_pres",
+    "title": "Saint Germain Des Prés",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/saint_germain_des_pres.json"
   },
   {
     "id": "s_saint_love_survivors_2026",
@@ -5075,6 +5579,13 @@
     "path": "data/series/shards-2026.json"
   },
   {
+    "id": "s_show_van_de_maand",
+    "title": "Show Van De Maand",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/show_van_de_maand.json"
+  },
+  {
     "id": "s_sihame",
     "title": "Sihame",
     "start_year": 2026,
@@ -5257,6 +5768,13 @@
     "path": "data/series/soy_luna_lets_roll_again-2026.json"
   },
   {
+    "id": "s_speciale_berichtgeving",
+    "title": "Speciale Berichtgeving",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/speciale_berichtgeving.json"
+  },
+  {
     "id": "s_specijalisti_zagreb_2026",
     "title": "Specijalisti Zagreb",
     "start_year": 2026,
@@ -5381,6 +5899,20 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/stuart_fails_to_save_the_universe-2026.json"
+  },
+  {
+    "id": "s_studio_f",
+    "title": "Studio F",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/studio_f.json"
+  },
+  {
+    "id": "s_studiospots",
+    "title": "Studio-spots",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/studiospots.json"
   },
   {
     "id": "s_sultan_eldeeb",
@@ -5593,11 +6125,25 @@
     "path": "data/series/teilean.json"
   },
   {
+    "id": "s_tekenen_en_schilderen",
+    "title": "Tekenen En Schilderen",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/tekenen_en_schilderen.json"
+  },
+  {
     "id": "s_telejuegos",
     "title": "Telejuegos",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/telejuegos.json"
+  },
+  {
+    "id": "s_ten_slotte",
+    "title": "Ten Slotte",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ten_slotte.json"
   },
   {
     "id": "s_tendangan_si_madun_returns",
@@ -5880,6 +6426,20 @@
     "path": "data/series/trom.json"
   },
   {
+    "id": "s_tros_muziekfeest_op_het_plein",
+    "title": "Tros Muziekfeest Op Het Plein",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/tros_muziekfeest_op_het_plein.json"
+  },
+  {
+    "id": "s_tros_sport_extra",
+    "title": "Tros Sport Extra",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/tros_sport_extra.json"
+  },
+  {
     "id": "s_true_moon",
     "title": "True Moon",
     "start_year": 2026,
@@ -5934,6 +6494,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/tv_de_noche.json"
+  },
+  {
+    "id": "s_tweede_lijn",
+    "title": "Tweede Lijn",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/tweede_lijn.json"
   },
   {
     "id": "s_twenty_twenty_six_2026",
@@ -6104,6 +6671,13 @@
     "path": "data/series/uradeka.json"
   },
   {
+    "id": "s_vaarbewijs",
+    "title": "Vaarbewijs",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/vaarbewijs.json"
+  },
+  {
     "id": "s_vadhandhi_the_fable_of_velonie",
     "title": "Vadhandhi: The Fable of Velonie",
     "start_year": 2026,
@@ -6132,6 +6706,13 @@
     "path": "data/series/vanished_name-2026.json"
   },
   {
+    "id": "s_vasten",
+    "title": "Vasten",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/vasten.json"
+  },
+  {
     "id": "s_veil_of_shadows_2026",
     "title": "Veil of Shadows",
     "start_year": 2026,
@@ -6144,6 +6725,20 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/venus_project_climax.json"
+  },
+  {
+    "id": "s_ver_van_familie",
+    "title": "Ver Van Familie",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ver_van_familie.json"
+  },
+  {
+    "id": "s_veronica_film_video",
+    "title": "Veronica Film & Video",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/veronica_film_video.json"
   },
   {
     "id": "s_vidas_paralelas_2025",
@@ -6174,6 +6769,13 @@
     "path": "data/series/vienna_game-2026.json"
   },
   {
+    "id": "s_villa_des_roses",
+    "title": "Villa Des Roses",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/villa_des_roses.json"
+  },
+  {
     "id": "s_visionquest",
     "title": "VisionQuest",
     "start_year": 2026,
@@ -6186,6 +6788,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/visionquest-2026.json"
+  },
+  {
+    "id": "s_viva_classic_live",
+    "title": "Viva Classic Live",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/viva_classic_live.json"
   },
   {
     "id": "s_vladimir_2026",
@@ -6207,6 +6816,20 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/vortex.json"
+  },
+  {
+    "id": "s_vragenuur",
+    "title": "Vragenuur",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/vragenuur.json"
+  },
+  {
+    "id": "s_waardenberg_en_de_jong",
+    "title": "Waardenberg En De Jong",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/waardenberg_en_de_jong.json"
   },
   {
     "id": "s_wajah_cinta_yang_lain",
@@ -6256,6 +6879,13 @@
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/well_be_fine-2026.json"
+  },
+  {
+    "id": "s_wereldjournaal",
+    "title": "Wereldjournaal",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/wereldjournaal.json"
   },
   {
     "id": "s_westies_2026",
@@ -6340,6 +6970,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/widows_bay-2026.json"
+  },
+  {
+    "id": "s_wie_weet",
+    "title": "Wie Weet",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/wie_weet.json"
   },
   {
     "id": "s_wild_scandinavia",
@@ -6503,11 +7140,25 @@
     "path": "data/series/your_third-2026.json"
   },
   {
+    "id": "s_zaterdagavondlingo",
+    "title": "Zaterdagavondlingo",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/zaterdagavondlingo.json"
+  },
+  {
     "id": "s_zeikin_de_katta_hon_2025",
     "title": "Zeikin de Katta Hon",
     "start_year": 2025,
     "end_year": null,
     "path": "data/series/zeikin_de_katta_hon-2025.json"
+  },
+  {
+    "id": "s_zig_zag",
+    "title": "Zig Zag",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/zig_zag.json"
   },
   {
     "id": "s_zoo_2026",
