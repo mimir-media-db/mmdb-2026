@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dominion_of_darkness_rephaim_2026",
+  "title": "Dominion of Darkness: Rephaim",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141834988",
+    "imdb": "tt41272731",
+    "tmdb": 1589665
+  },
+  "last_updated": "2026-11-07",
+  "release_date": "2026-10-08",
+  "runtime_minutes": 96
+}

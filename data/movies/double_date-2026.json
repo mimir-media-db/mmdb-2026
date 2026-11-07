@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "m_double_date_2026",
+  "title": "Double Date",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141986173"
+  },
+  "last_updated": "2026-11-07"
+}
