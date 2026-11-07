@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_leducatrice_2026",
+  "title": "L'Éducatrice",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107742495",
+    "imdb": "tt0938597",
+    "tmdb": 1816733
+  },
+  "last_updated": "2026-11-07"
+}
