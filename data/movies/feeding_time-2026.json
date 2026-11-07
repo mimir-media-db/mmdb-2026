@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_feeding_time_2026",
+  "title": "Feeding Time",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141868751",
+    "imdb": "tt0228295"
+  },
+  "last_updated": "2026-11-07"
+}

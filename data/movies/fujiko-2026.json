@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fujiko_2026",
+  "title": "Fujiko",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141592478",
+    "imdb": "tt41653540",
+    "tmdb": 1454699
+  },
+  "last_updated": "2026-11-07",
+  "release_date": "2026-06-05",
+  "runtime_minutes": 95
+}
