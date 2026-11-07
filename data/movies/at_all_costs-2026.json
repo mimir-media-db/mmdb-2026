@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_at_all_costs_2026",
+  "title": "At All Costs",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107214989",
+    "imdb": "tt0112728",
+    "tmdb": 487727
+  },
+  "last_updated": "2026-11-07",
+  "runtime_minutes": 95
+}
