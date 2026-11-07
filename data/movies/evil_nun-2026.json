@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_nun_2026",
+  "title": "Evil Nun",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138390253",
+    "imdb": "tt38265135",
+    "tmdb": 1554565
+  },
+  "last_updated": "2026-11-07"
+}
