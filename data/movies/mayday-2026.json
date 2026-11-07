@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mayday_2026",
+  "title": "Mayday",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124743667",
+    "imdb": "tt28014327",
+    "tmdb": 1137844
+  },
+  "last_updated": "2026-11-07",
+  "release_date": "2026-09-04",
+  "runtime_minutes": 110
+}
