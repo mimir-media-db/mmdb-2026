@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ver_van_familie",
+  "title": "Ver Van Familie",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q656708",
+    "imdb": "tt1183703"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null
+}
