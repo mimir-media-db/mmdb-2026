@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bodyguard_of_lies_2026",
+  "title": "Bodyguard of Lies",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135967772",
+    "imdb": "tt36589896",
+    "tmdb": 1465549
+  },
+  "last_updated": "2026-11-07",
+  "runtime_minutes": 90
+}
