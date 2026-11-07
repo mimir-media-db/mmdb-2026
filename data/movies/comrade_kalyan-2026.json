@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_comrade_kalyan_2026",
+  "title": "Comrade Kalyan",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141692924",
+    "imdb": "tt32089596",
+    "tmdb": 1428295
+  },
+  "last_updated": "2026-11-07"
+}
