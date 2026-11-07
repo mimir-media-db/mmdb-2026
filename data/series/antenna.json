@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_antenna",
+  "title": "Antenna",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124485378",
+    "imdb": "tt4317044"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null
+}
