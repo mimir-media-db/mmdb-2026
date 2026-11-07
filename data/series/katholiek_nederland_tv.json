@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_katholiek_nederland_tv",
+  "title": "Katholiek Nederland Tv",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140331550"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null,
+  "total_episodes": 13
+}
