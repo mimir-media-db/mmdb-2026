@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_wie_weet",
+  "title": "Wie Weet",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140331830"
+  },
+  "last_updated": "2026-11-07",
+  "end_year": null,
+  "total_episodes": 12
+}
