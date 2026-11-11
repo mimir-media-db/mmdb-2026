@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meteor_moon_2026",
+  "title": "Meteor Moon",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108115239",
+    "imdb": "tt13179918",
+    "tmdb": 781728
+  },
+  "last_updated": "2026-11-11",
+  "runtime_minutes": 80
+}
