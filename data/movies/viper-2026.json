@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_viper_2026",
+  "title": "Viper",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142104546",
+    "imdb": "tt32083365"
+  },
+  "last_updated": "2026-11-11",
+  "release_date": "2026-01-01"
+}
