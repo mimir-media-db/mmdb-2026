@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_bateau_de_lexil_2026",
+  "title": "Le Bateau de l'exil",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86666458",
+    "imdb": "tt15755974",
+    "tmdb": 683537
+  },
+  "last_updated": "2026-11-11"
+}

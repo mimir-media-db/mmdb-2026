@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_landscape_2026",
+  "title": "Landscape",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113149928"
+  },
+  "last_updated": "2026-11-11",
+  "runtime_minutes": 6
+}
