@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunger_games_lever_de_soleil_sur_la_moisson_2026",
+  "title": "Hunger Games : Lever de soleil sur la moisson",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126390739",
+    "imdb": "tt32558705",
+    "tmdb": 1300968
+  },
+  "last_updated": "2026-11-11",
+  "release_date": "2026-11-20",
+  "runtime_minutes": 158
+}
