@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_path_to_creation",
+  "title": "Path to Creation",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104002",
+    "imdb": "tt15340160"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}
