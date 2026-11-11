@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_exakt_die_story",
+  "title": "Exakt - Die Story",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142103959",
+    "imdb": "tt6959052"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}
