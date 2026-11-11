@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_lucas",
+  "title": "The Amazing Lucas",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104005",
+    "imdb": "tt12458248"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}
