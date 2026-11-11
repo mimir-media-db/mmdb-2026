@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nayi_manzil_tv_series",
+  "title": "Nayi Manzil (TV Series)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142108450",
+    "imdb": "tt50731031"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}
