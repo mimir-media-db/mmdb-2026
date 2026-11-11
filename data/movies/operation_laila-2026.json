@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_laila_2026",
+  "title": "Operation Laila",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141859751",
+    "imdb": "tt31322237",
+    "tmdb": 1245864
+  },
+  "last_updated": "2026-11-11"
+}
