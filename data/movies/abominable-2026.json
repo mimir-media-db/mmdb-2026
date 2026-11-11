@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abominable_2026",
+  "title": "Abominable",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130357129",
+    "imdb": "tt10674930",
+    "tmdb": 682825
+  },
+  "last_updated": "2026-11-11",
+  "runtime_minutes": 72
+}
