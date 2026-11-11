@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_winter",
+  "title": "Winter",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141272701",
+    "imdb": "tt39101592",
+    "tmdb": 321532
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

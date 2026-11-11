@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_uprising",
+  "title": "Uprising",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q107803162",
+    "imdb": "tt15046042",
+    "tmdb": 129411
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

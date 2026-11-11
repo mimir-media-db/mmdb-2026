@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "m_pricemaster_2026",
+  "title": "The Pricemaster",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142100562"
+  },
+  "last_updated": "2026-11-11"
+}

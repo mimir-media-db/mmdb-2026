@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_stars_2026",
+  "title": "The Dog Stars",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132256832",
+    "imdb": "tt21285562",
+    "tmdb": 1384216
+  },
+  "last_updated": "2026-11-11",
+  "release_date": "2026-08-26",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_toys_2026",
+  "title": "Time Toys",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108022980",
+    "imdb": "tt4815862",
+    "tmdb": 446216
+  },
+  "last_updated": "2026-11-11",
+  "runtime_minutes": 87
+}

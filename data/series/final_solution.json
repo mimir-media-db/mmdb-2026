@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_final_solution",
+  "title": "The Final Solution",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141961647",
+    "imdb": "tt0233054",
+    "tmdb": 45847
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

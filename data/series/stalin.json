@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_stalin",
+  "title": "Stalin",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141961577",
+    "imdb": "tt0997316"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

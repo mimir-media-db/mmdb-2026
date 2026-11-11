@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_sahara_nest_pas_a_vendre_2026",
+  "title": "Le Sahara n'est pas à vendre",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86666524",
+    "imdb": "tt10866100",
+    "tmdb": 519271
+  },
+  "last_updated": "2026-11-11"
+}

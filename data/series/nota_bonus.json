@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nota_bonus",
+  "title": "Nota Bonus",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104001",
+    "imdb": "tt9099726"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

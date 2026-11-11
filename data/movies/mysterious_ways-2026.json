@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mysterious_ways_2026",
+  "title": "Mysterious Ways",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133892279",
+    "imdb": "tt27809187",
+    "tmdb": 1131601
+  },
+  "last_updated": "2026-11-11",
+  "runtime_minutes": 90
+}

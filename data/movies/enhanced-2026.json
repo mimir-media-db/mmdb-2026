@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_enhanced_2026",
+  "title": "Enhanced",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108101703",
+    "imdb": "tt9458062",
+    "tmdb": 637415
+  },
+  "last_updated": "2026-11-11"
+}

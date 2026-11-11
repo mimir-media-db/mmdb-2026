@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cest_ma_soeur_2026",
+  "title": "C'est ma soeur",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138371276",
+    "imdb": "tt39371326",
+    "tmdb": 1616193
+  },
+  "last_updated": "2026-11-11",
+  "release_date": "2026-02-18",
+  "runtime_minutes": 14
+}

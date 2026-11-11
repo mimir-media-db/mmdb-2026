@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_mesta_stradanja",
+  "title": "Mesta stradanja",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142103998",
+    "imdb": "tt35009538"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

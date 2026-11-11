@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kuzey_ruzgar",
+  "title": "Kuzey Rüzgarı",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q20470483",
+    "imdb": "tt1102763",
+    "tmdb": 112534
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

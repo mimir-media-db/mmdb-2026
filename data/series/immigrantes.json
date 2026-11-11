@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_immigrantes",
+  "title": "Immigrantes",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142103911",
+    "imdb": "tt13786000"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

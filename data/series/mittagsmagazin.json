@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_mittagsmagazin",
+  "title": "Mittagsmagazin",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142103984",
+    "imdb": "tt0787994"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

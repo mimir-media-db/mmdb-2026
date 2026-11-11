@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_what_you_need_to_know_today",
+  "title": "What You Need to Know Today",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104052",
+    "imdb": "tt39296450"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

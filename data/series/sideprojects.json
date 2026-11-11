@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_sideprojects",
+  "title": "Sideprojects",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104004",
+    "imdb": "tt13687264"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

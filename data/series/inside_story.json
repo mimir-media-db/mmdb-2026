@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_inside_story",
+  "title": "Inside Story",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104226",
+    "imdb": "tt1126207"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

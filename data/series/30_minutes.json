@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_30_minutes",
+  "title": "30 Minutes",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104228",
+    "imdb": "tt1015503"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

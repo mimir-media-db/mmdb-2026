@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_box",
+  "title": "The Box",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136469200",
+    "imdb": "tt38453485",
+    "tmdb": 10660
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}
