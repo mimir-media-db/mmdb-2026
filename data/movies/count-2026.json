@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_count_2026",
+  "title": "Count",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142104532",
+    "imdb": "tt42609955"
+  },
+  "last_updated": "2026-11-11",
+  "release_date": "2026-01-01"
+}
