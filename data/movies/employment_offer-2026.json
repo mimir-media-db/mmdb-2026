@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_employment_offer_2026",
+  "title": "Employment Offer",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121676010",
+    "imdb": "tt14599204",
+    "tmdb": 334722
+  },
+  "last_updated": "2026-11-11"
+}

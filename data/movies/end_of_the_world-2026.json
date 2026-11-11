@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_the_world_2026",
+  "title": "End of the World",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106840870",
+    "imdb": "tt9341628",
+    "tmdb": 573641
+  },
+  "last_updated": "2026-11-11",
+  "runtime_minutes": 90
+}
