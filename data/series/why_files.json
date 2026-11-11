@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_why_files",
+  "title": "The Why Files",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104036",
+    "imdb": "tt13733810"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

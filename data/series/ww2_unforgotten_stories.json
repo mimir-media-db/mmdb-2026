@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ww2_unforgotten_stories",
+  "title": "WW2 Unforgotten Stories",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104039",
+    "imdb": "tt37185856"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}
