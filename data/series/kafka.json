@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kafka",
+  "title": "Kafka",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124305842",
+    "imdb": "tt27195940",
+    "tmdb": 246459
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}
