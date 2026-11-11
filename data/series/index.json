@@ -56,6 +56,13 @@
     "path": "data/series/3_sempruuul_mengejar_surga_3.json"
   },
   {
+    "id": "s_30_minutes",
+    "title": "30 Minutes",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/30_minutes.json"
+  },
+  {
     "id": "s_37_2026",
     "title": "婚活バトルフィールド37",
     "start_year": 2026,
@@ -189,6 +196,13 @@
     "path": "data/series/ainhai_2023.json"
   },
   {
+    "id": "s_akcje_specjalne",
+    "title": "Akcje specjalne",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/akcje_specjalne.json"
+  },
+  {
     "id": "s_akiba_lost",
     "title": "AKIBA LOST",
     "start_year": 2026,
@@ -287,6 +301,20 @@
     "path": "data/series/alumim.json"
   },
   {
+    "id": "s_amazing_lucas",
+    "title": "The Amazing Lucas",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/amazing_lucas.json"
+  },
+  {
+    "id": "s_ambient_swim",
+    "title": "Ambient Swim",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ambient_swim.json"
+  },
+  {
     "id": "s_ambiguity_2026",
     "title": "Ambiguity",
     "start_year": 2026,
@@ -299,6 +327,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/ambulance.json"
+  },
+  {
+    "id": "s_american_dream",
+    "title": "The American Dream",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/american_dream.json"
   },
   {
     "id": "s_american_football_league_on_nbc",
@@ -427,11 +462,25 @@
     "path": "data/series/arisan.json"
   },
   {
+    "id": "s_around_town",
+    "title": "Around Town",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/around_town.json"
+  },
+  {
     "id": "s_art_of_sarah_2026",
     "title": "The Art of Sarah",
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/art_of_sarah-2026.json"
+  },
+  {
+    "id": "s_arthouse",
+    "title": "Arthouse",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/arthouse.json"
   },
   {
     "id": "s_artsen_van_de_21e_eeuw",
@@ -497,6 +546,27 @@
     "path": "data/series/atlantis_pasila-2026.json"
   },
   {
+    "id": "s_augenzeugen_berichten",
+    "title": "Augenzeugen berichten",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/augenzeugen_berichten.json"
+  },
+  {
+    "id": "s_auschwitz_des_survivants_racontent",
+    "title": "Auschwitz, des survivants racontent",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/auschwitz_des_survivants_racontent.json"
+  },
+  {
+    "id": "s_auschwitz_untold_in_color",
+    "title": "Auschwitz Untold in Color",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/auschwitz_untold_in_color.json"
+  },
+  {
     "id": "s_avro_kunstuur",
     "title": "Avro Kunstuur",
     "start_year": 2026,
@@ -509,6 +579,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/avvocato_ligas-2026.json"
+  },
+  {
+    "id": "s_awards_radar_melanie_lynskey_on_powerful_storytelling_in_the_tattooist_of_auschwitz",
+    "title": "Awards Radar: Melanie Lynskey on Powerful Storytelling in 'The Tattooist of Auschwitz'",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/awards_radar_melanie_lynskey_on_powerful_storytelling_in_the_tattooist_of_auschwitz.json"
   },
   {
     "id": "s_ayers_cliff_2026",
@@ -663,6 +740,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/best_medicine-2026.json"
+  },
+  {
+    "id": "s_beyond_the_myth_the_ss_unveiled",
+    "title": "Beyond the Myth: The SS Unveiled",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/beyond_the_myth_the_ss_unveiled.json"
   },
   {
     "id": "s_biarkan_hati_bicara",
@@ -910,6 +994,13 @@
     "path": "data/series/boroughs-2026.json"
   },
   {
+    "id": "s_box",
+    "title": "The Box",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/box.json"
+  },
+  {
     "id": "s_boy_that_never_was",
     "title": "The Boy That Never Was",
     "start_year": 2026,
@@ -1043,6 +1134,13 @@
     "path": "data/series/bytet-2025.json"
   },
   {
+    "id": "s_c_ce_soir_auschwitz_une_memoire_menacee",
+    "title": "C ce Soir: Auschwitz: Une mémoire menacée?",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/c_ce_soir_auschwitz_une_memoire_menacee.json"
+  },
+  {
     "id": "s_cabbage_your_life_2026",
     "title": "Cabbage Your Life",
     "start_year": 2026,
@@ -1097,6 +1195,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/captured_hospital.json"
+  },
+  {
+    "id": "s_caro_marziano_speciale_il_giorno_della_memoria",
+    "title": "Caro Marziano - Speciale Il Giorno della Memoria",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/caro_marziano_speciale_il_giorno_della_memoria.json"
   },
   {
     "id": "s_cash_cab",
@@ -1160,6 +1265,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/children_of_evil.json"
+  },
+  {
+    "id": "s_children_united_today",
+    "title": "Children United Today",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/children_united_today.json"
   },
   {
     "id": "s_chudodoktor_2026",
@@ -1237,6 +1349,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/collapse_how_ukrainians_destroyed_the_evil_empire.json"
+  },
+  {
+    "id": "s_collider_interviews_melanie_lynskey_says_she_is_the_audience_surrogate_in_the_tattooist_of_auschwitz",
+    "title": "Collider Interviews: Melanie Lynskey Says She Is the Audience Surrogate in The Tattooist of Auschwitz",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/collider_interviews_melanie_lynskey_says_she_is_the_audience_surrogate_in_the_tattooist_of_auschwitz.json"
   },
   {
     "id": "s_come_home_love_like_mother_like_daughter",
@@ -1363,6 +1482,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/criminal.json"
+  },
+  {
+    "id": "s_crystal_lake",
+    "title": "Crystal Lake",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/crystal_lake.json"
   },
   {
     "id": "s_crystal_lake_2026",
@@ -1827,6 +1953,13 @@
     "path": "data/series/echoes_of_asgard.json"
   },
   {
+    "id": "s_echoes_of_sobibor",
+    "title": "Echoes of Sobibor",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/echoes_of_sobibor.json"
+  },
+  {
     "id": "s_eclats_de_vie",
     "title": "Éclats de vie",
     "start_year": 2026,
@@ -1902,6 +2035,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/en_af_drengene.json"
+  },
+  {
+    "id": "s_en_que_lio_me_meti",
+    "title": "¿En qué lío me metí?",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/en_que_lio_me_meti.json"
   },
   {
     "id": "s_enemies_with_benefits_2026",
@@ -1986,6 +2126,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/every_year_after-2026.json"
+  },
+  {
+    "id": "s_exakt_die_story",
+    "title": "Exakt - Die Story",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/exakt_die_story.json"
   },
   {
     "id": "s_fabryka_zirok",
@@ -2100,6 +2247,13 @@
     "path": "data/series/final_project-2026.json"
   },
   {
+    "id": "s_final_solution",
+    "title": "The Final Solution",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/final_solution.json"
+  },
+  {
     "id": "s_finbars_class",
     "title": "Finbar's Class",
     "start_year": 2026,
@@ -2161,6 +2315,13 @@
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/from_sun_to_sun-2026.json"
+  },
+  {
+    "id": "s_frontiers_of_faith_anne_frank_the_diary_of_a_young_girl",
+    "title": "Frontiers of Faith: Anne Frank - The Diary of A Young Girl",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/frontiers_of_faith_anne_frank_the_diary_of_a_young_girl.json"
   },
   {
     "id": "s_full_monty",
@@ -2282,6 +2443,13 @@
     "path": "data/series/glass_house-2026.json"
   },
   {
+    "id": "s_glimpses_of_german_history",
+    "title": "Glimpses of German History",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/glimpses_of_german_history.json"
+  },
+  {
     "id": "s_glory_2026",
     "title": "Glory",
     "start_year": 2026,
@@ -2308,6 +2476,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/going_home.json"
+  },
+  {
+    "id": "s_going_underground",
+    "title": "Going underground",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/going_underground.json"
   },
   {
     "id": "s_gold_dinars",
@@ -2408,11 +2583,25 @@
     "path": "data/series/great_king_munmu-2026.json"
   },
   {
+    "id": "s_great_pretenders",
+    "title": "Great Pretenders",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/great_pretenders.json"
+  },
+  {
     "id": "s_great_teacher_onizuka_2026",
     "title": "Great Teacher Onizuka",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/great_teacher_onizuka-2026.json"
+  },
+  {
+    "id": "s_greatest_escapes_of_wwii",
+    "title": "Greatest Escapes of WWII",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/greatest_escapes_of_wwii.json"
   },
   {
     "id": "s_groupe_de_soutien_2026",
@@ -2525,6 +2714,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/headcases.json"
+  },
+  {
+    "id": "s_heir",
+    "title": "The Heir",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/heir.json"
   },
   {
     "id": "s_heist",
@@ -2646,11 +2842,39 @@
     "path": "data/series/his_hers-2026.json"
   },
   {
+    "id": "s_histoire_de_lantisemitisme",
+    "title": "Histoire de l'antisémitisme",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/histoire_de_lantisemitisme.json"
+  },
+  {
+    "id": "s_historys_greatest_escapes_with_morgan_freeman",
+    "title": "History's Greatest Escapes with Morgan Freeman",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/historys_greatest_escapes_with_morgan_freeman.json"
+  },
+  {
     "id": "s_hit_parade",
     "title": "The Hit Parade",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/hit_parade.json"
+  },
+  {
+    "id": "s_hitler_eine_bilanz",
+    "title": "Hitler - eine Bilanz",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/hitler_eine_bilanz.json"
+  },
+  {
+    "id": "s_hitlers_handmaidens",
+    "title": "Hitler's Handmaidens",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/hitlers_handmaidens.json"
   },
   {
     "id": "s_hockeyvaders",
@@ -2730,6 +2954,13 @@
     "path": "data/series/how_to_get_to_heaven_from_belfast-2026.json"
   },
   {
+    "id": "s_how_to_never_forget",
+    "title": "How to: Never Forget",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/how_to_never_forget.json"
+  },
+  {
     "id": "s_how_to_survive_my_ceo_2025",
     "title": "How to Survive My CEO",
     "start_year": 2025,
@@ -2756,6 +2987,13 @@
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/husband-2026.json"
+  },
+  {
+    "id": "s_i_was_a_child_in_the_holocaust",
+    "title": "I Was a Child in the Holocaust",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/i_was_a_child_in_the_holocaust.json"
   },
   {
     "id": "s_i_will_find_you",
@@ -2842,6 +3080,13 @@
     "path": "data/series/il_capo_perfetto.json"
   },
   {
+    "id": "s_immigrantes",
+    "title": "Immigrantes",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/immigrantes.json"
+  },
+  {
     "id": "s_impact",
     "title": "Impact",
     "start_year": 2026,
@@ -2912,11 +3157,25 @@
     "path": "data/series/innocents-2026.json"
   },
   {
+    "id": "s_inside_story",
+    "title": "Inside Story",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/inside_story.json"
+  },
+  {
     "id": "s_inspekce_2026",
     "title": "Inspekce",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/inspekce-2026.json"
+  },
+  {
+    "id": "s_into_the_shadows",
+    "title": "Into the Shadows",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/into_the_shadows.json"
   },
   {
     "id": "s_iq_160_2026",
@@ -3050,6 +3309,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/kaamos_suomalaisen_metallin_viisi_vuodenaikaa.json"
+  },
+  {
+    "id": "s_kafka",
+    "title": "Kafka",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/kafka.json"
   },
   {
     "id": "s_kakusei_hunter_omegahorn",
@@ -3225,6 +3491,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/kunstprogramma.json"
+  },
+  {
+    "id": "s_kuzey_ruzgar",
+    "title": "Kuzey Rüzgarı",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/kuzey_ruzgar.json"
   },
   {
     "id": "s_kwaliteitsmanagement",
@@ -3759,6 +4032,13 @@
     "path": "data/series/ma_joe_ko_bal_lo_pyaw_ya_pa.json"
   },
   {
+    "id": "s_ma_vie_dans_lallemagne_dhitler",
+    "title": "Ma vie dans l'Allemagne d'Hitler",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ma_vie_dans_lallemagne_dhitler.json"
+  },
+  {
     "id": "s_mad_concrete_dreams_2026",
     "title": "Mad Concrete Dreams",
     "start_year": 2026,
@@ -3948,6 +4228,13 @@
     "path": "data/series/mazhathorum_munpe.json"
   },
   {
+    "id": "s_mdr_aktuell_extra",
+    "title": "MDR aktuell extra",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/mdr_aktuell_extra.json"
+  },
+  {
     "id": "s_me_vs_u",
     "title": "ME vs. U",
     "start_year": 2026,
@@ -3960,6 +4247,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/medaillon.json"
+  },
+  {
+    "id": "s_media_logic",
+    "title": "Media Logic",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/media_logic.json"
   },
   {
     "id": "s_mei_no_ainikitayo",
@@ -3997,6 +4291,13 @@
     "path": "data/series/men_of_the_hotan_family.json"
   },
   {
+    "id": "s_mengele_unveiled",
+    "title": "Mengele unveiled",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/mengele_unveiled.json"
+  },
+  {
     "id": "s_mentari_di_balik_awan",
     "title": "Mentari Di Balik Awan",
     "start_year": 2026,
@@ -4009,6 +4310,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/merpeople.json"
+  },
+  {
+    "id": "s_mesta_stradanja",
+    "title": "Mesta stradanja",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/mesta_stradanja.json"
   },
   {
     "id": "s_metoda_markovic_straka_2026",
@@ -4109,6 +4417,13 @@
     "path": "data/series/misto_zlocinu_zlin-2026.json"
   },
   {
+    "id": "s_mittagsmagazin",
+    "title": "Mittagsmagazin",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/mittagsmagazin.json"
+  },
+  {
     "id": "s_mlbs_20_greatest_games",
     "title": "MLB's 20 Greatest Games",
     "start_year": 2026,
@@ -4177,6 +4492,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/mousetrap-2026.json"
+  },
+  {
+    "id": "s_movie_night_extravaganza",
+    "title": "Movie Night Extravaganza",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/movie_night_extravaganza.json"
   },
   {
     "id": "s_mr_kill_2026",
@@ -4284,6 +4606,13 @@
     "path": "data/series/my_favorite_husband.json"
   },
   {
+    "id": "s_my_obcane_protektoratu",
+    "title": "My, obcané Protektorátu",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/my_obcane_protektoratu.json"
+  },
+  {
     "id": "s_my_romance_scammer_2026",
     "title": "My Romance Scammer",
     "start_year": 2026,
@@ -4296,6 +4625,20 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/my_royal_nemesis-2026.json"
+  },
+  {
+    "id": "s_mystery_road_origin",
+    "title": "Mystery Road: Origin",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/mystery_road_origin.json"
+  },
+  {
+    "id": "s_nach_fahrplan_in_den_tod_europas_bahnen_und_der_holocaust",
+    "title": "Nach Fahrplan in den Tod - Europas Bahnen und der Holocaust",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nach_fahrplan_in_den_tod_europas_bahnen_und_der_holocaust.json"
   },
   {
     "id": "s_nacita",
@@ -4319,6 +4662,13 @@
     "path": "data/series/namen_die_je_nooit_vergeet.json"
   },
   {
+    "id": "s_nations_future",
+    "title": "The Nation's Future",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nations_future.json"
+  },
+  {
     "id": "s_naughty_business_2026",
     "title": "Naughty Business",
     "start_year": 2026,
@@ -4326,11 +4676,46 @@
     "path": "data/series/naughty_business-2026.json"
   },
   {
+    "id": "s_nayi_manzil_tv_series",
+    "title": "Nayi Manzil (TV Series)",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nayi_manzil_tv_series.json"
+  },
+  {
+    "id": "s_nazi_collaborators",
+    "title": "Nazi Collaborators",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nazi_collaborators.json"
+  },
+  {
+    "id": "s_nazijager_reise_in_die_finsternis",
+    "title": "Nazijäger - Reise in die Finsternis",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nazijager_reise_in_die_finsternis.json"
+  },
+  {
+    "id": "s_nazis_threads_of_evil",
+    "title": "Nazis: Threads of Evil",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nazis_threads_of_evil.json"
+  },
+  {
     "id": "s_neagley_2026",
     "title": "Neagley",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/neagley-2026.json"
+  },
+  {
+    "id": "s_nebraska_stories_voices_of_the_past",
+    "title": "Nebraska Stories: Voices of the Past",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nebraska_stories_voices_of_the_past.json"
   },
   {
     "id": "s_nederland_kiest",
@@ -4366,6 +4751,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/new_recruit_4_sabotage-2026.json"
+  },
+  {
+    "id": "s_newsfront",
+    "title": "Newsfront",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/newsfront.json"
   },
   {
     "id": "s_nieuws_uit_de_ruimte",
@@ -4438,6 +4830,13 @@
     "path": "data/series/nogizaka_ni_kosaremashita_akb48_iroiro_atte_tv_tokyo_kara_no_daigyakushu.json"
   },
   {
+    "id": "s_nota_bonus",
+    "title": "Nota Bonus",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nota_bonus.json"
+  },
+  {
     "id": "s_notes_from_the_last_row_2026",
     "title": "Notes from the Last Row",
     "start_year": 2026,
@@ -4464,6 +4863,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/nyi_roro_kidul.json"
+  },
+  {
+    "id": "s_nyurnbergskaya_istoriya",
+    "title": "Nyurnbergskaya istoriya",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/nyurnbergskaya_istoriya.json"
   },
   {
     "id": "s_o_novico",
@@ -4499,6 +4905,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/off_to_see_the_wizard.json"
+  },
+  {
+    "id": "s_oi_kyries_tou_rebetikou_stella_haskil",
+    "title": "Oi kyries tou rebetikou: Stella Haskil",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/oi_kyries_tou_rebetikou_stella_haskil.json"
   },
   {
     "id": "s_oi_thalasses_mas_xorisan_2025",
@@ -4550,11 +4963,25 @@
     "path": "data/series/opening_shot.json"
   },
   {
+    "id": "s_ordet_og_bomben",
+    "title": "Ordet og bomben",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ordet_og_bomben.json"
+  },
+  {
     "id": "s_ordinary_jackpot_2026",
     "title": "The Ordinary Jackpot",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/ordinary_jackpot-2026.json"
+  },
+  {
+    "id": "s_ottilie_moore_and_charlotte_salomon_in_the_nazi_era",
+    "title": "Ottilie Moore and Charlotte Salomon in the Nazi Era",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ottilie_moore_and_charlotte_salomon_in_the_nazi_era.json"
   },
   {
     "id": "s_otw_halal",
@@ -4632,6 +5059,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/parttime_wife.json"
+  },
+  {
+    "id": "s_path_to_creation",
+    "title": "Path to Creation",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/path_to_creation.json"
   },
   {
     "id": "s_payback",
@@ -5327,6 +5761,13 @@
     "path": "data/series/rotonde.json"
   },
   {
+    "id": "s_royal_television_society_youtube_channel_qa_with_jonah_hauerking_melanie_lynskey_and_the_cast_and_crew_of_the_tattooist_of_auschwitz",
+    "title": "Royal Television Society: YouTube Channel: Q&A with Jonah Hauer-King, Melanie Lynskey and the Cast and Crew of The Tattooist of Auschwitz",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/royal_television_society_youtube_channel_qa_with_jonah_hauerking_melanie_lynskey_and_the_cast_and_crew_of_the_tattooist_of_auschwitz.json"
+  },
+  {
     "id": "s_ruang_waktu",
     "title": "Ruang Waktu",
     "start_year": 2026,
@@ -5516,6 +5957,13 @@
     "path": "data/series/secrets_of_hotel_88-2026.json"
   },
   {
+    "id": "s_secrets_of_the_lost_liners",
+    "title": "Secrets of the Lost Liners",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/secrets_of_the_lost_liners.json"
+  },
+  {
     "id": "s_see_you_at_work_tomorrow_2026",
     "title": "See You at Work Tomorrow!",
     "start_year": 2026,
@@ -5586,6 +6034,13 @@
     "path": "data/series/show_van_de_maand.json"
   },
   {
+    "id": "s_sideprojects",
+    "title": "Sideprojects",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/sideprojects.json"
+  },
+  {
     "id": "s_sihame",
     "title": "Sihame",
     "start_year": 2026,
@@ -5593,11 +6048,25 @@
     "path": "data/series/sihame.json"
   },
   {
+    "id": "s_silent_tears",
+    "title": "Silent Tears",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/silent_tears.json"
+  },
+  {
     "id": "s_silent_truth_2026",
     "title": "再会〜Silent Truth〜",
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/silent_truth-2026.json"
+  },
+  {
+    "id": "s_simon_wiesenthal_a_conscience_for_our_time",
+    "title": "Simon Wiesenthal - A Conscience for Our Time",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/simon_wiesenthal_a_conscience_for_our_time.json"
   },
   {
     "id": "s_single_teacher_miss_hayako",
@@ -5831,11 +6300,25 @@
     "path": "data/series/spring_fever-2026.json"
   },
   {
+    "id": "s_srdacno_vasi",
+    "title": "Srdacno vasi",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/srdacno_vasi.json"
+  },
+  {
     "id": "s_sreemoyee",
     "title": "Sreemoyee",
     "start_year": 2026,
     "end_year": 2021,
     "path": "data/series/sreemoyee.json"
+  },
+  {
+    "id": "s_stalin",
+    "title": "Stalin",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/stalin.json"
   },
   {
     "id": "s_star_city",
@@ -6559,6 +7042,13 @@
     "path": "data/series/ultraman_teo-2026.json"
   },
   {
+    "id": "s_un_ete",
+    "title": "Un été",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/un_ete.json"
+  },
+  {
     "id": "s_un_paso_hacia_ti_2026",
     "title": "Un paso hacia ti",
     "start_year": 2026,
@@ -6662,6 +7152,13 @@
     "start_year": 2026,
     "end_year": null,
     "path": "data/series/unveiljadewind-2026.json"
+  },
+  {
+    "id": "s_uprising",
+    "title": "Uprising",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/uprising.json"
   },
   {
     "id": "s_uradeka",
@@ -6895,6 +7392,13 @@
     "path": "data/series/westies-2026.json"
   },
   {
+    "id": "s_what_you_need_to_know_today",
+    "title": "What You Need to Know Today",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/what_you_need_to_know_today.json"
+  },
+  {
     "id": "s_wheel_of_fortune_india_2026",
     "title": "Wheel of Fortune India",
     "start_year": 2026,
@@ -6958,6 +7462,13 @@
     "path": "data/series/whole_lifetime_with_jamie_demetriou.json"
   },
   {
+    "id": "s_why_files",
+    "title": "The Why Files",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/why_files.json"
+  },
+  {
     "id": "s_widows_bay",
     "title": "Widow's Bay",
     "start_year": 2026,
@@ -7005,6 +7516,13 @@
     "start_year": 2026,
     "end_year": 2006,
     "path": "data/series/wingu_la_moto.json"
+  },
+  {
+    "id": "s_winter",
+    "title": "Winter",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/winter.json"
   },
   {
     "id": "s_wishing_upon_the_shooting_stars_2026",
@@ -7070,11 +7588,25 @@
     "path": "data/series/wonderful_times-2026.json"
   },
   {
+    "id": "s_world_war_two",
+    "title": "World War Two",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/world_war_two.json"
+  },
+  {
     "id": "s_wu_2026",
     "title": "Wu",
     "start_year": 2026,
     "end_year": 2026,
     "path": "data/series/wu-2026.json"
+  },
+  {
+    "id": "s_ww2_unforgotten_stories",
+    "title": "WW2 Unforgotten Stories",
+    "start_year": 2026,
+    "end_year": null,
+    "path": "data/series/ww2_unforgotten_stories.json"
   },
   {
     "id": "s_yani_2026",
