@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_risen_2026",
+  "title": "Risen",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108105456",
+    "imdb": "tt4940336",
+    "tmdb": 850099
+  },
+  "last_updated": "2026-11-11",
+  "runtime_minutes": 109
+}
