@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mystery_road_origin",
+  "title": "Mystery Road: Origin",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q121810449",
+    "imdb": "tt16343844",
+    "tmdb": 205242
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}

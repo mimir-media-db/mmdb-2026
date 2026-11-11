@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_movie_night_extravaganza",
+  "title": "Movie Night Extravaganza",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142104021",
+    "imdb": "tt15054972"
+  },
+  "last_updated": "2026-11-11",
+  "end_year": null
+}
