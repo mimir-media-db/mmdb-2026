@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_best_friend_2026",
+  "title": "The Best Friend",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133462554",
+    "imdb": "tt11826260",
+    "tmdb": 1182088
+  },
+  "last_updated": "2026-11-11"
+}
