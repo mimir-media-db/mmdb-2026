@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_piazza_navona",
+  "title": "Piazza Navona",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q131841857",
+    "imdb": "tt0426772",
+    "tmdb": 324712
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 6
+}
