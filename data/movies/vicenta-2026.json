@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vicenta_2026",
+  "title": "Vicenta",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132397825",
+    "imdb": "tt0268018",
+    "tmdb": 542210
+  },
+  "last_updated": "2026-11-13"
+}
