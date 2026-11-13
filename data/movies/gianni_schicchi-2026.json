@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gianni_schicchi_2026",
+  "title": "Gianni Schicchi",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111847003",
+    "imdb": "tt14987236",
+    "tmdb": 921521
+  },
+  "last_updated": "2026-11-13",
+  "runtime_minutes": 71
+}
