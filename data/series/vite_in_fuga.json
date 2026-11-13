@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vite_in_fuga",
+  "title": "Vite in fuga",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q101584500",
+    "imdb": "tt13445996",
+    "tmdb": 113538
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_episodes": 12
+}
