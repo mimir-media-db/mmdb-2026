@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_rob_a_bank_2026",
+  "title": "How to Rob a Bank",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134520822",
+    "imdb": "tt35866986",
+    "tmdb": 1437511
+  },
+  "last_updated": "2026-11-13",
+  "release_date": "2026-11-12",
+  "runtime_minutes": 122
+}
