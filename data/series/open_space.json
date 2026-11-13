@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_open_space",
+  "title": "Open Space",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q7096236",
+    "imdb": "tt1589839"
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}
