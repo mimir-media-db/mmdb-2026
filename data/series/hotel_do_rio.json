@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_do_rio",
+  "title": "Hotel do Rio",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142125143",
+    "imdb": "tt13299846"
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}

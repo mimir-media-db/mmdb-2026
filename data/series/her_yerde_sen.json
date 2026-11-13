@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_her_yerde_sen",
+  "title": "Her Yerde Sen",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q73534191",
+    "imdb": "tt10319866",
+    "tmdb": 90302
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 23
+}
