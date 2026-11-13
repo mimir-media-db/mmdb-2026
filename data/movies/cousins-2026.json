@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cousins_2026",
+  "title": "Cousins",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108084983",
+    "imdb": "tt10483044",
+    "tmdb": 788335
+  },
+  "last_updated": "2026-11-13"
+}
