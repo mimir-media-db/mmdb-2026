@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_look_back_2026",
+  "title": "Look Back",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137190293",
+    "imdb": "tt39094466",
+    "tmdb": 1591675
+  },
+  "last_updated": "2026-11-13",
+  "release_date": "2026-09-06"
+}
