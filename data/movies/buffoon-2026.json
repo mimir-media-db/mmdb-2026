@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_buffoon_2026",
+  "title": "Buffoon",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114566224",
+    "imdb": "tt14391226",
+    "tmdb": 826448
+  },
+  "last_updated": "2026-11-13"
+}

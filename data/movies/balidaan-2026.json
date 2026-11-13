@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_balidaan_2026",
+  "title": "Balidaan",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47465219",
+    "imdb": "tt6566022",
+    "tmdb": 1023924
+  },
+  "last_updated": "2026-11-13"
+}
