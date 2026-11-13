@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_grande_storia",
+  "title": "La grande storia",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q3822648",
+    "imdb": "tt12885554",
+    "tmdb": 62115
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}
