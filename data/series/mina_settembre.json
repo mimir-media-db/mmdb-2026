@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mina_settembre",
+  "title": "Mina Settembre",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q105421837",
+    "imdb": "tt13870732",
+    "tmdb": 116885
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_seasons": 3,
+  "total_episodes": 36
+}
