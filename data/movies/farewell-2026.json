@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_2026",
+  "title": "Farewell",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123149648",
+    "imdb": "tt9716830",
+    "tmdb": 488042
+  },
+  "last_updated": "2026-11-13",
+  "runtime_minutes": 7
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skinny_boots_2026",
+  "title": "Skinny Boots",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139885711",
+    "imdb": "tt42863453"
+  },
+  "last_updated": "2026-11-13",
+  "release_date": "2026-05-17",
+  "runtime_minutes": 19
+}

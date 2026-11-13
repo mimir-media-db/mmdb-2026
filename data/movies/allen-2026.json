@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_allen_2026",
+  "title": "Allen",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141906382",
+    "imdb": "tt37675123",
+    "tmdb": 1518204
+  },
+  "last_updated": "2026-11-13"
+}

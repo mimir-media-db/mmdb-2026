@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_close_to_me",
+  "title": "Close to Me",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q110208331",
+    "imdb": "tt6831266",
+    "tmdb": 133302
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}

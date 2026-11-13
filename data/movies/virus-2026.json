@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_virus_2026",
+  "title": "Virus",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898026"
+  },
+  "last_updated": "2026-11-13",
+  "runtime_minutes": 80
+}

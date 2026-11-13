@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_canadas_war_in_color",
+  "title": "Canada's War in Color",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142103915",
+    "imdb": "tt0945732"
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}

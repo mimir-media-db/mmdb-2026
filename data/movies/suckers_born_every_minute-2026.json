@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suckers_born_every_minute_2026",
+  "title": "A Sucker's Born Every Minute",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137965082",
+    "imdb": "tt36120484"
+  },
+  "last_updated": "2026-11-13",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 97
+}

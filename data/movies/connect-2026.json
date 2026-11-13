@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_connect_2026",
+  "title": "Connect",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115674790",
+    "imdb": "tt16139054",
+    "tmdb": 899712
+  },
+  "last_updated": "2026-11-13"
+}

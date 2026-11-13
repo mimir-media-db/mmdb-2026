@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_count_of_monte_cristo",
+  "title": "The Count of Monte Cristo",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q123016338",
+    "imdb": "tt29547746",
+    "tmdb": 240456
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 8
+}

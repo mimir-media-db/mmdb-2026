@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_blunders_of_world_war_ii",
+  "title": "Great Blunders of World War II",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q5598785",
+    "imdb": "tt0248639",
+    "tmdb": 57637
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mosquito_bowl_2026",
+  "title": "The Mosquito Bowl",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137826900",
+    "imdb": "tt36413910",
+    "tmdb": 1458300
+  },
+  "last_updated": "2026-11-13",
+  "release_date": "2026-10-22"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_corpo_libero_serie_televisiva",
+  "title": "Corpo libero (serie televisiva)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q123271781",
+    "imdb": "tt20769002",
+    "tmdb": 213228
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_contacts",
+  "title": "Contacts",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q2995410",
+    "imdb": "tt1107269",
+    "tmdb": 100900
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}

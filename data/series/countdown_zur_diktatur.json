@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_countdown_zur_diktatur",
+  "title": "Countdown zur Diktatur",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142138591"
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}

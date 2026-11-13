@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blame_2026",
+  "title": "Blame",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130317863",
+    "imdb": "tt4539898",
+    "tmdb": 876572
+  },
+  "last_updated": "2026-11-13",
+  "runtime_minutes": 89
+}

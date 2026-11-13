@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fino_allultimo_battito",
+  "title": "Fino all'ultimo battito",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q107649290"
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 12
+}

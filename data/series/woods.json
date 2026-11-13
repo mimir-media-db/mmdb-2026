@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_woods",
+  "title": "The Woods",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141488604",
+    "imdb": "tt43678327",
+    "tmdb": 334994
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}

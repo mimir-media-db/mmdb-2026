@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shaun_the_sheep_the_beast_of_mossy_bottom_2026",
+  "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134694705",
+    "imdb": "tt36841161",
+    "tmdb": 1477104
+  },
+  "last_updated": "2026-11-13",
+  "release_date": "2026-09-24",
+  "runtime_minutes": 80
+}

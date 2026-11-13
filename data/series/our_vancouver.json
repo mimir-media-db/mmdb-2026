@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_our_vancouver",
+  "title": "Our Vancouver",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142103972",
+    "imdb": "tt10284766"
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}

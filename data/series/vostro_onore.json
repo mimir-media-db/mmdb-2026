@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vostro_onore",
+  "title": "Vostro onore",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q111034264",
+    "imdb": "tt14263172",
+    "tmdb": 158749
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_episodes": 8
+}

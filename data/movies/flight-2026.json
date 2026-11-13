@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_flight_2026",
+  "title": "The Flight",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141744884",
+    "imdb": "tt46046219"
+  },
+  "last_updated": "2026-11-13"
+}

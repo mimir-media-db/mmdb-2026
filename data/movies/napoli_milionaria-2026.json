@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_napoli_milionaria_2026",
+  "title": "Napoli milionaria!",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123909922",
+    "imdb": "tt26548280",
+    "tmdb": 1216937
+  },
+  "last_updated": "2026-11-13",
+  "runtime_minutes": 108
+}
