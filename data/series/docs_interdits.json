@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_docs_interdits",
+  "title": "Docs interdits",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q3033481",
+    "imdb": "tt4947134",
+    "tmdb": 115648
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}
