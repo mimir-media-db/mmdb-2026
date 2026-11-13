@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cold_war",
+  "title": "Cold War",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q5142405",
+    "imdb": "tt0170896",
+    "tmdb": 13505
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 24
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_conspiracy",
+  "title": "Conspiracy?",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q5163418",
+    "imdb": "tt0428099",
+    "tmdb": 35547
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}
