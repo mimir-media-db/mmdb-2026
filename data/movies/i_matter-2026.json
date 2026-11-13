@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_matter_2026",
+  "title": "I Matter",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141710273",
+    "imdb": "tt29256288",
+    "tmdb": 1736496
+  },
+  "last_updated": "2026-11-13",
+  "release_date": "2026-09-08"
+}
