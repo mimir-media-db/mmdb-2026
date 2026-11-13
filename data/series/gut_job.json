@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gut_job",
+  "title": "Gut Job",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q117039149",
+    "imdb": "tt22998468",
+    "tmdb": 206920
+  },
+  "last_updated": "2026-11-13",
+  "end_year": null
+}
