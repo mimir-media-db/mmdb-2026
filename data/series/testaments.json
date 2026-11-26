@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_testaments",
+  "title": "The Testaments",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q137357617",
+    "imdb": "tt10970762",
+    "tmdb": 287527
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 10
+}

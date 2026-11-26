@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lightfields",
+  "title": "Lightfields",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q6546282",
+    "imdb": "tt2677314",
+    "tmdb": 46941
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_episodes": 5
+}

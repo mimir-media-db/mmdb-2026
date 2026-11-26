@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_idly_kadai_2026",
+  "title": "Idly Kadai",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130341201",
+    "imdb": "tt33029024",
+    "tmdb": 1323880
+  },
+  "last_updated": "2026-11-26"
+}

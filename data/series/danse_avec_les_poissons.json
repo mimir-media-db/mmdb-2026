@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_danse_avec_les_poissons",
+  "title": "Danse avec les poissons",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q51541463",
+    "imdb": "tt2642126",
+    "tmdb": 62197
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_episodes": 5
+}

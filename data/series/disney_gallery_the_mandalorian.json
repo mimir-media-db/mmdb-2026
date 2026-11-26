@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_disney_gallery_the_mandalorian",
+  "title": "Disney Gallery: The Mandalorian",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q107297389",
+    "imdb": "tt12162902",
+    "tmdb": 101978
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_seasons": 3,
+  "total_episodes": 11
+}

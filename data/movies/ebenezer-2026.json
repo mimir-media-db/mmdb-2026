@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ebenezer_2026",
+  "title": "Ebenezer",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136650058",
+    "imdb": "tt38773219",
+    "tmdb": 1567605
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-11-12",
+  "runtime_minutes": 116
+}

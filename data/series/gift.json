@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gift",
+  "title": "Gift",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141727978",
+    "imdb": "tt47963072",
+    "tmdb": 302987
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 12
+}

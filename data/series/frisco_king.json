@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_frisco_king",
+  "title": "Frisco King",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139592499",
+    "imdb": "tt37196475",
+    "tmdb": 296244
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}

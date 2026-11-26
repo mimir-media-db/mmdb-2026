@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kung_fu_2026",
+  "title": "Kung Fu",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142281139",
+    "imdb": "tt32080771",
+    "tmdb": 1272405
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-02-13"
+}

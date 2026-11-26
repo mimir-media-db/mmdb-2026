@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_of_the_warrior_kid_2026",
+  "title": "Way of the Warrior Kid",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129814796",
+    "imdb": "tt32213169",
+    "tmdb": 1280115
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-11-25",
+  "runtime_minutes": 106
+}

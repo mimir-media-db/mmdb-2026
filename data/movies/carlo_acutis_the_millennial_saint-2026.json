@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carlo_acutis_the_millennial_saint_2026",
+  "title": "Carlo Acutis: The Millennial Saint",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142109958",
+    "imdb": "tt49639968",
+    "tmdb": 1634864
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-10-01",
+  "runtime_minutes": 84
+}

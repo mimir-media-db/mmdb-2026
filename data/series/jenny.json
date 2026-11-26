@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jenny",
+  "title": "Jenny",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q25439241",
+    "imdb": "tt0163455",
+    "tmdb": 271786
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_episodes": 3
+}

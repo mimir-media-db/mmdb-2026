@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_morgen_vor_langer_zeit_2026",
+  "title": "Morgen vor langer Zeit",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142285465",
+    "imdb": "tt43666042",
+    "tmdb": 1431129
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-11-26"
+}

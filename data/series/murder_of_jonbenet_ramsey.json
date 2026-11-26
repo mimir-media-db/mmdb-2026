@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_of_jonbenet_ramsey",
+  "title": "The Murder of JonBenét Ramsey",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q134437778",
+    "imdb": "tt31614143",
+    "tmdb": 270596
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}

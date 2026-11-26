@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_emergencias_unidad_de_vida",
+  "title": "Emergencias. Unidad de vida",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141619937",
+    "imdb": "tt42456802"
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}

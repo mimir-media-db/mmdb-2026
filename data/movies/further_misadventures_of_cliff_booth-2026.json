@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_further_misadventures_of_cliff_booth_2026",
+  "title": "The Further Mis-Adventures of Cliff Booth",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134236545",
+    "imdb": "tt36408401",
+    "tmdb": 1457866
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-11-25",
+  "runtime_minutes": 140
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robotica_2026",
+  "title": "Robotica",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142293844",
+    "imdb": "tt42003599",
+    "tmdb": 1644210
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-08-01",
+  "runtime_minutes": 3978
+}

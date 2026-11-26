@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_saturday",
+  "title": "Hello Saturday",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116248040",
+    "imdb": "tt30985733",
+    "tmdb": 154770
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}

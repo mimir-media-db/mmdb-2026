@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brunello_the_gracious_visionary_2026",
+  "title": "Brunello: The Gracious Visionary",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137357121",
+    "imdb": "tt37107071",
+    "tmdb": 1498729
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-11-26",
+  "runtime_minutes": 121
+}

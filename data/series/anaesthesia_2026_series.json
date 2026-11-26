@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_anaesthesia_2026_series",
+  "title": "Anaesthesia (2026 series)",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142267388"
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}

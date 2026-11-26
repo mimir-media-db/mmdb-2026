@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_me_2026",
+  "title": "Kill Me",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138328418",
+    "imdb": "tt30227670",
+    "tmdb": 1211598
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-03-12",
+  "runtime_minutes": 105
+}

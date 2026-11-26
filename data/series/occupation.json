@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_occupation",
+  "title": "Occupation",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q7075755",
+    "imdb": "tt1253869",
+    "tmdb": 8287
+  },
+  "last_updated": "2026-11-26",
+  "end_year": 2009,
+  "total_episodes": 3
+}

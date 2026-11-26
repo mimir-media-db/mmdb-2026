@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lisa",
+  "title": "Lisa",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q105592532",
+    "imdb": "tt13850522",
+    "tmdb": 115646
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}
