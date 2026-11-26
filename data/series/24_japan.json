@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_24_japan",
+  "title": "24 Japan",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q96464175",
+    "imdb": "tt9563806",
+    "tmdb": 110641
+  },
+  "last_updated": "2026-11-26",
+  "end_year": 2021
+}
