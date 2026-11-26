@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_who_killed_him",
+  "title": "Who Killed Him?",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q126125652",
+    "imdb": "tt32244849",
+    "tmdb": 252146
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}

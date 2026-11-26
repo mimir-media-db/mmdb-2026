@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_work_with_me",
+  "title": "Work with Me",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q17110507",
+    "imdb": "tt0210464",
+    "tmdb": 21495
+  },
+  "last_updated": "2026-11-26",
+  "end_year": 1999,
+  "total_seasons": 1,
+  "total_episodes": 10
+}
