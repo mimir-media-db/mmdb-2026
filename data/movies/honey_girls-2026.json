@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_honey_girls_2026",
+  "title": "Honey Girls",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123422309",
+    "imdb": "tt11847606",
+    "tmdb": 873633
+  },
+  "last_updated": "2026-11-26",
+  "runtime_minutes": 90
+}
