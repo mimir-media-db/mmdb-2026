@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_minimum_security",
+  "title": "Minimum Security",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q141488580",
+    "imdb": "tt44924447",
+    "tmdb": 299255
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mejores_enemigas",
+  "title": "Mejores enemigas",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142217657",
+    "imdb": "tt36776224",
+    "tmdb": 275486
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 20
+}

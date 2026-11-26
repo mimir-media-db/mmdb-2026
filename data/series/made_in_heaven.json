@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_made_in_heaven",
+  "title": "Made in Heaven",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q62059534",
+    "imdb": "tt6494622",
+    "tmdb": 87407
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 9
+}
