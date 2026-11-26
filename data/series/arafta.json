@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_arafta",
+  "title": "Arafta",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q138012917",
+    "imdb": "tt39013436",
+    "tmdb": 306118
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}
