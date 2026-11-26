@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_greek_pete_2026",
+  "title": "Greek Pete",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133894811",
+    "imdb": "tt1384774",
+    "tmdb": 44358
+  },
+  "last_updated": "2026-11-26",
+  "runtime_minutes": 75
+}
