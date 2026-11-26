@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_man_a_week_2026",
+  "title": "One Man a Week",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142154005",
+    "imdb": "tt37538207",
+    "tmdb": 1611398
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-01-08",
+  "runtime_minutes": 97
+}
