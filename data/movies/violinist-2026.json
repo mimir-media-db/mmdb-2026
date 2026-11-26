@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_violinist_2026",
+  "title": "The Violinist",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140319866",
+    "imdb": "tt30388264",
+    "tmdb": 748681
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-06-22",
+  "runtime_minutes": 95
+}
