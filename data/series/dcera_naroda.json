@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dcera_naroda",
+  "title": "Dcera národa",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q124785328",
+    "imdb": "tt30830077",
+    "tmdb": 269166
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}
