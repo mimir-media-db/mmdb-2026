@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_neighborhood_with_nicole",
+  "title": "The Neighborhood with Nicole",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q142236664",
+    "imdb": "tt10163408",
+    "tmdb": 343064
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_seasons": 4
+}

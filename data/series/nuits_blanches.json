@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nuits_blanches",
+  "title": "Nuits blanches",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q139891872",
+    "imdb": "tt50275818",
+    "tmdb": 327127
+  },
+  "last_updated": "2026-11-26",
+  "end_year": 2026
+}
