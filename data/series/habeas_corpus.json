@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_habeas_corpus",
+  "title": "Habeas Corpus",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q140668231",
+    "imdb": "tt39369819",
+    "tmdb": 308963
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 8
+}
