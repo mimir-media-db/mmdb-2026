@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kalp_ats",
+  "title": "Kalp Atışı",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q33314889",
+    "imdb": "tt7115656",
+    "tmdb": 83028
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null
+}
