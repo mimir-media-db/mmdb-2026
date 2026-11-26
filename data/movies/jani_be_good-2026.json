@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jani_be_good_2026",
+  "title": "Jani Be Good",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141620461",
+    "imdb": "tt39673642",
+    "tmdb": 1398505
+  },
+  "last_updated": "2026-11-26"
+}
