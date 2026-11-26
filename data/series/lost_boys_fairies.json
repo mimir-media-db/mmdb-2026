@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_boys_fairies",
+  "title": "Lost Boys & Fairies",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q125988993",
+    "imdb": "tt21084712",
+    "tmdb": 255117
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_episodes": 3
+}
