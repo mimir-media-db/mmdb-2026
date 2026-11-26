@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buenas_para_nada_2026",
+  "title": "Buenas para Nada",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142153243",
+    "imdb": "tt28819067",
+    "tmdb": 1578932
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-03-05",
+  "runtime_minutes": 79
+}

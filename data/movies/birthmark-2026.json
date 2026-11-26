@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_birthmark_2026",
+  "title": "Birthmark",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142292665",
+    "imdb": "tt35705895",
+    "tmdb": 1626640
+  },
+  "last_updated": "2026-11-26"
+}

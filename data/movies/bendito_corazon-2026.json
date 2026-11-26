@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bendito_corazon_2026",
+  "title": "Bendito Corazon",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142153624",
+    "imdb": "tt34937388",
+    "tmdb": 1578018
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-01-22",
+  "runtime_minutes": 86
+}
