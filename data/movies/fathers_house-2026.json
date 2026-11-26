@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fathers_house_2026",
+  "title": "Father's House",
+  "year": 2026,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q142213537",
+    "imdb": "tt46484887",
+    "tmdb": 1723637
+  },
+  "last_updated": "2026-11-26",
+  "release_date": "2026-01-01",
+  "runtime_minutes": 94
+}
