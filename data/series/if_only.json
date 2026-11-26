@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_if_only",
+  "title": "If Only",
+  "start_year": 2026,
+  "external_ids": {
+    "wikidata": "Q114182009",
+    "imdb": "tt14463608",
+    "tmdb": 123531
+  },
+  "last_updated": "2026-11-26",
+  "end_year": null,
+  "total_seasons": 1,
+  "total_episodes": 8
+}
